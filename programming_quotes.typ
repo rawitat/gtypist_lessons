@@ -460,6 +460,9 @@ S:Although my own previous enthusiasm has been for
  :capabilities whose content was well worth the sacrifice of
  :visual form.
 
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
 # ###########################################################################
 
 *:LISP_2
