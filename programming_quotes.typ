@@ -165,6 +165,21 @@ S:There are only two kinds of programming languages: those people always
 I:Brian Kernighan
 S:Controlling complexity is the essence of computer programming.
 
+I:Edsger W. Dijkstra
+S:Progress is possible only if we train ourselves to think about programs
+ :without thinking of them as pieces of executable code.
+
+I:Steve Jobs
+S:Everybody in this country should learn to program a computer, because
+ :it teaches you how to think.
+
+I:C.A.R Hoare
+S:The code is like humor: When you have to explain it, it's bad.
+
+I:Why The Lucky Stiff
+S:Programming is rather thankless. You see your works become replaced by
+ :superior ones in a year, unable to run at all in a few more.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -251,6 +266,34 @@ I:Bjarne Stroustrup
 S:There's an old story about the person who wished his computer were as easy
  :to use as his telephone. That wish has come true, since I no longer know
  :how to use my telephone.
+
+I:Douglas Crockford, "JavaScript: The Good Parts"
+S:We see a lot of feature-driven product design in which the cost of features
+ :is not properly accounted. Features can have a negative value to customers
+ :because they make the products more difficult to understand and use.
+ :
+ :We are finding that people like products that just works. It turns out that
+ :designs that just work are much harder to produce than designs that assemble
+ :long list of features.
+
+I:James Alan Gardner
+S:What kind of programmer is so divorced from reality that she thinks she'll
+ :get complex software right the first time?
+
+I:Andrew Hunt, "The Pragmatic Programmer"
+S:Don't gloss over a routine or piece of code involved in the bug because
+ :you "know" it works. Prove it. Prove it in this context, with this data,
+ :with these boundary conditions.
+
+I:Robert C. Martin
+S:Any organization that designs a system will produce a design whose structure
+ :is a copy of the organization's communication structure.
+
+I:Daniel Roy Greenfeld, Audrey Roy Greenfeld
+S:Code is read more than it is written.
+
+I:Ralph Johnson
+S:Before software can be reusable it first has to be usable.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -498,13 +541,43 @@ I:Robert Sewell
 S:If Java had true garbage collection, most programs would delete
  :themselves upon execution.
 
+I:Waldi Ravens.
+S:A C Program is like a fast dance on a newly waxed dance floor by people
+ :carrying razors.
+
+I:Ron Sercely.
+S:The evolution of languages: FORTRAN is a non-typed language. C is
+ :a weakly typed language. Ada is a strongly styped language. C++
+ :is a strongly hyped language.
+
+I:Alan Kay
+S:I invented the term 'Object-Oriented', and I can tell you I did not
+ :have C++ in mind. 
+
+I:David Jameson
+S:The latest new features in C++ are designed to fix the previously
+ :new features in C++.
+
+I:James Gosling, co-inventor of Java
+S:Java is C++ without guns, knives, and clubs.
+
+I:Brucee
+S:Java: write once, run away!
+
+I:Chris Heilmann
+S:Java is to JavaScript what car is to carpet.
+
+I:Scott Bellware
+S:Java is a DSL to transforming big XML documents into long exception
+ :stack traces.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
 # ###########################################################################
 
 *:PERL_ETC
-B:Quotes on Perl, Ruby, Python, ... , etc
+B:Perl, Ruby, Python, etc. Mostly scriptings languages.
 
 I:Keith Bostic
 S:Perl - The only language that looks that same before and after RSA encryption.
@@ -513,6 +586,29 @@ I:Jon Ribbens
 S:PHP is a minor evil perpetrated and created by incompetent amateurs, whereas
  :Perl is a great and insidious evil perpetrated by skilled but perverted
  :professionals.
+
+I:Larry Wall
+S:It is easier to port a shell than a shell script.
+
+I:Nikita Popov
+S:Ruby is rubbish! PHP is phpantastic!
+
+I:Yukihiro 'Matz' Matsumoto
+S:For me the purpose of life is partly to have joy. Programmers often feel joy
+ :when they can concentrate on the creative side of programming. So Ruby
+ :is designed to make programmers happy.
+
+I:Yukihiro 'Matz' Matsumoto
+S:I hope to see Ruby helps every programmer in the world to be productive,
+ :and to enjoy programming, and to be happy. That is the primary purpose
+ :of Ruby language.
+
+I:Yukihiro 'Matz' Matsumoto
+S:We just need the Turing machine to solve all our problems, in theory.
+ :Humans require more sophisticated tools to program. It's a matter of
+ :human need. As long as some people feel happy using Ruby, that's
+ :enough of a reason for another language.
+
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -525,6 +621,10 @@ B:OO Designs and implementation in Languages
 I:Paul Graham, "Hackers & Painters: Big Ideas from the Computer Age"
 S:Object-Oriented programming offers a sustainable way to write spaghetti code.
  :It lets you accrete programs as a series of patches.
+
+I:Alan Kay
+S:I invented the term 'Object-Oriented', and I can tell you I did not
+ :have C++ in mind.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -542,6 +642,25 @@ I:Edsger W. Dijkstra
 S:It is practically impossible to teach good programming style to students
  :that have had prior exposure to BASIC. As potential programmers, they are
  :mentally mutilated beyond hope of regeneration.
+
+I:C.A.R Hoare, for Algol 60 (then taken in C)
+S:I couldn't resist the temptation to put in a null reference, simply because
+ :it was so easy to implement. This has led to innumerable errors, vulnerabilities,
+ :and system crashes, which have probably caused a billion dollars of pain
+ :and damage in the last forty years.
+
+I:Alan J. Perlis
+S:FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms,
+ :and grows in every computer.
+
+I:Edsger W. Dijkstra
+S:FORTRAN, the infantile disorder, by now nearly 20 years old, is hopelessly
+ :inadequate for whatever computer aπplication you have in mind today:
+ :it is now too clumsy, too risky, and too expensive to use.
+
+I:Ken Thompson, co-creator of B, Unix, Go
+S:FORTRAN was the language of choice for the same reason that three-legged
+ :races are popular.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -610,6 +729,9 @@ S:First, solve the problem. Then, write the code.
 I:Larry Flon
 S:There is no programming language - no matter how structured - that will
  :prevent programmers from making bad programs.
+
+I:Richard Pattis
+S:When debugging, novices insert corrective code; experts remove defective code.
 
 I:Kent Beck
 S:Optimism is an occupational hazard of programming; feedback is the treatment.
