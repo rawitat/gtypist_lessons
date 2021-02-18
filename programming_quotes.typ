@@ -85,7 +85,7 @@ S:Don't worry about what anybody else is going to do.
 
 *:G_10
 I:Linus Torvalds
-S:Talk is cheap. Show me the code.
+S:Talk is cheap.  Show me the code.
 
 *:G_11
 I:Why The Lucky Stiff
@@ -272,154 +272,190 @@ N:MENU
 *:SW_ENG
 B:Some thoughts on Software Development and Engineering
 
+*:SW_1
 I:Grady Booch
 S:The function of good software is to make the complex appear to be simple.
 
+*:SW_2
 I:Steve McConnell
 S:Good code is its own best documentation.
 
+*:SW_3
 I:Eagleson's Law
 S:Any code of your own that you haven't looked at for six or more months
  :might as well have been written by someone else.
 
+*:SW_4
 I:Tom Cargill
 S:The first 90% of code accounts for the first 90% of the development time.
  :The remaining 10% of code accounts for the other 90% of the developemnt time.
 
+*:SW_5
 I:Francis Glassborow
 S:Good programmers use their brains, but good guidelines save us having
  :to think out every case.
 
+*:SW_6
 I:Jeff Atwood
-S:In software, we rarely have meaningful requirements. Even if we do,
+S:In software, we rarely have meaningful requirements.  Even if we do,
  :the only measure of success that matters is whether our solution solves
  :the customer's shifting idea of what their problem is.
 
+*:SW_7
 I:Bill Clinton
 S:Considering the current sad state of our computer programs, software
  :development is clearly still a black art, and cannot yet be called
  :an engineering discipline.
 
+*:SW_8
 I:Jim McCarthy
 S:You can't have great software without a great team, and most software
  :teams behave like dysfunctional families.
 
+*:SW_9
 I:Brian Kernighan
 S:Debugging is twice as hard as writing the code in the first place.
  :Therefore, if you write the code as cleverly as possible, you are
  :-- by definition -- not smart enough to debug it.
 
+*:SW_10
 I:Vidiu Platon
 S:I don't care if it works on your machine! We are not shipping your machine!
 
+*:SW_11
 I:Michael Sinz
 S:Programming is like sex: "One" mistake and you're providing support
  :for a lifetime.
 
+*:SW_12
 I:Alan J. Perlis
 S:There are two ways to write error-free programs; only the third one works.
 
+*:SW_13
 I:Bertrand Meyer
 S:You can either have software quality or you can have pointer arithmetic,
  :but you cannot have both at the same time.
 
+*:SW_14
 I:Ray Ozzie
-S:Complexity kills. It sucks the life out of developers, it makes products
+S:Complexity kills.  It sucks the life out of developers, it makes products
  :difficult to plan, build, and test, it introduces security challenges,
  :and it causes end-user and administrator frustration.
 
+*:SW_15
 I:C.A.R Hoare
-S:There are two ways of constructing a software design design. One way
- :is to make it so simple that there are obviously no deficiencies.
+S:There are two ways of constructing a software design design.
+ :One way is to make it so simple that there are obviously no deficiencies.
  :And the other way is to make it so complicated that there are no
  :obvious deficiencies.
 
+*:SW_16
 I:Mark Minasi
 S:If McDonalds were run like a software company, one out of every hundred
  :Big Macs would give you food poisoning, and the response would be,
  :'We're sorry, here's a coupon for two more.'.
 
+*:SW_17
 I:Paul Ehrlich
 S:To err is human, but to really foul things up you need a computer.
 
+*:SW_18
 I:Mitch Radcliffe
 S:A computer lets you make more mistakes faster than any invention in
  :human history - with the possible exceptions of handguns and tequila.
 
+*:SW_19
 I:Bjarne Stroustrup
 S:There's an old story about the person who wished his computer were as easy
- :to use as his telephone. That wish has come true, since I no longer know
+ :to use as his telephone.  That wish has come true, since I no longer know
  :how to use my telephone.
 
+*:SW_20
 I:Douglas Crockford, "JavaScript: The Good Parts"
 S:We see a lot of feature-driven product design in which the cost of features
- :is not properly accounted. Features can have a negative value to customers
+ :is not properly accounted.  Features can have a negative value to customers
  :because they make the products more difficult to understand and use.
  :
- :We are finding that people like products that just works. It turns out that
+ :We are finding that people like products that just works.  It turns out that
  :designs that just work are much harder to produce than designs that assemble
  :long list of features.
 
+*:SW_21
 I:James Alan Gardner
 S:What kind of programmer is so divorced from reality that she thinks she'll
  :get complex software right the first time?
 
+*:SW_22
 I:Andrew Hunt, "The Pragmatic Programmer"
 S:Don't gloss over a routine or piece of code involved in the bug because
- :you "know" it works. Prove it. Prove it in this context, with this data,
+ :you "know" it works.  Prove it.  Prove it in this context, with this data,
  :with these boundary conditions.
 
+*:SW_23
 I:Robert C. Martin
 S:Any organization that designs a system will produce a design whose structure
  :is a copy of the organization's communication structure.
 
+*:SW_24
 I:Daniel Roy Greenfeld, Audrey Roy Greenfeld
 S:Code is read more than it is written.
 
+*:SW_25
 I:Ralph Johnson
 S:Before software can be reusable it first has to be usable.
 
+*:SW_26
 I:Steve Maguire
 S:Fix the cause, not the symptom.
 
+*:SW_27
 I:Austin Freeman
 S:Simplicity is the soul of efficiency.
 
+*:SW_28
 I:Kent Beck
 S:Make it work, make it right, make it fast.
 
+*:SW_29
 I:Louis Srygley
 S:Without requirements or design, programming is the art of adding bugs
  :to an empty text file.
 
+*:SW_30
 I:Tom Van Vleck
 S:We know about as much about software quality problems as they knew about
- :the Black Plague in the 1600s. We've seen the victims' agonies and helped
- :burn the corpses. We don't know what causes it; we don't really know if
- :there is only one disease. We just suffer -- and keep pouring our sewage
+ :the Black Plague in the 1600s.  We've seen the victims' agonies and helped
+ :burn the corpses.  We don't know what causes it; we don't really know if
+ :there is only one disease.  We just suffer -- and keep pouring our sewage
  :into our water supply.
 
+*:SW_31
 I:Eric Raymond, "The Art of Unix Programming"
 S:The combination of threads, remote-procedure-call interfaces, and heavyweight
  :object-oriented design is especially dangerous... if you are ever invited
  :onto a project that is supposed to feature all three, fleeing in terror might
  :well be an appropriate reaction.
 
+*:SW_32
 I:Anonymous
 S:It is easier to change the specification to fit the program than vice versa.
 
+*:SW_33
 I:Donald E. Knuth
 S:Beware of bugs in the above code; I have only proved it correct, not tried it.
 
+*:SW_34
 I:Nathaniel Borenstein
 S:It should be noted that no ethically-trained software engineer would ever
- :consent to write a DestroyBaghdad procedure. Basic professional ethics would
+ :consent to write a DestroyBaghdad procedure.  Basic professional ethics would
  :instead require him to write a DestroyCity procedure, to which Baghdad could
  :be given as a parameter.
 
+*:SW_35
 I:Andrew Tannenbaum
 S:The nice thing about standards is that there are so many of them to choose from.
 
+*:SW_36
 I:Henry Baker
 S:Software people would never drive to the office if building engineers and
  :automotive engineers were as cavalier about buildings and autos as the
