@@ -201,13 +201,32 @@ S:Some languages are designed to solve a problem.
 I:Ken Thompson
 S:When in doubt, use brute force.
 
+I:John F. Kennedy
+S:Man is still the most extraordinary computer of all.
+
+I:B.F. Skinner
+S:The real problem is not whether machines think but whether men do.
+
+I:Jeff Scholnik
+S:Who cares how it works, just as long as it gives the right answer?
+
+I:Bill Gates
+S:The first rule of any technology used in a business is that automation
+ :applied to an efficient operation will magnify the efficiency.
+ :The second is that automation applied to an inefficiency operation will
+ :magnify the inefficiency.
+
+I:Andrew Orlowski
+S:See, no matter how clever your automation systems might be, it all falls
+ :apart if your human wetware isn't up to the job.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
 # ###########################################################################
 
 *:SW_ENG
-B:PSome thoughts on Software Development and Engineering
+B:Some thoughts on Software Development and Engineering
 
 I:Grady Booch
 S:The function of good software is to make the complex appear to be simple.
@@ -353,6 +372,14 @@ S:It should be noted that no ethically-trained software engineer would ever
  :consent to write a DestroyBaghdad procedure. Basic professional ethics would
  :instead require him to write a DestroyCity procedure, to which Baghdad could
  :be given as a parameter.
+
+I:Andrew Tannenbaum
+S:The nice thing about standards is that there are so many of them to choose from.
+
+I:Henry Baker
+S:Software people would never drive to the office if building engineers and
+ :automotive engineers were as cavalier about buildings and autos as the
+ :software "engineer" is about his software.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -684,6 +711,22 @@ I:Michael B. Feldman
 S:C++ would make a decent teaching language if we could teach the ++ part
  :without the C part.
 
+I:Larry O'Brien
+S:From a practical viewpoint, it's easy to see that C will always be with us,
+ :taking a place beside FORTRAN and COBOL as the right tool for certain jobs.
+
+I:Bertrand Meyer
+S:C++ is the only current language making COBOL look good.
+
+I:Bill Joy
+S:You can't prove anything about a program written in C or FORTRAN.
+ :It's really just Peek and Poke with some syntactic sugar.
+
+I:Philip Greenspun
+S:Any sufficiently complicated C or FORTRAN program contains an ad hoc
+ :informally-specified bug-ridden slow implementation of half of Common Lisp.
+
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -764,6 +807,16 @@ I:Anonymous
 S:The great thing about Object-Oriented code is that it can make small,
  :simple problems look like a large, complex ones.
 
+I:Lasse Petersen
+S:"Eiffel: The Programming Language" is certainly by far the most expensive piece
+ :of fiction on my bookshelf. Excellent, entertaining fiction, but it remains
+ :fiction nevertheless.
+
+I:Ed Yourdon
+S:A system composed of 100,000 lines of C++ is not be sneezed at, but we don't
+ :have that much trouble developing 100,000 lines of COBOL today. The real test
+ :of OOP will come when systems of 1 to 10 million lines of code are developed.
+
 I:phluid
 S:I won't program in Java anymore. I'm not Marxist and don't believe in classes.
 
@@ -817,6 +870,53 @@ I:Edsger W. Dijkstra
 S:In the good old days physicists repeated each other's experiments, just
  :to be sure. Today they stick to FORTRAN, so that they can share each other's
  :programs, bugs included.
+
+I:Robert Glass
+S:COBOL is a very bad language, but all the others (for business data processing)
+ :are so much worse.
+
+I:Ed Post
+S:As long as there are ill-defined goals, bizarre bugs, and unrealistic schedules,
+ :there will be Real Programmers willing to jump in and Solve The Problem,
+ :saving the documentation for later. Long live FORTRAN!
+
+I:Larry Wall
+S:I knew I'd hate COBOL the moment I saw they'd used 'perform' instead of 'do'.
+
+I:Charles Petzold
+S:COBOL has almost no fervent enthusiasts. As a programming tool, it has roughly
+ :the sex appeal of a wrench.
+
+I:Steven Feiner
+S:You can tell how far we have to go,
+ :when FORTRAN is the language of supercomputers.
+
+I:John Krueger
+S:A computer without COBOL and FORTRAN is like a piece of chocolate cake without
+ :ketchup or mustard.
+
+I:Edsger W. Dijkstra
+S:COBOL is for morons.
+
+I:Edsger W. Dijkstra
+S:With respect to COBOL you can really do only one or two things: fight the
+ :disease or pretend that it does not exist.
+
+I:Peter Gabriel
+S:The very architecture of almost every computer today is designed to optimize
+ :the performance of FORTRAN programs and its operating-system-level sister, C.
+
+I:Jargon File
+S:COBOL: (Synonymous with evil.): A weak, verbose, and flabby language used by
+ :card wallopers to do boring mindless things on dinosaur mainframes.
+
+I:Bertrand Meyer
+S:COBOL programmers are destined to code COBOL for the rest of their lives,
+ :and thereafter.
+
+I:Ed Post
+S:If you can't do it in FORTRAN, do it in assembly language. If you can't do it
+ :in assembly language, it isn't worth doing.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
