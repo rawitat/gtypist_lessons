@@ -469,103 +469,116 @@ N:MENU
 *:LISP
 B:Quotes on Lisp and dialects
 
+*:L1_1
 I:Marvin Minsky
 S:Anyone could learn Lisp in one day, except that if they
  :already knew Fortran, it would take three days.
 
+*:L1_2
 I:John Fraser
 S:Lisp is the red pill.
 
+*:L1_3
 I:Alan Kay, on Lisp
 S:The greatest single programming language ever designed.
 
+*:L1_4
 I:Douglas Hofstadter, "Godel, Escher, Bach"
 S:One of the most important and fascinating of all computer
  :languages is Lisp (standing for "List Processing"), which was
  :invented by John McCarthy around the time Algol was invented.
 
+*:L1_5
 I:John Foderaro, CACM, September 1991
 S:Lisp is a programmable programming language.
 
+*:L1_6
 I:John McCarthy, "Early History of Lisp"
 S:One can even conjecture that Lisp owes it survival
  :specifically to the fact that its programs are lists, which
  :everyone, including me, has regarded as a disadvantage.
 
+*:L1_7
 I:Alan Kay
 S:Lisp isn't a language, it's a building material.
 
+*:L1_8
 I:Philip Greenspun
 S:Greenspun's Tenth Rule of Programming: any sufficiently
  :complicated C or Fortran program contains an ad hoc
  :informally-specified bug-ridden slow implementation of
  :half of Common Lisp.
 
+*:L1_9
 I:Eric Raymond, "How to Become a Hacker"
 S:Lisp is worth learning for the profound enlightenment
  :experience you will have when you finally get it; That
  :experience will make you a better programmer for the rest
  :of your days, even if you never actually use Lisp itself a lot.
 
-I:Matz, LL2
+*:L1_10
+I:Yukihiro 'Matz' Matsumoto, LL2
 S:Some may say Ruby is a bad rip-off of Lisp or Smalltalk,
- :and I admit that. But it is nicer to ordinary people.
+ :and I admit that.  But it is nicer to ordinary people.
 
+*:L1_11
 I:Guy Steele, Java spec co-author
 S:We were not to win over the Lisp programmers;
- :we were after the C++ programmers. We managed to drag
+ :we were after the C++ programmers.  We managed to drag
  :a lot of them about halfway to Lisp.
 
+*:L1_12
 I:Edsger Dijkstra, CACM, 15:10
 S:Lisp has jokingly been called "the most intelligent way to
- :misuse a computer". I think that description is a great
+ :misuse a computer".  I think that description is a great
  :compliment because it transmits the full flavor of liberation:
  :it has assisted a number of our most gifted fellow humans
  :in thinking previously impossible thoughts.
 
+*:L1_13
 I:Martin Rodgers (first said by Chuck Moore about Forth)
 S:Lisp is a programmer amplifier.
 
+*:L1_14
 I:L. Peter Deutsch
-S:Lisp ... made me aware that software could be close to
- :executable mathematics.
+S:Lisp... made me aware that software could be close to executable mathematics.
 
+*:L1_15
 I:Winston & Horn, "Lisp"
-S:Common Lisp, a happy amalgam of the features of
- :previous Lisps.
+S:Common Lisp, a happy amalgam of the features of previous Lisps.
 
+*:L1_16
 I:Scott Fahlman
 S:Common Lisp is politics, not art.
 
+*:L1_17
 I:Eric Raymond, in "Open Sources" on MIT's first OS, ITS
-S:Lisp was far more powerful and flexible than any other
- :language of its day; in fact, it is still a better design than
- :most languages of today, twenty-five years later. Lisp freed
- :ITS's hackers to think in unusual and creative ways. It was
- :a major factor in their success, and remains one of
- :hackerdom's favorite languages.
+S:Lisp was far more powerful and flexible than any other language of its day;
+ :in fact, it is still a better design than most languages of today,
+ :twenty-five years later.  Lisp freed ITS's hackers to think in unusual
+ :and creative ways.  It was a major factor in their success, and remains
+ :one of hackerdom's favorite languages.
 
+*:L1_18
 I:Philip Greenspun
-S:SQL, Lisp, and Haskell are the only programming
- :languages that I've seen where one spends more time
- :thinking than typing.
+S:SQL, Lisp, and Haskell are the only programming languages that I've seen
+ :where one spends more time thinking than typing.
 
+*:L1_19
 I:A guy on Slashdot. What theory fits this data?
-S:I have heard more than one Lisp advocate state such
- :subjective comments as, "Lisp is the most powerful and
- :elegant programming language in the world" and expect
- :such comments to be taken as objective truth. I had never
- :heard a Java, C++, C, Perl, or Python advocate make the
- :same claim about their own language of choice.
+S:I have heard more than one Lisp advocate state such subjective comments as,
+ :"Lisp is the most powerful and elegant programming language in the world"
+ :and expect such comments to be taken as objective truth.  I had never
+ :heard a Java, C++, C, Perl, or Python advocate make the same claim about
+ :their own language of choice.
 
+*:L1_20
 I:Robert Floyd, Turing Award Lecture, 1979
-S:Although my own previous enthusiasm has been for
- :syntactically rich languages, like the Algol family, I now see
- :clearly and concretely the force of Minsky's 1970 Turing
- :Lecture, in which he argued that Lisp's uniformity of
- :structure and power of self reference gave the programmer
- :capabilities whose content was well worth the sacrifice of
- :visual form.
+S:Although my own previous enthusiasm has been for syntactically rich languages,
+ :like the Algol family, I now see clearly and concretely the force of Minsky's
+ :1970 Turing Lecture, in which he argued that Lisp's uniformity of structure
+ :and power of self reference gave the programmer capabilities whose content
+ :was well worth the sacrifice of visual form.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
