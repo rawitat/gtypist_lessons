@@ -37,59 +37,73 @@ M: "The Programming Quotes series contains the following lessons"
 *:GENERAL
 B:Programming and Code Writing in General
 
+*:G_1
 I:Abelson & Sussman, SICP, preface to the 1st edition
 S:Programs must be written for people to read, and only
  :incidentally for machines to execute.
 
+*:G_2
 I:George Boole, quoted in Iverson's Turing Award Lecture
 S:That language is an instrument of human reason, and not
  :merely a medium for the expression of thought, is a truth
  :generally admitted.
 
+*:G_3
 I:Olin Shivers
 S:I object to doing things that computers can do.
 
+*:G_4
 I:Cyril Connolly
 S:Imprisoned in every fat man a thin man is wildly signaling
  :to be let out.
 
+*:G_5
 I:Kernighan and Ritchie
 S:The only way to learn a new programming language is by
  :writing programs in it.
 
+*:G_6
 I:Dave Moon
 S:Language designers are not intellectuals. They're not as
  :interested in thinking as you might hope. They just want to
  :get a language done and start using it.
 
+*:G_7
 I:Guy Steele
 S:The continuation that obeys only obvious stack semantics,
  :O grasshopper, is not the true continuation.
 
+*:G_8
 I:Jon Bentley and Doug McIlroy
 S:The key to performance is elegance, not battalions of
  :special cases.
 
+*:G_9
 I:Alan Kay
 S:Don't worry about what anybody else is going to do.
  :The best way to predict the future is to invent it.
 
+*:G_10
 I:Linus Torvalds
 S:Talk is cheap. Show me the code.
 
+*:G_11
 I:Why The Lucky Stiff
 S:When you don't create things, you become defined by your tastes
  :rather than ability. Your tastes only narrow & exclude people.
  :So create.
 
+*:G_12
 I:John Woods
 S:Always code as if the guy who ends up maintaining your code will be
  :a violent psychopath who knows where you live.
 
+*:G_13
 I:Martin Fowler
 S:Any fool can write code that a computer can understand. Good programmers
  :write code that humans can understand.
 
+*:G_14
 I:Donald E. Knuth, "Selected Papers on Computer Science"
 S:The best programs are written so that computing machines can perform
  :them quickly and so that human beings can understand them clearly.
@@ -98,28 +112,35 @@ S:The best programs are written so that computing machines can perform
  :the way that an algorithm works and to convince a reader that the results
  :will be correct.
 
+*:G_15
 I:Kent Beck
 S:I'm not a great programmer; I'm just a good programmer with great habits.
 
+*:G_16
 I:Robert C. Martin, "Clean Code"
 S:Truth can only be found in one place: the code.
 
+*:G_17
 I:Muhammad Waseem
 S:Give a man a program, frustrate him for a day.
  :Teach a man to program, frustrate him for a lifetime.
 
+*:G_18
 I:Alan J. Perlis
 S:A language that doesn't affect the way you think about programming
  :is not worth knowing.
 
+*:G_19
 I:Edward V. Berard
 S:Walking on water and developing software from a specification
  :are easy if both are frozen.
 
+*:G_20
 I:Alan Kay
 S:The most disastrous thing that you can ever learn is your first
  :programming language.
 
+*:G_21
 I:Joseph Weizenbaum
 S:The computer programmer is a creator of universes for which
  :he alone is the lawgiver. No playwright, no stage director, no
@@ -127,10 +148,12 @@ S:The computer programmer is a creator of universes for which
  :authority to arrange a stage or field of battle and to command
  :such unswervingly dutiful actors or troops.
 
+*:G_22
 I:C.A.R Hoare
 S:The most important property of a program is whether it accomplishes
  :the intention of its user.
 
+*:G_23
 I:Marvin Minsky
 S:A computer is like a violin. You can imagine a novice trying first
  :a phonograph and then a violin. The latter, he says, sounds terrible.
@@ -139,6 +162,7 @@ S:A computer is like a violin. You can imagine a novice trying first
  :particular purposes, but they aren't flexible. Neither is a violin,
  :a typewriter, until you learn how to use it.
 
+*:G_24
 I:Robert C. Martin
 S:Remember that code is really the language in which we ultimately
  :express the requirements. We may create languages that are closer
@@ -146,76 +170,96 @@ S:Remember that code is really the language in which we ultimately
  :assemble those requirements into formal structures. But we will
  :never eliminate necessary precision - so there will always be code.
 
+*:G_25
 I:Eric Raymond
 S:Computer science education cannot make anybody an expert programmer
  :any more than studying brushes and pigment can make somebody an
  :expert painter.
 
+*:G_26
 I:L. Peter Deutsch
 S:To iterate is human, to recurse is divine.
 
+*:G_27
 I:Anonymous
 S:The best thing about a boolean is even if you are wrong, you are
  :only off by a bit.
 
+*:G_28
 I:Bjarne Stroustrup
 S:There are only two kinds of programming languages: those people always
  :bitch about and those nobody uses.
 
+*:G_29
 I:Brian Kernighan
 S:Controlling complexity is the essence of computer programming.
 
+*:G_30
 I:Edsger W. Dijkstra
 S:Progress is possible only if we train ourselves to think about programs
  :without thinking of them as pieces of executable code.
 
+*:G_31
 I:Steve Jobs
 S:Everybody in this country should learn to program a computer, because
  :it teaches you how to think.
 
+*:G_32
 I:C.A.R Hoare
 S:The code is like humor: When you have to explain it, it's bad.
 
+*:G_33
 I:Why The Lucky Stiff
 S:Programming is rather thankless. You see your works become replaced by
  :superior ones in a year, unable to run at all in a few more.
 
+*:G_34
 I:Alan J. Perlis
 S:When someone say: "I want a programming language in which I need only say
  :what I wish done", give him a lollipop.
 
+*:G_35
 I:Alan J. Perlis
 S:A programming language is low-level when its programs require attention
  :to the irrelevant.
 
+*:G_36
 I:Kernighan & Plauger, "The Elements of Programming Style"
 S:Trying to outsmart a compiler defeats much of the purpose of using one.
 
+*:G_37
 I:Henry Spencer
 S:If you lie to the compiler, it will have its revenge.
 
+*:G_38
 I:Bell Labs saying
 S:Some languages are designed to solve a problem.
  :Others are designed to prove a point.
 
+*:G_39
 I:Ken Thompson
 S:When in doubt, use brute force.
 
+*:G_40
 I:John F. Kennedy
 S:Man is still the most extraordinary computer of all.
 
+*:G_41
 I:B.F. Skinner
 S:The real problem is not whether machines think but whether men do.
 
+*:G_42
 I:Jeff Scholnik
 S:Who cares how it works, just as long as it gives the right answer?
 
+*:G_43
 I:Bill Gates
 S:The first rule of any technology used in a business is that automation
  :applied to an efficient operation will magnify the efficiency.
  :The second is that automation applied to an inefficiency operation will
  :magnify the inefficiency.
 
+*:G_44
 I:Andrew Orlowski
 S:See, no matter how clever your automation systems might be, it all falls
  :apart if your human wetware isn't up to the job.
