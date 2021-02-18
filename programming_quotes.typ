@@ -14,7 +14,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# This lesson was written by Daniel Long Sockwell
+# This lesson was written by Dave Rawitat Pulam
 
 
 # The main menu
