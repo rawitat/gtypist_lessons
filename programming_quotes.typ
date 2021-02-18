@@ -180,6 +180,27 @@ I:Why The Lucky Stiff
 S:Programming is rather thankless. You see your works become replaced by
  :superior ones in a year, unable to run at all in a few more.
 
+I:Alan J. Perlis
+S:When someone say: "I want a programming language in which I need only say
+ :what I wish done", give him a lollipop.
+
+I:Alan J. Perlis
+S:A programming language is low-level when its programs require attention
+ :to the irrelevant.
+
+I:Kernighan & Plauger, "The Elements of Programming Style"
+S:Trying to outsmart a compiler defeats much of the purpose of using one.
+
+I:Henry Spencer
+S:If you lie to the compiler, it will have its revenge.
+
+I:Bell Labs saying
+S:Some languages are designed to solve a problem.
+ :Others are designed to prove a point.
+
+I:Ken Thompson
+S:When in doubt, use brute force.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -294,6 +315,44 @@ S:Code is read more than it is written.
 
 I:Ralph Johnson
 S:Before software can be reusable it first has to be usable.
+
+I:Steve Maguire
+S:Fix the cause, not the symptom.
+
+I:Austin Freeman
+S:Simplicity is the soul of efficiency.
+
+I:Kent Beck
+S:Make it work, make it right, make it fast.
+
+I:Louis Srygley
+S:Without requirements or design, programming is the art of adding bugs
+ :to an empty text file.
+
+I:Tom Van Vleck
+S:We know about as much about software quality problems as they knew about
+ :the Black Plague in the 1600s. We've seen the victims' agonies and helped
+ :burn the corpses. We don't know what causes it; we don't really know if
+ :there is only one disease. We just suffer -- and keep pouring our sewage
+ :into our water supply.
+
+I:Eric Raymond, "The Art of Unix Programming"
+S:The combination of threads, remote-procedure-call interfaces, and heavyweight
+ :object-oriented design is especially dangerous... if you are ever invited
+ :onto a project that is supposed to feature all three, fleeing in terror might
+ :well be an appropriate reaction.
+
+I:Anonymous
+S:It is easier to change the specification to fit the program than vice versa.
+
+I:Donald E. Knuth
+S:Beware of bugs in the above code; I have only proved it correct, not tried it.
+
+I:Nathaniel Borenstein
+S:It should be noted that no ethically-trained software engineer would ever
+ :consent to write a DestroyBaghdad procedure. Basic professional ethics would
+ :instead require him to write a DestroyCity procedure, to which Baghdad could
+ :be given as a parameter.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -571,6 +630,57 @@ I:Scott Bellware
 S:Java is a DSL to transforming big XML documents into long exception
  :stack traces.
 
+I:Anonymous
+S:I have yet to meet a C compiler that is more friendly and easier to use
+ :than eating soup with a knife.
+
+I:Ray Simard
+S:C /n./: A programming language that is sort of like Pascal except more like
+ :assembly except that it isn't very much like either one, or anything else.
+ :It is either the best language available to the art today, or it isn't.
+
+I:Blair P. Houghton
+S:In My Egotistical Opinion, most people's C programs should be indented
+ :six feet downward and covered with dirt.
+
+I:J.P. Candusso
+S:Going from programming Pascal to programming in C, is like learning
+ :to write in Morse code.
+
+I:Shakespeare
+S:#define QUESTION ((bb) || !(bb))
+
+I:Kernighan
+S:C is not a high-level language.
+
+I:Elon Musk
+S:I like C, because it avoids class warfare.
+
+I:Dennis M. Ritchie
+S:C is quirky, flawed, and an enormous success.
+
+I:Linus Torvalds
+S:C++ is a horrible language. It's made more horrible by the fact that a lot of
+ :substandard programmers use it, to the point where it's much much easier to
+ :generate total and utter crap with it. Quite frankly, even if the choice of C
+ :were to do *nothing* but keep the C++ programmers out, that in itself would
+ :be a huge reason to use C.
+
+I:Scott Meyers on friends functions in C++
+S:Friends, much as in real life, are often more trouble than their worth.
+
+I:James Hague
+S:PL/I and Ada started out with all the bloat, were very daunting languages,
+ :and got bad reputations (deservedly). C++ has shown that if you slowly bloat
+ :up a language over a period of years, people don't seem to mind as much.
+
+I:Stefan Van Baelen
+S:C(++) is a write-only, high-level assembler language.
+
+I:Michael B. Feldman
+S:C++ would make a decent teaching language if we could teach the ++ part
+ :without the C part.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -609,6 +719,18 @@ S:We just need the Turing machine to solve all our problems, in theory.
  :human need. As long as some people feel happy using Ruby, that's
  :enough of a reason for another language.
 
+I:Anonymous
+S:It you put 100 million monkeys to hammer away at keyboards for 100 million
+ :years, one of them will write a C program. The rest will write Perl.
+
+I:Anonymous
+S:If Python is executable pseudocode, then Perl is executable line noise.
+
+I:Rasmus Lerdorf
+S:I'm not a real programmer. I throw together things until it works then
+ :I move on. The real programmers will say: "yeah it works but you're leaking
+ :memory everywhere. Perhaps we should fix that". I'll just restart Apache
+ :every 10 requests.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -625,6 +747,22 @@ S:Object-Oriented programming offers a sustainable way to write spaghetti code.
 I:Alan Kay
 S:I invented the term 'Object-Oriented', and I can tell you I did not
  :have C++ in mind.
+
+I:Roberto Waltman
+S:In the one and only true way. The object-oriented version of 'Spaghetti code',
+ :is, of course, 'Lasagna code'. (Too many layers).
+
+I:Joe Armstrong, inventor of Erlang
+S:The problem with object-oriented languages is that they've got all this implicit
+ :environment that they carry around with them. You wanted a banana but what you've
+ :got is a gorilla holding the banana and the entire jungle.
+
+I:Anonymous
+S:The great thing about Object-Oriented code is that it can make small,
+ :simple problems look like a large, complex ones.
+
+I:phluid
+S:I won't program in Java anymore. I'm not Marxist and don't believe in classes.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -661,6 +799,21 @@ S:FORTRAN, the infantile disorder, by now nearly 20 years old, is hopelessly
 I:Ken Thompson, co-creator of B, Unix, Go
 S:FORTRAN was the language of choice for the same reason that three-legged
  :races are popular.
+
+I:Anonymous
+S:COBOL: Completely Obsolete Business Orientated Language.
+
+I:Anonymous
+S:Erroneous COBOL programs were often referred to as 'pregnant programs'
+ :because the issue was usually due to missed periods.
+
+I:Anonymous
+S:COBOL programmers understand why women hate periods.
+
+I:Edsger W. Dijkstra
+S:In the good old days physicists repeated each other's experiments, just
+ :to be sure. Today they stick to FORTRAN, so that they can share each other's
+ :programs, bugs included.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -735,6 +888,53 @@ S:When debugging, novices insert corrective code; experts remove defective code.
 
 I:Kent Beck
 S:Optimism is an occupational hazard of programming; feedback is the treatment.
+
+I:Oktal
+S:I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.
+
+I:Jessica Gaston
+S:One man's crappy software is another man's full-time job.
+
+I:Anonymous
+S:It's not a bug -- it's an undocumented feature.
+
+I:Doug Linder
+S:A good programmer is someone who always looks both ways before crossing
+ :one-way street.
+
+I:Anonymous
+S:Why do programmers prefer dark mode?
+ :Cause light attracts bugs.
+
+I:Jerry Ogdin
+S:A debugged program is one for which you have not yet found the conditions
+ :that make it fail.
+
+I:Anonymous
+S:Debugging is being a detective in a crime story where you are also the murderer.
+
+I:Anonymous
+S:99 little bugs in the code.
+ :99 little bugs in the code.
+ :Take one down, patch it around.
+ :127 little bugs in the code...
+
+I:Bill Pfeifer
+S:If it works, leave it alone -- there's no need to understand it.
+ :It it fails, try to fix it -- there's no time to understand it.
+
+I:Christopher Thompson
+S:Sometimes it pays to stay in bed on Monday, rather than spending the rest
+ :of the week debugging Monday's code.
+
+I:Anonymous
+S:My software never has bugs. It just develops random features.
+
+I:Anonymous
+S:The only difference between a bug and a feature is the documentation.
+
+I:Anonymous
+S:Assumption is the mother of all fuckups.
 
 # for the last lesson, no question asked, just goto menu
 G:MENU
