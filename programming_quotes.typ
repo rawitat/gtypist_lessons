@@ -64,8 +64,8 @@ S:The only way to learn a new programming language is by
 
 *:G_6
 I:Dave Moon
-S:Language designers are not intellectuals. They're not as
- :interested in thinking as you might hope. They just want to
+S:Language designers are not intellectuals.  They're not as
+ :interested in thinking as you might hope.  They just want to
  :get a language done and start using it.
 
 *:G_7
@@ -90,7 +90,7 @@ S:Talk is cheap. Show me the code.
 *:G_11
 I:Why The Lucky Stiff
 S:When you don't create things, you become defined by your tastes
- :rather than ability. Your tastes only narrow & exclude people.
+ :rather than ability.  Your tastes only narrow & exclude people.
  :So create.
 
 *:G_12
@@ -100,7 +100,7 @@ S:Always code as if the guy who ends up maintaining your code will be
 
 *:G_13
 I:Martin Fowler
-S:Any fool can write code that a computer can understand. Good programmers
+S:Any fool can write code that a computer can understand.  Good programmers
  :write code that humans can understand.
 
 *:G_14
@@ -143,7 +143,7 @@ S:The most disastrous thing that you can ever learn is your first
 *:G_21
 I:Joseph Weizenbaum
 S:The computer programmer is a creator of universes for which
- :he alone is the lawgiver. No playwright, no stage director, no
+ :he alone is the lawgiver.  No playwright, no stage director, no
  :emperor, however powerful, has ever exercised such absolute
  :authority to arrange a stage or field of battle and to command
  :such unswervingly dutiful actors or troops.
@@ -155,19 +155,19 @@ S:The most important property of a program is whether it accomplishes
 
 *:G_23
 I:Marvin Minsky
-S:A computer is like a violin. You can imagine a novice trying first
- :a phonograph and then a violin. The latter, he says, sounds terrible.
+S:A computer is like a violin.  You can imagine a novice trying first
+ :a phonograph and then a violin.  The latter, he says, sounds terrible.
  :That is the argument we have heard from our humanists and most of our
- :computer scientists. Computer programs are good, they say, for
- :particular purposes, but they aren't flexible. Neither is a violin,
+ :computer scientists.  Computer programs are good, they say, for
+ :particular purposes, but they aren't flexible.  Neither is a violin,
  :a typewriter, until you learn how to use it.
 
 *:G_24
 I:Robert C. Martin
 S:Remember that code is really the language in which we ultimately
- :express the requirements. We may create languages that are closer
- :to the requirements. We may create tools that help us parse and
- :assemble those requirements into formal structures. But we will
+ :express the requirements.  We may create languages that are closer
+ :to the requirements.  We may create tools that help us parse and
+ :assemble those requirements into formal structures.  But we will
  :never eliminate necessary precision - so there will always be code.
 
 *:G_25
@@ -210,7 +210,7 @@ S:The code is like humor: When you have to explain it, it's bad.
 
 *:G_33
 I:Why The Lucky Stiff
-S:Programming is rather thankless. You see your works become replaced by
+S:Programming is rather thankless.  You see your works become replaced by
  :superior ones in a year, unable to run at all in a few more.
 
 *:G_34
