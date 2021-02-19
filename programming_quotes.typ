@@ -265,6 +265,16 @@ I:Andrew Orlowski
 S:See, no matter how clever your automation systems might be, it all falls
  :apart if your human wetware isn't up to the job.
 
+*:G_45
+I:John Backus
+S:I think conventional languages are for the birds.  They're just extensions of
+ :the von Neumann computer, and they keep our noses in the dirt of dealing with
+ :individual words and computing addresses, and doing all kinds of silly things
+ :like that, things that we've picked up from programming for computers; we've
+ :built them into programming languages; we've built them into Fortran; we've
+ :built them into PL/1; we've built them into almost every language.
+
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -879,12 +889,45 @@ N:MENU
 B:C and its family (C++, Obj-C, C#, Java), continued
 
 *:C2_1
+I:Tel Hudson
+S:Using Java for serios jobs is like trying to take the skin off a rice pudding
+ :wearing boxing groves.
+
+*:C2_2
+I:Bill Gates
+S:Anybody who thinks a little 9,000-line program [ Java ] that's distributed
+ :free and can be cloned by anyone is going to affect anything we do at
+ :Microsoft has his head screwed on wrong.
+
+*:C2_3
+I:Scott McNealy
+S:Take a cup of coffee and add three drops of poison and what have you got?
+ :Microsoft J++.
+
+*:C2_4
+I:Paul Graham
+S:Of all the programmers I can think of, I know only one who would voluntarily
+ :program in Java.  And of all the great programmers I can think of who don't
+ :work for Sun, on Java, I know of zero.
+
+*:C2_5
+I:Charles Simonyi
+S:Thirty years from now nobody will remember Java and everyone will remember
+ :Microsoft.
+
+*:C2_6
+I:Alan Kay
+S:Java is the most distressing thing to happen to computing since MS-DOS.
+
+*:C2_7
+I:James Gosling
+S:Your development cycle is much faster because Java is interpreted.
+ :The compile-link-load-test-crash-debug cycle is obsolete.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
 # ###########################################################################
-
 
 *:DY_SCRIPT
 B:Perl, Ruby, Python, etc. Mostly scriptings languages.
@@ -942,6 +985,11 @@ S:I'm not a real programmer.  I throw together things until it works then
  :memory everywhere.  Perhaps we should fix that".  I'll just restart Apache
  :every 10 requests.
 
+*:SCRIPT_11
+I:Teodor Zlatanov
+S:If you want to shoot yourself in the foot, Perl give you ten bullets and
+ :a laser scope, then stand by and cheer you on.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -997,6 +1045,10 @@ I:Bill Joy
 S:I fear that new object-oriented systems may suffer the fat of Lisp, in that
  :they can do many things, but the complexity of the class hierarchies may
  :cause them to collapse under their own weight.
+
+*:OOP_10
+I:Alan Kay
+S:Java is the most distressing thing to happen to computing since MS-DOS.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1119,13 +1171,9 @@ S:If you can't do it in FORTRAN, do it in assembly language.  If you can't do it
  :in assembly language, it isn't worth doing.
 
 *:LEGACY_23
-I:John Backus
-S:I think conventional languages are for the birds.  They're just extensions of
- :the von Neumann computer, and they keep our noses in the dirt of dealing with
- :individual words and computing addresses, and doing all kinds of silly things
- :like that, things that we've picked up from programming for computers; we've
- :built them into programming languages; we've built them into Fortran; we've
- :built them into PL/1; we've built them into almost every language.
+I:Edsger W. Dijkstra
+S:Using PL/I must be like flying a plane with 7,000 buttons, switches, and
+ :handles to manipulate in the cockpit.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
