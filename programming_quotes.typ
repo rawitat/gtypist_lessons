@@ -21,15 +21,16 @@
 *:MENU
 B:The Programming and Programming Languages Quotes Course
 M: "The Programming Quotes series contains the following lessons"
- :GENERAL   "General                  Programming and Code Writing in General"
- :SW_ENG    "Software Engineering     Some thoughts on Software Dev/Eng"
- :LISP      "Lisp                     Lisp and dialects"
- :LISP_2    "Lisp #2                  Lisp and dialects, continued"
- :C_FAMILY  "C, C++, Java, C#         C and its family (C++, Obj-C, C#, Java)"
- :DY_SCRIPT "Dynamic Scripting        Perl, Ruby, Python, etc."
- :OOP       "Object-Oriented          OO Designs and implementation in Languages"
- :LEGACY    "Older, Legacy Languages  COBOL, Fortran, etc"
- :FUNNY     "Facts & Funny            Facts & Funny about Programmers"
+ :GENERAL     "General                  Programming and Code Writing in General"
+ :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
+ :LISP        "Lisp                     Lisp and dialects"
+ :LISP_2      "Lisp #2                  Lisp and dialects, continued"
+ :C_FAMILY    "C, C++, Java, C#         C and its family (C++, Obj-C, C#, Java)"
+ :C_FAMILY_2  "C, C++, Java, C#  #2     C and its family, continued"
+ :DY_SCRIPT   "Dynamic Scripting        Perl, Ruby, Python, etc."
+ :OOP         "Object-Oriented          OO Designs and implementation in Languages"
+ :LEGACY      "Older, Legacy Languages  COBOL, Fortran, etc"
+ :FUNNY       "Facts & Funny            Facts & Funny about Programmers"
 
 
 # ###########################################################################
@@ -874,6 +875,17 @@ N:MENU
 
 # ###########################################################################
 
+*:C_FAMILY_2
+B:C and its family (C++, Obj-C, C#, Java), continued
+
+*:C2_1
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+
 *:DY_SCRIPT
 B:Perl, Ruby, Python, etc. Mostly scriptings languages.
 
@@ -979,6 +991,12 @@ S:A system composed of 100,000 lines of C++ is not be sneezed at, but we don't
 *:OOP_8
 I:phluid
 S:I won't program in Java anymore.  I'm not Marxist and don't believe in classes.
+
+*:OOP_9
+I:Bill Joy
+S:I fear that new object-oriented systems may suffer the fat of Lisp, in that
+ :they can do many things, but the complexity of the class hierarchies may
+ :cause them to collapse under their own weight.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1099,6 +1117,15 @@ S:COBOL programmers are destined to code COBOL for the rest of their lives,
 I:Ed Post
 S:If you can't do it in FORTRAN, do it in assembly language.  If you can't do it
  :in assembly language, it isn't worth doing.
+
+*:LEGACY_23
+I:John Backus
+S:I think conventional languages are for the birds.  They're just extensions of
+ :the von Neumann computer, and they keep our noses in the dirt of dealing with
+ :individual words and computing addresses, and doing all kinds of silly things
+ :like that, things that we've picked up from programming for computers; we've
+ :built them into programming languages; we've built them into Fortran; we've
+ :built them into PL/1; we've built them into almost every language.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
