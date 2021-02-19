@@ -1108,116 +1108,146 @@ N:MENU
 *:FUNNY
 B:Funny but True about Programmers
 
+*:FUNNY_1
 I:Rick Cook, The Wizardry Compiled
-S:Programming today is a race between software engineers striving to
- :build bigger and better idiot-proof programs, and the Universe trying
- :to produce bigger and better idiots. So far, the Universe is winning.
+S:Programming today is a race between software engineers striving to build
+ :bigger and better idiot-proof programs, and the Universe trying to produce
+ :bigger and better idiots.  So far, the Universe is winning.
 
+*:FUNNY_2
 I:Larry Wall
 S:Most of you are familiar with the virtues of a programmer.
  :There are three, of course: laziness, impatience, and hubris.
 
+*:FUNNY_3
 I:Seymour Cray
-S:The trouble with programmers is that you can never tell what
- :a programmer is doing until it's too late.
+S:The trouble with programmers is that you can never tell what a programmer
+ :is doing until it's too late.
 
+*:FUNNY_4
 I:Larry Niven
 S:That's the thing about people who think they hate computers.
  :What they really hate is lousy programmers.
 
+*:FUNNY_5
 I:Bill Bryson
 S:For a long time it puzzled me how something so expensive, so leading edge,
- :could be so useless. And then it occurred to me that a computer is a stupid
+ :could be so useless.  And then it occurred to me that a computer is a stupid
  :machine with the ability to do incredibly smart things, while computer
  :programmers are smart people with ability to do incredibly stupid things.
  :They are, in short, a perfect match.
 
+*:FUNNY_6
 I:Peter Seebach
 S:A hacker on a roll may be able to produce - in a period of a few months -
  :something that a small development group (say 7-8 people) would have a hard
- :time getting together over a year. IBM used to report that certain
+ :time getting together over a year.  IBM used to report that certain
  :programmers might be as much as 100 times as productive as other workers,
  :or more.
 
+*:FUNNY_7
 I:Randall E. Stross
 S:The best programmers are not marginally better than merely good ones.
  :They are an order-of-magnitude better, measured by whatever standard:
  :conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 
+*:FUNNY_8
 I:Bill Gates
-S:A great lathe operator commands several times the wage of an average
- :lathe operator, but a great writer of software code is worth 10,000 times
- :the price of an average software writer.
+S:A great lathe operator commands several times the wage of an average lathe
+ :operator, but a great writer of software code is worth 10,000 times the price
+ :of an average software writer.
 
+*:FUNNY_9
 I:Mosher's Law of Software Engineering
-S:Don't worry if it doesn't work right. If everything did, you'd be
- :out of a job.
+S:Don't worry if it doesn't work right.
+ :If everything did, you'd be out of a job.
 
+*:FUNNY_10
 I:Bill Gates
 S:Measuring programming progress by lines of code is like measuring aircraft
  :building progress by weight.
 
+*:FUNNY_11
 I:George Carrette
-S:First learn computer science and all the theory. Next develop a programming
- :style. Then forget all that and just hack.
+S:First learn computer science and all the theory.
+ :Next develop a programming style.
+ :Then forget all that and just hack.
 
+*:FUNNY_12
 I:John Johnson
-S:First, solve the problem. Then, write the code.
+S:First, solve the problem.  Then, write the code.
 
+*:FUNNY_13
 I:Larry Flon
 S:There is no programming language - no matter how structured - that will
  :prevent programmers from making bad programs.
 
+*:FUNNY_14
 I:Richard Pattis
 S:When debugging, novices insert corrective code; experts remove defective code.
 
+*:FUNNY_15
 I:Kent Beck
 S:Optimism is an occupational hazard of programming; feedback is the treatment.
 
+*:FUNNY_16
 I:Oktal
 S:I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.
 
+*:FUNNY_17
 I:Jessica Gaston
 S:One man's crappy software is another man's full-time job.
 
+*:FUNNY_18
 I:Anonymous
 S:It's not a bug -- it's an undocumented feature.
 
+*:FUNNY_19
 I:Doug Linder
 S:A good programmer is someone who always looks both ways before crossing
  :one-way street.
 
+*:FUNNY_20
 I:Anonymous
 S:Why do programmers prefer dark mode?
  :Cause light attracts bugs.
 
+*:FUNNY_21
 I:Jerry Ogdin
 S:A debugged program is one for which you have not yet found the conditions
  :that make it fail.
 
+*:FUNNY_22
 I:Anonymous
-S:Debugging is being a detective in a crime story where you are also the murderer.
+S:Debugging is being a detective in a crime story
+ :where you are also the murderer.
 
+*:FUNNY_23
 I:Anonymous
 S:99 little bugs in the code.
  :99 little bugs in the code.
  :Take one down, patch it around.
  :127 little bugs in the code...
 
+*:FUNNY_24
 I:Bill Pfeifer
 S:If it works, leave it alone -- there's no need to understand it.
  :It it fails, try to fix it -- there's no time to understand it.
 
+*:FUNNY_25
 I:Christopher Thompson
 S:Sometimes it pays to stay in bed on Monday, rather than spending the rest
  :of the week debugging Monday's code.
 
+*:FUNNY_26
 I:Anonymous
-S:My software never has bugs. It just develops random features.
+S:My software never has bugs.  It just develops random features.
 
+*:FUNNY_27
 I:Anonymous
 S:The only difference between a bug and a feature is the documentation.
 
+*:FUNNY_28
 I:Anonymous
 S:Assumption is the mother of all fuckups.
 
