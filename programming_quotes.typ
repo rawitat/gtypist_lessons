@@ -26,7 +26,7 @@ M: "The Programming Quotes series contains the following lessons"
  :LISP      "Lisp                     Lisp and dialects"
  :LISP_2    "Lisp #2                  Lisp and dialects, continued"
  :C_FAMILY  "C, C++, Java, C#         C and its family (C++, Obj-C, C#, Java)"
- :PERL_ETC  "Perl, Ruby, Python etc   Perl, Ruby, Python, etc. Mostly scriptings"
+ :DY_SCRIPT "Dynamic Scripting        Perl, Ruby, Python, etc."
  :OOP       "Object-Oriented          OO Designs and implementation in Languages"
  :LEGACY    "Older, Legacy Languages  COBOL, Fortran, etc"
  :FUNNY     "Facts & Funny            Facts & Funny about Programmers"
@@ -874,56 +874,56 @@ N:MENU
 
 # ###########################################################################
 
-*:PERL_ETC
+*:DY_SCRIPT
 B:Perl, Ruby, Python, etc. Mostly scriptings languages.
 
-*:P_1
+*:SCRIPT_1
 I:Keith Bostic
 S:Perl - The only language that looks that same before and after RSA encryption.
 
-*:P_2
+*:SCRIPT_2
 I:Jon Ribbens
 S:PHP is a minor evil perpetrated and created by incompetent amateurs, whereas
  :Perl is a great and insidious evil perpetrated by skilled but perverted
  :professionals.
 
-*:P_3
+*:SCRIPT_3
 I:Larry Wall
 S:It is easier to port a shell than a shell script.
 
-*:P_4
+*:SCRIPT_4
 I:Nikita Popov
 S:Ruby is rubbish! PHP is phpantastic!
 
-*:P_5
+*:SCRIPT_5
 I:Yukihiro 'Matz' Matsumoto
 S:For me the purpose of life is partly to have joy.  Programmers often feel joy
  :when they can concentrate on the creative side of programming.  So Ruby
  :is designed to make programmers happy.
 
-*:P_6
+*:SCRIPT_6
 I:Yukihiro 'Matz' Matsumoto
 S:I hope to see Ruby helps every programmer in the world to be productive,
  :and to enjoy programming, and to be happy.  That is the primary purpose
  :of Ruby language.
 
-*:P_7
+*:SCRIPT_7
 I:Yukihiro 'Matz' Matsumoto
 S:We just need the Turing machine to solve all our problems, in theory.
  :Humans require more sophisticated tools to program.  It's a matter of
  :human need.  As long as some people feel happy using Ruby, that's
  :enough of a reason for another language.
 
-*:P_8
+*:SCRIPT_8
 I:Anonymous
 S:It you put 100 million monkeys to hammer away at keyboards for 100 million
  :years, one of them will write a C program.  The rest will write Perl.
 
-*:P_9
+*:SCRIPT_9
 I:Anonymous
 S:If Python is executable pseudocode, then Perl is executable line noise.
 
-*:P_10
+*:SCRIPT_10
 I:Rasmus Lerdorf
 S:I'm not a real programmer.  I throw together things until it works then
  :I move on.  The real programmers will say: "yeah it works but you're leaking
