@@ -229,6 +229,87 @@ I:Alan J. Perlis
 S:A programming language is low-level when its programs require attention
  :to the irrelevant.
 
+*:G_36
+I:D. Jones
+S:The fastest algorithm can frequently be replaced by one that is almost as fast
+ :and much easier to understand.
+
+*:G_37
+I:Alan Kay
+S:90% of code written today is getting around other people's mistakes.
+
+*:G_38
+I:Alan Kay
+S:Computers are to computing as instruments are to music.  Software is the
+ :score whose interpretations amplifies our reach and lifts our spirits.
+ :Leonardo da Vinci called music the shaping of the invisible, and his phrase
+ :is even more apt as a description of software.
+
+*:G_39
+I:Alan Kay
+S:[In a programming language] Simple things should be simple and complex things
+ :should be possible.
+
+*:G_40
+I:Donald E. Knuth
+S:Computers are good at following instructions, but not at reading your mind.
+
+*:G_41
+I:Donald E. Knuth
+S:Let us change our traditional attitude to the constuction of programs.
+ :Instead of imagining that our main task is to instruct a computer what to do,
+ :let us concentrate rather on explaining to human beings what we want a
+ :computer to do.
+
+*:G_42
+I:Donald E. Knuth
+S:We should forget about small efficiencies, say about 97% of the time: premature
+ :optimization is the root of all evil.
+
+*:G_43
+I:J. von Neumann
+S:In mathematics you don't understand things.  You just get used to thme.
+
+*:G_44
+I:Alan J. Perlis
+S:I think that it's extraordinary important that we in computer science keep fun
+ :in computing.  When it started out, it was an awful lot of fun.  Of course,
+ :the paying customers got shafted every now and then, and after a while we began
+ :to take their complaints seriously.  We began to feel as if we really were
+ :responsible for the successful, error-free perfect use of these machines.
+ :I don't think we are.  I think we're responsible for stretching them, setting
+ :them off in new directions, and keeping fun in the house.  I hope the field
+ :of computer science never loses its sense of fun.
+
+*:G_45
+I:Alan J. Perlis
+S:It goes against the grain of modern education to teach students to program.
+ :What fun is there to making plans, acquiring discipline, organizing thoughts,
+ :devoting attention to detail, and learning to be self critical.
+
+*:G_46
+I:Alan J. Perlis
+S:It is easier to write an incorrect program than understand a correct one.
+
+*:G_47
+I:Alan J. Perlis
+S:Simplicity does not precede complexity, but follows it.
+
+*:G_48
+I:Alan J. Perlis
+S:To understand a program, you must become both the machine and the program.
+
+*:G_49
+I:Bjarne Stroustrup
+S:Design and programming are human activities; forget that and all is lost.
+
+*:G_50
+I:Alan Turing
+S:We shall do much better programming job, provided we approach the task with
+ :a full appreciation of its tremendous difficulty, provided that we respect
+ :the intrinsic limitations of the human mind and approach the task as very
+ :humble programmers.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -327,6 +408,173 @@ S:The computers are never large enough or fast enough.  Each breakthrough in
  :should ask himself periodically "Toward what end, toward what end?" - but do
  :not ask it too often lest you pass up the fun of programming for the
  :constipation of bittersweet philosophy.
+
+*:G2_18
+I:Kent Beck, "Test-Driven Development"
+S:Paradox: by not considering the future of your code, you make your code much
+ :more likely to be adaptable in the future.
+
+*:G2_19
+I:Edsger W. Dijkstra
+S:Software Engineering is Programming when you can't.
+ :We must give industry not what it wants, but what it needs.
+
+*:G2_20
+I:Edsger W. Dijkstra
+S:Another series of [philosopher's] stone in the form of "programming tools" is
+ :produced under the banner of "software engineering", which, as time went by,
+ :has sought to replace intellectual discipline by management discipline to the
+ :extent that it has now accepted as its charter "How to program if you cannot".
+
+*:G2_21
+I:Curtis Poe, "Finding Technology Solutions"
+S:Technology is part of the answer, not part of the question.  Don't make choices
+ :only to then try to figure out how to twist the problem in such a way so as to
+ :fit your choice.  This will often result in your solution being more convoluted
+ :than my previous sentence.
+
+*:G2_22
+I:Frederick P. Brooks, Jr., "The Mythical Man-Month"
+S:In fact, flow charting is more preached than practiced.  I have never seen an
+ :experienced programmer who routinely made detailed flow charts before beginning
+ :to write programs.  Where organization standards require flow charts, these
+ :are almost invariably done after the fact.  Many shops proudly use machine
+ :programs to generate this "indispensable design tool" from the completed code.
+ :I think this universal experience is not an embarassing and deplorable
+ :departure from good practice, to be acknowledged only with a nervous laugh.
+ :Instead it is the application of good judgement, and it teaches us something
+ :about the utility of flow charts.
+
+*:G2_23
+I:D. Gelernter, "Machine Beauty"
+S:Beauty is more important in computing than anywhere else in technology because
+ :software is so complicated.  Beauty is the ultimate defense against complexity.
+ :The geniuses of the computer field, on the other hand, are the people with
+ :keenest aesthetic senses, the ones who are capable of creating beauty. Beauty
+ :is decisive at every level: the most important interfaces, the most important
+ :programming languages, the winning algorithms are the beautiful ones.
+
+*:G2_24
+I:D. Gelernter, "Machine Beauty"
+S:Good programmers know what's beautiful and bad ones don't.
+
+*:G2_25
+I:Paul Graham
+S:A really good language should be both clean and dirty: cleanly designed, with
+ :a small core of well understood and highly orthogonal operators, but dirty in
+ :the sense that it lets hacker have their way with it.
+ :
+ :A real hacker's language will always have a slightly raffish character.
+
+*:G2_26
+I:Paul Graham
+S:Fixing fresh bugs is easier than fixing old ones.  It's usually fairly quick
+ :to find a bug in code you just wrote.  When it turns up you often know what's
+ :wrong before you even look at the source, because you were already worrying
+ :about it subconsciously.  Fixing a bug in something you wrote six months ago
+ :(the average case if you release once a year) is a lot more work.  And since
+ :you don't understand the code as well, you're more likely to fix it in an ugly
+ :way, or even introduce more bugs.
+
+*:G2_27
+I:Paul Graham
+S:When you catch bugs early, you also get fewer compounded bugs.  Compounded
+ :bugs are two separate bugs that interact: you trip going downstairs, and when
+ :you reach for the handrail it come off in your hand.  In software this kind of
+ :bug is the hardest to find, and also tends to have the worst consequences.
+ :The traditional "break everything and then filter out the bugs" approach
+ :inherently yields a lot of compound bugs.  And software released in a series
+ :of small changes inherently tends not to.  The floors are constantly being
+ :swept clean of any loose objects that might later get stuck to something.
+
+*:G2_28
+I:Paul Graham
+S:The way to make programs easy to read is not to stuff them with comments.
+ :A good programming language ought to be better for explaining software than
+ :English.  You should only need comments when there is some kind of kludge
+ :you need to warn readers about, just as on a road there are only arrows on
+ :parts with unexpected sharp cruves.
+
+*:G2_29
+I:R. Hamming
+S:The purpose of computing is insight, not numbers.
+
+*:G2_30
+I:S. Heller, in "Efficient C/C++ Programming"
+S:The speed if a non-working program is irrelevant.
+
+*:G2_31
+I:G.H. Hardy, in "A Mathematician's Apology"
+S:Beauty is the first test: there is no permanent place in this world for
+ :ugly mathematics.
+
+*:G2_32
+I:C.A.R Hoare
+S:I was eventually persuaded of the need to design programming notations so as
+ :to maximize the number of errors which cannot be made, or if made, can be
+ :reliably detected at compile time.
+
+*:G2_33
+I:C.A.R Hoare
+S:In the development of the understanding of complex phenomena, the most powerful
+ :tool available to the human intellect is abstraction.  Abstraction arises from
+ :recognition of similarities between certain objects, situations, or processes
+ :in the real world and the decision to concentrate on these similarities and to
+ :ignore, for the time being, their differences.
+
+*:G2_34
+I:C.A.R Hoare
+S:Inside every well-written large program is a well-written small program.
+
+*:G2_35
+I:D. Hock (founder of VISA)
+S:The problem is never how to get new, innovative thoughts into your mind, but
+ :how to get old ones out!
+
+*:G2_36
+I:S. McConnell
+S:Good code is its own best documentation.  As you're about to add a comment,
+ :ask yourself "How can I improve the code so that this comment isn't needed?"
+ :Improve the code and then document it to make it even clearer.
+
+*:G2_37
+I:Alan J. Perlis
+S:A good programming language is a conceptual universe for thinking about
+ :programming.
+
+*:G2_38
+I:Alan J. Perlis
+S:Fools ignore complexity; pragmatists suffer it; experts avoid it;
+ :geniuses remove it.
+
+*:G2_39
+I:Alan J. Perlis
+S:I think it is inevitable that people program poorly.  Training will not
+ :substantially help matters.  We have to learn to live with it.
+
+*:G2_40
+I:E.B. White
+S:The best writing is rewriting.
+
+*:G2_41
+I:L. Wittenstein
+S:The limits of your language are the limits of your world.
+
+*:G2_42
+I:W. Wulf
+S:More bugs have introduced into programs through premature optimization than
+ :any other cause, including pure stupidity.
+ :
+ :(Sometimes quoted as:)
+ :More computing sins are committed in the name of efficiency, without 
+ :necessarily achieving it, than for any other single reason -including blind
+ :stupidity.
+
+*:G2_43
+I:E.C. Zeeman
+S:Technical skill is mastery of complexity,
+ :while creativity is mastery of simplicity.
+
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -590,6 +838,55 @@ S:Planning is necessary evil.  It is a response to risk: the more dangerous an`
  :risk, and so decrease the need for planning.  The design of your program can
  :then benefit from what is probably the most useful source of information
  :available: the experience of implementing it.
+
+*:SW_46
+I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+S:Software quality has almost nothing to do with algorithmic elegance, compact-
+ :ness, or speed - in fact, those attributes do more harm to quality than good.
+ :
+ :The objective is to make things as clear as possible to the designer and to
+ :yourself, and exessive formality can destroy clarity just as easily as modest
+ :formality can enhance it.
+
+*:SW_47
+I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+S:[The spec] Be literal in your interpretation and smile when the designer
+ :accuses you of semantic nit-picking.
+ :
+ :In programming, it's often bugs in the specification that kill you.
+
+*:SW_48
+I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+S:Let's face it: superb code and unit testing will be useless if the overall
+ :design is poor.  And how can there be a rational, effective design if no one
+ :on the design team can walk you through the more important transactions, step`
+ :by step and alternative by alternative.
+
+*:SW_49
+I:Frederick P. Brooks, Jr., "No Silver Bullet - Essence and Acccident in SW Eng"
+S:The complexity of software is an essential property, not an accidental one.
+ :Hence descriptions of a software entity that abstract away its complexity often
+ :abstract aways its essence.
+
+*:SW_50
+I:Paul Graham
+S:Great software, likewise, requires a fanatical devotion to beauty.  If you look
+ :inside good software, you find that parts that no one is ever supposed to see
+ :are beautiful too.  When it comes to code I behave in a way that would make me
+ :eligible for prescripting drugs if I approached everyday life the same way.
+ :It drives me crazy to see code that's badly indented, or that uses ugly
+ :variable names.
+
+*:SW_51
+I:R. Pattis
+S:The structure of a software system provides the ecology in which code is born,
+ :matures, and dies.  A well-designed habitat allows for the successful evolution
+ :of all components needed in a software system.
+
+*:SW_52
+I:D. Vargas
+S:It's easy to cry "bug" when the truth is that you've got a complex system and
+ :sometimes it takes a while to get all the components to co-exist peacefully.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -980,6 +1277,28 @@ S:Any sufficiently complicated C or FORTRAN program contains an ad hoc
 I:Bjarne Stroustrup
 S:C++: Simula in wolf's clothing.
 
+*:C_28
+I:Steve Haflich, "alt.lang.design", Dec 1994
+S:(If the only tool you have is a hammer, everything begins to look like a nail)
+ :When your hammer is C++, everything begins to look like a thumb.
+
+*:C_29
+I:Thant Tessman, "comp.lang.scheme", Dec 1996
+S:Being really good at C++ is like being really good at using rocks
+ :to sharpen sticks.
+
+*:C_30
+I:Guy L. Steele, "Objects have not failed.", OOPSLA 2002
+S:As for C++ - well, it reminds me of the Soviet-era labor joke:
+ :"They pretend to pay us, and we pretend to work."
+ :
+ :C++ pretends to provide an object-oriented data model, C++ programmers pretend
+ :to respect it, and everyone pretends that the code will work.  The actual data
+ :model of C++ is exactly that of C, a single two-dimensional array of bits,
+ :eight by four billion, and all the syntactic sugar of C++ fundamentally cannot
+ :mask the gapping holes in its object model left by the cast operator and
+ :unconstrained address arithmetic.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1084,9 +1403,9 @@ I:Philip Greenspun
 S:Java is the SUV of programming tools.
 
 *:JAVACS_21
-I:Thant Tessman
-S:Arguing that Java is better than C++ is like arguing that grasshoppers taste
- :better than tree bark.
+I:Thant Tessman, "comp.lang.scheme", Jun 2000
+S:You're posting to a Scheme group.  Around here, arguing that Java is better
+ :than C++ is like arguing that grasshoppers taste better than tree bark.
 
 *:JAVACS_22
 I:Paul Graham
@@ -1105,6 +1424,13 @@ S:If you learn to program in Java, you'll never be without a job!
 *:JAVACS_25
 I:John Knight
 S:Knowing the syntax of Java does not make someone a software engineer.
+
+*:JAVACS_26
+I:James Gosling
+S:Over the years, I've used and created a wide variety of scripting languages,
+ :and in general, I'm a big fan of them.  When the project that Java came out of
+ :first started, I was originally planning to do a scripting language.  But a
+ :number of forces pushed me away from that.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1206,6 +1532,22 @@ S:Perl is a car with an autopilot designed by insane aliens.
 I:Charlie Campbell
 S:JavaScript is the duct tape of the internet.
 
+*:SCRIPT_19
+I:Erik Naggum, "comp.lang.lisp", Nov 2000
+S:The Perl programmer who veers off the road into the forest will get out of
+ :his car and cut down each and every tree that blocks his progress, then drive
+ :a few meters and repeat the whole process.  Whether he gets where he wanted
+ :to go or not is immaterial - a Perl programmer will happily keep moving forward
+ :and look busy.
+ :
+ :It's not that Perl programmers are idiots, it's that the language rewards
+ :idiotic behavior in a way that no other language or tool has ever done.
+
+*:SCRIPT_20
+I:G. van Rossum
+S:Don't you hate code that's not properly indented? Making it [indenting] part
+ :of the syntax guarantees that all code is properly indented.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1265,6 +1607,51 @@ S:I fear that new object-oriented systems may suffer the fat of Lisp, in that
 *:OOP_10
 I:Alan Kay
 S:Java is the most distressing thing to happen to computing since MS-DOS.
+
+*:OOP_11
+I:Thant Tessman
+S:OO is like the Bible in that which scripture is to be interpreted metaphori-
+ :cally, and which is to be interpreted literally, is entirely a function of the
+ :religious agenda of the commentator.  My own advice is to keep in mind that
+ :the stuff of computer programs is nothing but metaphor.
+
+*:OOP_12
+I:Paul Graham, "ANSI Common Lisp"
+S:The object-oriented model makes it easy to build programs by accretion.
+ :What this often means, in practice, is that it provides a structured way to
+ :write spaghetti code. This is not necessarily bad, but it is not entirely
+ :good either.
+ :
+ :A lot of code in the real world is spaghetti code, and this is probably not
+ :going to change soon.  For programs that would have ended up as spaghetti
+ :anyway, the object-oriented model is good: they will at least be structured
+ :spaghetti.  But for programs that might otherwise have avoided this fate,
+ :object-oriented abstractions could be more dangerous than useful.
+
+*:OOP_13
+I:Richard P. Gabriel, "Objects have failed", OOPSLA 2002
+S:Bricks are just too limited, and the circumstances where they make sense are
+ :too constrained to serve as a model for building something as diverse and
+ :unpredictable as a city.  And further, the city itself is not the end goal,
+ :because the city must also -in the best case- be a humane structure for human
+ :activity, which requires a second set of levels of complexity and concerns.
+ :Using this metaphor to talk about future computing systems, it's fair to say
+ :that OO addresses concerns at the level of bricks.
+ :
+ :Despite the early clear understanding of the nature of software development by
+ :OO pioneers, the current caretakers of the ideas have reverted to the incumbent
+ :philosophy of perfect planning, grand design, and omniscience inherited
+ :from Babbage's theology.
+
+*:OOP_14
+I:Rob Pike
+S:Object-oriented design is the roman numerals of computing.
+
+*:OOP_15
+I:D. Gelernter, "Machine Beauty"
+S:Object-oriented programming as it emerged in Simula 67 allows software
+ :structure to be based on real-world structures, and gives programmers a
+ :powerful way to simplify the design and construction of complex programs.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1563,6 +1950,11 @@ S:The only difference between a bug and a feature is the documentation.
 *:FUNNY_28
 I:Anonymous
 S:Assumption is the mother of all fuckups.
+
+*:FUNNY_29
+I:J. Horning
+S:Computer Science is the only discipline in which we view adding a new wing
+ :to a building as being maintenance.
 
 # for the last lesson, no question asked, just goto menu
 G:MENU
