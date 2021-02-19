@@ -877,47 +877,57 @@ N:MENU
 *:PERL_ETC
 B:Perl, Ruby, Python, etc. Mostly scriptings languages.
 
+*:P_1
 I:Keith Bostic
 S:Perl - The only language that looks that same before and after RSA encryption.
 
+*:P_2
 I:Jon Ribbens
 S:PHP is a minor evil perpetrated and created by incompetent amateurs, whereas
  :Perl is a great and insidious evil perpetrated by skilled but perverted
  :professionals.
 
+*:P_3
 I:Larry Wall
 S:It is easier to port a shell than a shell script.
 
+*:P_4
 I:Nikita Popov
 S:Ruby is rubbish! PHP is phpantastic!
 
+*:P_5
 I:Yukihiro 'Matz' Matsumoto
-S:For me the purpose of life is partly to have joy. Programmers often feel joy
- :when they can concentrate on the creative side of programming. So Ruby
+S:For me the purpose of life is partly to have joy.  Programmers often feel joy
+ :when they can concentrate on the creative side of programming.  So Ruby
  :is designed to make programmers happy.
 
+*:P_6
 I:Yukihiro 'Matz' Matsumoto
 S:I hope to see Ruby helps every programmer in the world to be productive,
- :and to enjoy programming, and to be happy. That is the primary purpose
+ :and to enjoy programming, and to be happy.  That is the primary purpose
  :of Ruby language.
 
+*:P_7
 I:Yukihiro 'Matz' Matsumoto
 S:We just need the Turing machine to solve all our problems, in theory.
- :Humans require more sophisticated tools to program. It's a matter of
- :human need. As long as some people feel happy using Ruby, that's
+ :Humans require more sophisticated tools to program.  It's a matter of
+ :human need.  As long as some people feel happy using Ruby, that's
  :enough of a reason for another language.
 
+*:P_8
 I:Anonymous
 S:It you put 100 million monkeys to hammer away at keyboards for 100 million
- :years, one of them will write a C program. The rest will write Perl.
+ :years, one of them will write a C program.  The rest will write Perl.
 
+*:P_9
 I:Anonymous
 S:If Python is executable pseudocode, then Perl is executable line noise.
 
+*:P_10
 I:Rasmus Lerdorf
-S:I'm not a real programmer. I throw together things until it works then
- :I move on. The real programmers will say: "yeah it works but you're leaking
- :memory everywhere. Perhaps we should fix that". I'll just restart Apache
+S:I'm not a real programmer.  I throw together things until it works then
+ :I move on.  The real programmers will say: "yeah it works but you're leaking
+ :memory everywhere.  Perhaps we should fix that".  I'll just restart Apache
  :every 10 requests.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
@@ -928,39 +938,47 @@ N:MENU
 *:OOP
 B:OO Designs and implementation in Languages
 
+*:OOP_1
 I:Paul Graham, "Hackers & Painters: Big Ideas from the Computer Age"
 S:Object-Oriented programming offers a sustainable way to write spaghetti code.
  :It lets you accrete programs as a series of patches.
 
+*:OOP_2
 I:Alan Kay
-S:I invented the term 'Object-Oriented', and I can tell you I did not
- :have C++ in mind.
+S:I invented the term 'Object-Oriented', and I can tell you I did not have C++
+ :in mind.
 
+*:OOP_3
 I:Roberto Waltman
-S:In the one and only true way. The object-oriented version of 'Spaghetti code',
- :is, of course, 'Lasagna code'. (Too many layers).
+S:In the one and only true way.  The object-oriented version of 'Spaghetti code',
+ :is, of course, 'Lasagna code'.  (Too many layers).
 
+*:OOP_4
 I:Joe Armstrong, inventor of Erlang
-S:The problem with object-oriented languages is that they've got all this implicit
- :environment that they carry around with them. You wanted a banana but what you've
- :got is a gorilla holding the banana and the entire jungle.
+S:The problem with object-oriented languages is that they've got all this
+ :implicit environment that they carry around with them.  You wanted a banana
+ :but what you've got is a gorilla holding the banana and the entire jungle.
 
+*:OOP_5
 I:Anonymous
 S:The great thing about Object-Oriented code is that it can make small,
  :simple problems look like a large, complex ones.
 
+*:OOP_6
 I:Lasse Petersen
 S:"Eiffel: The Programming Language" is certainly by far the most expensive piece
- :of fiction on my bookshelf. Excellent, entertaining fiction, but it remains
+ :of fiction on my bookshelf.  Excellent, entertaining fiction, but it remains
  :fiction nevertheless.
 
+*:OOP_7
 I:Ed Yourdon
 S:A system composed of 100,000 lines of C++ is not be sneezed at, but we don't
- :have that much trouble developing 100,000 lines of COBOL today. The real test
+ :have that much trouble developing 100,000 lines of COBOL today.  The real test
  :of OOP will come when systems of 1 to 10 million lines of code are developed.
 
+*:OOP_8
 I:phluid
-S:I won't program in Java anymore. I'm not Marxist and don't believe in classes.
+S:I won't program in Java anymore.  I'm not Marxist and don't believe in classes.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -970,94 +988,116 @@ N:MENU
 *:LEGACY
 B:Older, Legacy Languages: COBOL, Fortran, etc
 
+*:LEGACY_1
 I:Edsger W. Dijkstra
-S:The use of COBOL cripples the mind; its teaching should therefore be
- :regarded as a criminal offense.
+S:The use of COBOL cripples the mind; its teaching should therefore be regarded
+ :as a criminal offense.
 
+*:LEGACY_2
 I:Edsger W. Dijkstra
 S:It is practically impossible to teach good programming style to students
- :that have had prior exposure to BASIC. As potential programmers, they are
+ :that have had prior exposure to BASIC.  As potential programmers, they are
  :mentally mutilated beyond hope of regeneration.
 
+*:LEGACY_3
 I:C.A.R Hoare, for Algol 60 (then taken in C)
 S:I couldn't resist the temptation to put in a null reference, simply because
- :it was so easy to implement. This has led to innumerable errors, vulnerabilities,
- :and system crashes, which have probably caused a billion dollars of pain
- :and damage in the last forty years.
+ :it was so easy to implement.  This has led to innumerable errors,
+ :vulnerabilities, and system crashes, which have probably caused a billion
+ :dollars of pain and damage in the last forty years.
 
+*:LEGACY_4
 I:Alan J. Perlis
 S:FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms,
  :and grows in every computer.
 
+*:LEGACY_5
 I:Edsger W. Dijkstra
 S:FORTRAN, the infantile disorder, by now nearly 20 years old, is hopelessly
  :inadequate for whatever computer aπplication you have in mind today:
  :it is now too clumsy, too risky, and too expensive to use.
 
+*:LEGACY_6
 I:Ken Thompson, co-creator of B, Unix, Go
 S:FORTRAN was the language of choice for the same reason that three-legged
  :races are popular.
 
+*:LEGACY_7
 I:Anonymous
 S:COBOL: Completely Obsolete Business Orientated Language.
 
+*:LEGACY_8
 I:Anonymous
 S:Erroneous COBOL programs were often referred to as 'pregnant programs'
  :because the issue was usually due to missed periods.
 
+*:LEGACY_9
 I:Anonymous
 S:COBOL programmers understand why women hate periods.
 
+*:LEGACY_10
 I:Edsger W. Dijkstra
 S:In the good old days physicists repeated each other's experiments, just
- :to be sure. Today they stick to FORTRAN, so that they can share each other's
+ :to be sure.  Today they stick to FORTRAN, so that they can share each other's
  :programs, bugs included.
 
+*:LEGACY_11
 I:Robert Glass
 S:COBOL is a very bad language, but all the others (for business data processing)
  :are so much worse.
 
+*:LEGACY_12
 I:Ed Post
-S:As long as there are ill-defined goals, bizarre bugs, and unrealistic schedules,
- :there will be Real Programmers willing to jump in and Solve The Problem,
- :saving the documentation for later. Long live FORTRAN!
+S:As long as there are ill-defined goals, bizarre bugs, and unrealistic
+ :schedules, there will be Real Programmers willing to jump in and Solve The
+ :Problem, saving the documentation for later.  Long live FORTRAN!
 
+*:LEGACY_13
 I:Larry Wall
 S:I knew I'd hate COBOL the moment I saw they'd used 'perform' instead of 'do'.
 
+*:LEGACY_14
 I:Charles Petzold
-S:COBOL has almost no fervent enthusiasts. As a programming tool, it has roughly
+S:COBOL has almost no fervent enthusiasts.  As a programming tool, it has roughly
  :the sex appeal of a wrench.
 
+*:LEGACY_15
 I:Steven Feiner
-S:You can tell how far we have to go,
- :when FORTRAN is the language of supercomputers.
+S:You can tell how far we have to go, when FORTRAN is the language of
+ :supercomputers.
 
+*:LEGACY_16
 I:John Krueger
 S:A computer without COBOL and FORTRAN is like a piece of chocolate cake without
  :ketchup or mustard.
 
+*:LEGACY_17
 I:Edsger W. Dijkstra
 S:COBOL is for morons.
 
+*:LEGACY_18
 I:Edsger W. Dijkstra
 S:With respect to COBOL you can really do only one or two things: fight the
  :disease or pretend that it does not exist.
 
+*:LEGACY_19
 I:Peter Gabriel
 S:The very architecture of almost every computer today is designed to optimize
  :the performance of FORTRAN programs and its operating-system-level sister, C.
 
+*:LEGACY_20
 I:Jargon File
 S:COBOL: (Synonymous with evil.): A weak, verbose, and flabby language used by
  :card wallopers to do boring mindless things on dinosaur mainframes.
 
+*:LEGACY_21
 I:Bertrand Meyer
 S:COBOL programmers are destined to code COBOL for the rest of their lives,
  :and thereafter.
 
+*:LEGACY_22
 I:Ed Post
-S:If you can't do it in FORTRAN, do it in assembly language. If you can't do it
+S:If you can't do it in FORTRAN, do it in assembly language.  If you can't do it
  :in assembly language, it isn't worth doing.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
