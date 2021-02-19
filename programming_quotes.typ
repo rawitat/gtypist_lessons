@@ -25,6 +25,7 @@ M: "The Programming Quotes series contains the following lessons"
  :GENERAL_2   "General Wisdoms #2       Continuation of the above"
  :GENERAL_3   "General Wisdoms #3       Yet another continuation from above"
  :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
+ :SW_ENG_2    "Software Engineering #2  Continuation of the above"
  :LISP        "Lisp                     Lisp and dialects"
  :LISP_2      "Lisp #2                  Lisp and dialects, continued"
  :C_CPP       "C, C++, Objective-C      C and its family (C++, Obj-C)"
@@ -725,24 +726,32 @@ S:Code is read more than it is written.
 I:Ralph Johnson
 S:Before software can be reusable it first has to be usable.
 
-*:SW_26
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:SW_ENG_2
+B:Some thoughts on Software Development and Engineering #2
+
+*:SW2_1
 I:Steve Maguire
 S:Fix the cause, not the symptom.
 
-*:SW_27
+*:SW2_2
 I:Austin Freeman
 S:Simplicity is the soul of efficiency.
 
-*:SW_28
+*:SW2_3
 I:Kent Beck
 S:Make it work, make it right, make it fast.
 
-*:SW_29
+*:SW2_4
 I:Louis Srygley
 S:Without requirements or design, programming is the art of adding bugs
  :to an empty text file.
 
-*:SW_30
+*:SW2_5
 I:Tom Van Vleck
 S:We know about as much about software quality problems as they knew about
  :the Black Plague in the 1600s.  We've seen the victims' agonies and helped
@@ -750,69 +759,69 @@ S:We know about as much about software quality problems as they knew about
  :there is only one disease.  We just suffer -- and keep pouring our sewage
  :into our water supply.
 
-*:SW_31
+*:SW2_6
 I:Eric Raymond, "The Art of Unix Programming"
 S:The combination of threads, remote-procedure-call interfaces, and heavyweight
  :object-oriented design is especially dangerous... if you are ever invited
  :onto a project that is supposed to feature all three, fleeing in terror might
  :well be an appropriate reaction.
 
-*:SW_32
+*:SW2_7
 I:Anonymous
 S:It is easier to change the specification to fit the program than vice versa.
 
-*:SW_33
+*:SW2_8
 I:Donald E. Knuth
 S:Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-*:SW_34
+*:SW2_9
 I:Nathaniel Borenstein
 S:It should be noted that no ethically-trained software engineer would ever
  :consent to write a DestroyBaghdad procedure.  Basic professional ethics would
  :instead require him to write a DestroyCity procedure, to which Baghdad could
  :be given as a parameter.
 
-*:SW_35
+*:SW2_10
 I:Andrew Tannenbaum
 S:The nice thing about standards is that there are so many of them to choose from.
 
-*:SW_36
+*:SW2_11
 I:Henry Baker
 S:Software people would never drive to the office if building engineers and
  :automotive engineers were as cavalier about buildings and autos as the
  :software "engineer" is about his software.
 
-*:SW_37
+*:SW2_12
 I:Norman Augustine
 S:Software is like entropy: It is difficult to grasp, weighs nothing, and obeys
  :the Second Law of Thermodynamics; i.i., it always increases.
 
-*:SW_38
+*:SW2_13
 I:Bill Curtis
 S:In a room full of top software designers, if two agree on the same thing,
  :that's a majority.
 
-*:SW_39
+*:SW2_14
 I:Antoine de Saint-Exupry
 S:Perfection [in design] is achieved, not when there is nothing more to add,
  :but when there is nothing left to take away.
 
-*:SW_40
+*:SW2_15
 I:Yoggi Berra
 S:In theory, theory and practice are the same.  In practice, they're not.
 
-*:SW_41
+*:SW2_16
 I:Alan Kay
 S:Most software today is very much like an Egyptian pyramid with millions of
  :bricks piled on top of each other, with no structural integrity, but just
  :done by brute force and thousands of slaves.
 
-*:SW_42
+*:SW2_17
 I:D. Adams
 S:A common mistake people make when trying to design something completely
  :foolproof is to underestimate the ingenuity of complete fools.
 
-*:SW_43
+*:SW2_18
 I:Richard P. Gabriel & Ron Goldman, "Mob Software: The Erotic Life of Code"
 S:Software development methodologies evolved under this regime [figure it out,
  :code it up, compile it, run it, throw it away] along with mythical belief in
@@ -822,7 +831,7 @@ S:Software development methodologies evolved under this regime [figure it out,
  :computing department.  Master planning feeds off the desire for order,
  :a desire born of our fear of failure, our fear of death.
 
-*:SW_44
+*:SW2_19
 I:Kent Beck, "Smalltalk Best Practice Patterns"
 S:To me, development consists of two processes that feed each other.  First,
  :you figure out what you want the computer to do.  Then, you instruct the
@@ -840,7 +849,7 @@ S:To me, development consists of two processes that feed each other.  First,
  :better over time.  Insisting that early ideas be carried through is short
  :sighted.
 
-*:SW_45
+*:SW2_20
 I:Paul Graham, "ANSI Common Lisp"
 S:Planning is necessary evil.  It is a response to risk: the more dangerous an`
  :undertaking, the more important it is to plan ahead.  Powerful tools decrease
@@ -848,7 +857,7 @@ S:Planning is necessary evil.  It is a response to risk: the more dangerous an`
  :then benefit from what is probably the most useful source of information
  :available: the experience of implementing it.
 
-*:SW_46
+*:SW2_21
 I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:Software quality has almost nothing to do with algorithmic elegance, compact-
  :ness, or speed - in fact, those attributes do more harm to quality than good.
@@ -857,27 +866,27 @@ S:Software quality has almost nothing to do with algorithmic elegance, compact-
  :yourself, and exessive formality can destroy clarity just as easily as modest
  :formality can enhance it.
 
-*:SW_47
+*:SW2_22
 I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:[The spec] Be literal in your interpretation and smile when the designer
  :accuses you of semantic nit-picking.
  :
  :In programming, it's often bugs in the specification that kill you.
 
-*:SW_48
+*:SW2_23
 I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:Let's face it: superb code and unit testing will be useless if the overall
  :design is poor.  And how can there be a rational, effective design if no one
  :on the design team can walk you through the more important transactions, step`
  :by step and alternative by alternative.
 
-*:SW_49
+*:SW2_24
 I:Frederick P. Brooks, Jr., "No Silver Bullet - Essence and Acccident in SW Eng"
 S:The complexity of software is an essential property, not an accidental one.
  :Hence descriptions of a software entity that abstract away its complexity often
  :abstract aways its essence.
 
-*:SW_50
+*:SW2_25
 I:Paul Graham
 S:Great software, likewise, requires a fanatical devotion to beauty.  If you look
  :inside good software, you find that parts that no one is ever supposed to see
@@ -886,13 +895,13 @@ S:Great software, likewise, requires a fanatical devotion to beauty.  If you loo
  :It drives me crazy to see code that's badly indented, or that uses ugly
  :variable names.
 
-*:SW_51
+*:SW2_26
 I:R. Pattis
 S:The structure of a software system provides the ecology in which code is born,
  :matures, and dies.  A well-designed habitat allows for the successful evolution
  :of all components needed in a software system.
 
-*:SW_52
+*:SW2_27
 I:D. Vargas
 S:It's easy to cry "bug" when the truth is that you've got a complex system and
  :sometimes it takes a while to get all the components to co-exist peacefully.
