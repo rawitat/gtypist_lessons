@@ -705,136 +705,169 @@ N:MENU
 *:C_FAMILY
 B:C and its family (C++, Obj-C, C#, Java)
 
+*:C_1
 I:Mike Vanier
-S:If I had a nickel for every time I've written
- :"for (i = 0; i < N; i++)" in C I'd be a millionaire.
+S:If I had a nickel for every time I've written "for (i = 0; i < N; i++)" in C
+ :I'd be a millionaire.
 
+*:C_2
 I:Richard A. O'Keefe
 S:Fifty years of programming language research, and we end up with C++?
 
+*:C_3
 I:Bob Gray
-S:Writing in C or C++ is like running a chain saw with
- :all the safety guards removed.
+S:Writing in C or C++ is like running a chain saw with all the safety
+ :guards removed.
 
+*:C_4
 I:Bjarne Stroustrup
 S:C makes it easy to shoot yourself in the foot; C++ makes it harder,
  :but when you do, you blow off your whole leg.
 
+*:C_5
 I:Gavin Russell Baker
 S:C++: Where friends have access to your private members.
 
+*:C_6
 I:Michael Feldman
 S:Java is, in many ways, C++--.
 
+*:C_7
 I:Alanna
 S:Saying that Java is nice because it works on all OSes is like saying that
  :anal sex is nice because it works on all genders.
 
+*:C_8
 I:Pixadel
 S:Fine, Java MIGHT be a good example of what a programming language
- :should be like. But Java applications are good examples of what
+ :should be like.  But Java applications are good examples of what
  :applications SHOULDN'T be like.
 
+*:C_9
 I:Robert Sewell
 S:If Java had true garbage collection, most programs would delete
  :themselves upon execution.
 
+*:C_10
 I:Waldi Ravens.
 S:A C Program is like a fast dance on a newly waxed dance floor by people
  :carrying razors.
 
+*:C_11
 I:Ron Sercely.
-S:The evolution of languages: FORTRAN is a non-typed language. C is
- :a weakly typed language. Ada is a strongly styped language. C++
- :is a strongly hyped language.
+S:The evolution of languages: FORTRAN is a non-typed language.  C is a weakly
+ :typed language. Ada is a strongly styped language.  C++ is a strongly hyped
+ :language.
 
+*:C_12
 I:Alan Kay
-S:I invented the term 'Object-Oriented', and I can tell you I did not
- :have C++ in mind. 
+S:I invented the term 'Object-Oriented', and I can tell you I did not have C++
+ :in mind. 
 
+*:C_13
 I:David Jameson
-S:The latest new features in C++ are designed to fix the previously
- :new features in C++.
+S:The latest new features in C++ are designed to fix the previously new features
+ :in C++.
 
+*:C_14
 I:James Gosling, co-inventor of Java
 S:Java is C++ without guns, knives, and clubs.
 
+*:C_15
 I:Brucee
 S:Java: write once, run away!
 
+*:C_16
 I:Chris Heilmann
 S:Java is to JavaScript what car is to carpet.
 
+*:C_17
 I:Scott Bellware
 S:Java is a DSL to transforming big XML documents into long exception
  :stack traces.
 
+*:C_18
 I:Anonymous
 S:I have yet to meet a C compiler that is more friendly and easier to use
  :than eating soup with a knife.
 
+*:C_19
 I:Ray Simard
 S:C /n./: A programming language that is sort of like Pascal except more like
  :assembly except that it isn't very much like either one, or anything else.
  :It is either the best language available to the art today, or it isn't.
 
+*:C_20
 I:Blair P. Houghton
 S:In My Egotistical Opinion, most people's C programs should be indented
  :six feet downward and covered with dirt.
 
+*:C_21
 I:J.P. Candusso
-S:Going from programming Pascal to programming in C, is like learning
- :to write in Morse code.
+S:Going from programming Pascal to programming in C, is like learning to write
+ :in Morse code.
 
+*:C_22
 I:Shakespeare
 S:#define QUESTION ((bb) || !(bb))
 
+*:C_23
 I:Kernighan
 S:C is not a high-level language.
 
+*:C_24
 I:Elon Musk
 S:I like C, because it avoids class warfare.
 
+*:C_25
 I:Dennis M. Ritchie
 S:C is quirky, flawed, and an enormous success.
 
+*:C_26
 I:Linus Torvalds
-S:C++ is a horrible language. It's made more horrible by the fact that a lot of
- :substandard programmers use it, to the point where it's much much easier to
- :generate total and utter crap with it. Quite frankly, even if the choice of C
+S:C++ is a horrible language.  It's made more horrible by the fact that a lot
+ :of substandard programmers use it, to the point where it's much much easier to
+ :generate total and utter crap with it.  Quite frankly, even if the choice of C
  :were to do *nothing* but keep the C++ programmers out, that in itself would
  :be a huge reason to use C.
 
+*:C_27
 I:Scott Meyers on friends functions in C++
 S:Friends, much as in real life, are often more trouble than their worth.
 
+*:C_28
 I:James Hague
 S:PL/I and Ada started out with all the bloat, were very daunting languages,
- :and got bad reputations (deservedly). C++ has shown that if you slowly bloat
+ :and got bad reputations (deservedly).  C++ has shown that if you slowly bloat
  :up a language over a period of years, people don't seem to mind as much.
 
+*:C_29
 I:Stefan Van Baelen
 S:C(++) is a write-only, high-level assembler language.
 
+*:C_30
 I:Michael B. Feldman
 S:C++ would make a decent teaching language if we could teach the ++ part
  :without the C part.
 
+*:C_31
 I:Larry O'Brien
 S:From a practical viewpoint, it's easy to see that C will always be with us,
  :taking a place beside FORTRAN and COBOL as the right tool for certain jobs.
 
+*:C_32
 I:Bertrand Meyer
 S:C++ is the only current language making COBOL look good.
 
+*:C_33
 I:Bill Joy
 S:You can't prove anything about a program written in C or FORTRAN.
  :It's really just Peek and Poke with some syntactic sugar.
 
+*:C_34
 I:Philip Greenspun
 S:Any sufficiently complicated C or FORTRAN program contains an ad hoc
  :informally-specified bug-ridden slow implementation of half of Common Lisp.
-
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
