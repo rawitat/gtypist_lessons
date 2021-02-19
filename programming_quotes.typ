@@ -23,6 +23,7 @@ B:The Programming and Programming Languages Quotes Course
 M: "The Programming Quotes series contains the following lessons"
  :GENERAL     "General Wisdoms          General Wisdoms in Programming and Code Writing"
  :GENERAL_2   "General Wisdoms #2       Continuation of the above"
+ :GENERAL_3   "General Wisdoms #3       Yet another continuation from above"
  :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
  :LISP        "Lisp                     Lisp and dialects"
  :LISP_2      "Lisp #2                  Lisp and dialects, continued"
@@ -228,87 +229,6 @@ S:When someone say: "I want a programming language in which I need only say
 I:Alan J. Perlis
 S:A programming language is low-level when its programs require attention
  :to the irrelevant.
-
-*:G_36
-I:D. Jones
-S:The fastest algorithm can frequently be replaced by one that is almost as fast
- :and much easier to understand.
-
-*:G_37
-I:Alan Kay
-S:90% of code written today is getting around other people's mistakes.
-
-*:G_38
-I:Alan Kay
-S:Computers are to computing as instruments are to music.  Software is the
- :score whose interpretations amplifies our reach and lifts our spirits.
- :Leonardo da Vinci called music the shaping of the invisible, and his phrase
- :is even more apt as a description of software.
-
-*:G_39
-I:Alan Kay
-S:[In a programming language] Simple things should be simple and complex things
- :should be possible.
-
-*:G_40
-I:Donald E. Knuth
-S:Computers are good at following instructions, but not at reading your mind.
-
-*:G_41
-I:Donald E. Knuth
-S:Let us change our traditional attitude to the constuction of programs.
- :Instead of imagining that our main task is to instruct a computer what to do,
- :let us concentrate rather on explaining to human beings what we want a
- :computer to do.
-
-*:G_42
-I:Donald E. Knuth
-S:We should forget about small efficiencies, say about 97% of the time: premature
- :optimization is the root of all evil.
-
-*:G_43
-I:J. von Neumann
-S:In mathematics you don't understand things.  You just get used to thme.
-
-*:G_44
-I:Alan J. Perlis
-S:I think that it's extraordinary important that we in computer science keep fun
- :in computing.  When it started out, it was an awful lot of fun.  Of course,
- :the paying customers got shafted every now and then, and after a while we began
- :to take their complaints seriously.  We began to feel as if we really were
- :responsible for the successful, error-free perfect use of these machines.
- :I don't think we are.  I think we're responsible for stretching them, setting
- :them off in new directions, and keeping fun in the house.  I hope the field
- :of computer science never loses its sense of fun.
-
-*:G_45
-I:Alan J. Perlis
-S:It goes against the grain of modern education to teach students to program.
- :What fun is there to making plans, acquiring discipline, organizing thoughts,
- :devoting attention to detail, and learning to be self critical.
-
-*:G_46
-I:Alan J. Perlis
-S:It is easier to write an incorrect program than understand a correct one.
-
-*:G_47
-I:Alan J. Perlis
-S:Simplicity does not precede complexity, but follows it.
-
-*:G_48
-I:Alan J. Perlis
-S:To understand a program, you must become both the machine and the program.
-
-*:G_49
-I:Bjarne Stroustrup
-S:Design and programming are human activities; forget that and all is lost.
-
-*:G_50
-I:Alan Turing
-S:We shall do much better programming job, provided we approach the task with
- :a full appreciation of its tremendous difficulty, provided that we respect
- :the intrinsic limitations of the human mind and approach the task as very
- :humble programmers.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -531,36 +451,126 @@ I:D. Hock (founder of VISA)
 S:The problem is never how to get new, innovative thoughts into your mind, but
  :how to get old ones out!
 
-*:G2_36
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+
+# ###########################################################################
+
+*:GENERAL_3
+B:General Wisdoms in Programming and Code Writing #3
+
+*:G3_1
+I:D. Jones
+S:The fastest algorithm can frequently be replaced by one that is almost as fast
+ :and much easier to understand.
+
+*:G3_2
+I:Alan Kay
+S:90% of code written today is getting around other people's mistakes.
+
+*:G3_3
+I:Alan Kay
+S:Computers are to computing as instruments are to music.  Software is the
+ :score whose interpretations amplifies our reach and lifts our spirits.
+ :Leonardo da Vinci called music the shaping of the invisible, and his phrase
+ :is even more apt as a description of software.
+
+*:G3_4
+I:Alan Kay
+S:[In a programming language] Simple things should be simple and complex things
+ :should be possible.
+
+*:G3_5
+I:Donald E. Knuth
+S:Computers are good at following instructions, but not at reading your mind.
+
+*:G3_6
+I:Donald E. Knuth
+S:Let us change our traditional attitude to the constuction of programs.
+ :Instead of imagining that our main task is to instruct a computer what to do,
+ :let us concentrate rather on explaining to human beings what we want a
+ :computer to do.
+
+*:G3_7
+I:Donald E. Knuth
+S:We should forget about small efficiencies, say about 97% of the time: premature
+ :optimization is the root of all evil.
+
+*:G3_8
+I:J. von Neumann
+S:In mathematics you don't understand things.  You just get used to thme.
+
+*:G3_9
+I:Alan J. Perlis
+S:I think that it's extraordinary important that we in computer science keep fun
+ :in computing.  When it started out, it was an awful lot of fun.  Of course,
+ :the paying customers got shafted every now and then, and after a while we began
+ :to take their complaints seriously.  We began to feel as if we really were
+ :responsible for the successful, error-free perfect use of these machines.
+ :I don't think we are.  I think we're responsible for stretching them, setting
+ :them off in new directions, and keeping fun in the house.  I hope the field
+ :of computer science never loses its sense of fun.
+
+*:G3_10
+I:Alan J. Perlis
+S:It goes against the grain of modern education to teach students to program.
+ :What fun is there to making plans, acquiring discipline, organizing thoughts,
+ :devoting attention to detail, and learning to be self critical.
+
+*:G3_11
+I:Alan J. Perlis
+S:It is easier to write an incorrect program than understand a correct one.
+
+*:G3_12
+I:Alan J. Perlis
+S:Simplicity does not precede complexity, but follows it.
+
+*:G3_13
+I:Alan J. Perlis
+S:To understand a program, you must become both the machine and the program.
+
+*:G3_14
+I:Bjarne Stroustrup
+S:Design and programming are human activities; forget that and all is lost.
+
+*:G3_15
+I:Alan Turing
+S:We shall do much better programming job, provided we approach the task with
+ :a full appreciation of its tremendous difficulty, provided that we respect
+ :the intrinsic limitations of the human mind and approach the task as very
+ :humble programmers.
+
+*:G3_16
 I:S. McConnell
 S:Good code is its own best documentation.  As you're about to add a comment,
  :ask yourself "How can I improve the code so that this comment isn't needed?"
  :Improve the code and then document it to make it even clearer.
 
-*:G2_37
+*:G3_17
 I:Alan J. Perlis
 S:A good programming language is a conceptual universe for thinking about
  :programming.
 
-*:G2_38
+*:G3_18
 I:Alan J. Perlis
 S:Fools ignore complexity; pragmatists suffer it; experts avoid it;
  :geniuses remove it.
 
-*:G2_39
+*:G3_19
 I:Alan J. Perlis
 S:I think it is inevitable that people program poorly.  Training will not
  :substantially help matters.  We have to learn to live with it.
 
-*:G2_40
+*:G3_20
 I:E.B. White
 S:The best writing is rewriting.
 
-*:G2_41
+*:G3_21
 I:L. Wittenstein
 S:The limits of your language are the limits of your world.
 
-*:G2_42
+*:G3_22
 I:W. Wulf
 S:More bugs have introduced into programs through premature optimization than
  :any other cause, including pure stupidity.
@@ -570,11 +580,10 @@ S:More bugs have introduced into programs through premature optimization than
  :necessarily achieving it, than for any other single reason -including blind
  :stupidity.
 
-*:G2_43
+*:G3_23
 I:E.C. Zeeman
 S:Technical skill is mastery of complexity,
  :while creativity is mastery of simplicity.
-
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
