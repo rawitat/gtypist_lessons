@@ -588,97 +588,113 @@ N:MENU
 *:LISP_2
 B:Quotes on Lisp and dialects, continued
 
+*:L2_1
 I:Paul Graham, Nov 1983
 S:I suppose I should learn Lisp, but it seems so foreign.
 
+*:L2_2
 I:on com.lang.lisp
 S:Will write code that writes code that writes code for money.
 
+*:L2_3
 I:Kent Pitman
 S:Lisp is a language for doing what you've been told is impossible.
 
+*:L2_4
 I:Paul Graham
-S:Within a couple weeks of learning Lisp I found programming
- :in any other language unbearably constraining.
+S:Within a couple weeks of learning Lisp I found programming in any other
+ :language unbearably constraining.
 
+*:L2_5
 I:Paul Graham
 S:Historically, languages designed for other people to use have been bad:
- :Cobol, PL/I, Pascal, Ada, C++. The good languages have been those
- :that were designed for their own creators: C, Perl, Smalltalk, Lisp
+ :Cobol, PL/I, Pascal, Ada, C++.  The good languages have been those that
+ :were designed for their own creators: C, Perl, Smalltalk, Lisp
 
+*:L2_6
 I:Glenn Ehrlich
-S:Programming in Lisp is like playing with the primodial forces
- :of the universe. It feels like lightning between your fingertips.
- :No other language even feels close.
+S:Programming in Lisp is like playing with the primodial forces of the universe.
+ :It feels like lightning between your fingertips.  No other language even 
+ :feels close.
 
+*:L2_7
 I:Svein Ove Aas
 S:The language God would have used to implement the Universe.
 
+*:L2_8
 I:Christian Lynbech
-S:Lisp is the most sophisticated programming language I know. It is
- :literally decades ahead of the competition ... it is not possible
- :(as far as I know) to actually use Lisp seriously before reaching
- :the point of no return.
+S:Lisp is the most sophisticated programming language I know.  It is literally
+ :decades ahead of the competition ... it is not possible (as far as I know)
+ :to actually use Lisp seriously before reaching the point of no return.
 
+*:L2_9
 I:Alan Kay
-S:I finally understood that half page of code on the bottom
- :of page 13 of the Lisp 1.5 manual was Lisp in itself.
- :These were "Maxwell's Equations of Software!".
+S:I finally understood that half page of code on the bottom of page 13 of the
+ :Lisp 1.5 manual was Lisp in itself.  These were "Maxwell's Equations of
+ :Software!".
 
+*:L2_10
 I:Larry Wall
-S:Lisp has all the visual appeal of oatmeal with fingernail clippings
- :mixed in. (Other than that, it's quite a nice language).
+S:Lisp has all the visual appeal of oatmeal with fingernail clippings mixed in.
+ :(Other than that, it's quite a nice language).
 
+*:L2_11
 I:Alan Perlis, in foreward of SICP
-S:Pascal is for building pyramids -- imposing, breaktaking, static
- :structures built by armies pushing heavy blocks into places.
- :Lisp is for building organisms -- imposing, breaktaking, dynamic
- :structures built by squads fitting fluctuating myriads of simpler
- :organisms into place.
+S:Pascal is for building pyramids -- imposing, breaktaking, static structures
+ :built by armies pushing heavy blocks into places.  Lisp is for building 
+ :organisms -- imposing, breaktaking, dynamic structures built by squads
+ :fitting fluctuating myriads of simpler organisms into place.
 
+*:L2_12
 I:Richard Stallman
-S:The most powerful programming language is Lisp. If you don't know Lisp
- :(or its variant, Scheme), you don't appreciate what a powerful language
- :is. Once you learn Lisp you will see what is missing in most other
- :languages.
+S:The most powerful programming language is Lisp.  If you don't know Lisp (or its
+ :variant, Scheme), you don't appreciate what a powerful language is.  Once you
+ :learn Lisp you will see what is missing in most other languages.
 
+*:L2_13
 I:Larry Wall
-S:By policy, Lisp has never really catered to mere motrals. And, of course,
+S:By policy, Lisp has never really catered to mere motrals.  And, of course,
  :mere mortals have never really forgiven Lisp for not catering to them.
 
+*:L2_14
 I:Joel Moses
 S:APL is like a beautiful diamond - flawless, beautifully symmetrical.
- :But you can't add anything to it. If you try to glue on another diamond,
- :you don't get a bigger diamond. Lisp is like a ball of mud. Add more
+ :But you can't add anything to it.  If you try to glue on another diamond,
+ :you don't get a bigger diamond.  Lisp is like a ball of mud.  Add more
  :and it's still a ball of mud - it's still looks like Lisp.
 
+*:L2_15
 I:Erik Naggum
 S:Common Lisp people seem to behave in a way that is akin to the Borg:
  :they study the various new things that people do with interest and then
  :find that it was eminently doable in Common Lisp all along and they can
  :use these new techniques if they think they need them.
 
+*:L2_16
 I:Alan Perlis
 S:A Lisp programmer knows the value of everything, but the cost of nothing.
 
+*:L2_17
 I:amz
 S:If programming languages were religions ...
  :
  :Lisp would be Zen Buddhism - There is no syntax, there is no centralization
- :of dogma, there are no deities to worship. The entire universe is there at
- :your reach - if only you are enlightened enough to grasp it. Some say that
+ :of dogma, there are no deities to worship.  The entire universe is there at
+ :your reach - if only you are enlightened enough to grasp it.  Some say that
  :it's not a language at all; others say that it's the only language that
  :make sense.
 
+*:L2_18
 I:Anonymous
 S:LISP stands for: Lots of Insane Stupid Parentheses.
  :LISP stands for: Lots of Irritating Superfluous Parentheses.
 
+*:L2_19
 I:Peter Norvig
 S:In Lisp, if you want to do aspect-oriented programming, you just do a
- :bunch of macros and you're there. In Java, you have to get Gregor Kiczales
+ :bunch of macros and you're there.  In Java, you have to get Gregor Kiczales
  :to go out and start a new company, taking months and years and try to get
- :that to work. Lisp still has the advantage there, it's just a question
+ :that to work.  Lisp still has the advantage there, it's just a question
  :of people wanting that.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
