@@ -21,12 +21,13 @@
 *:MENU
 B:The Programming and Programming Languages Quotes Course
 M: "The Programming Quotes series contains the following lessons"
- :GENERAL     "General                  Programming and Code Writing in General"
+ :GENERAL     "General Wisdoms          General Wisdoms in Programming and Code Writing"
+ :GENERAL_2   "General Wisdoms #2       Continuation of the above"
  :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
  :LISP        "Lisp                     Lisp and dialects"
  :LISP_2      "Lisp #2                  Lisp and dialects, continued"
  :C_CPP       "C, C++, Objective-C      C and its family (C++, Obj-C)"
- :JAVA_CS     "Java and C#              Java and C#, they belongs together"
+ :JAVACS      "Java and C#              Java and C#, they belongs together"
  :DY_SCRIPT   "Dynamic Scripting        Perl, Ruby, Python, etc."
  :OOP         "Object-Oriented          OO Designs and implementation in Languages"
  :LEGACY      "Older, Legacy Languages  COBOL, Fortran, etc"
@@ -36,12 +37,16 @@ M: "The Programming Quotes series contains the following lessons"
 # ###########################################################################
 
 *:GENERAL
-B:Programming and Code Writing in General
+B:General Wisdoms in Programming and Code Writing
 
 *:G_1
 I:Abelson & Sussman, SICP, preface to the 1st edition
-S:Programs must be written for people to read, and only
- :incidentally for machines to execute.
+S:First, we want to establish the idea that a computer language is not just
+ :a way of getting a computer to perform operations but rather that it is a
+ :novel formal medium for expressing ideas about methodology.
+ :
+ :Thus, programs must be written for people to read, and only incidentally
+ :for machines to execute.
 
 *:G_2
 I:George Boole, quoted in Iverson's Turing Award Lecture
@@ -224,48 +229,56 @@ I:Alan J. Perlis
 S:A programming language is low-level when its programs require attention
  :to the irrelevant.
 
-*:G_36
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:GENERAL_2
+B:General Wisdoms in Programming and Code Writing #2
+
+*:G2_1
 I:Kernighan & Plauger, "The Elements of Programming Style"
 S:Trying to outsmart a compiler defeats much of the purpose of using one.
 
-*:G_37
+*:G2_2
 I:Henry Spencer
 S:If you lie to the compiler, it will have its revenge.
 
-*:G_38
+*:G2_3
 I:Bell Labs saying
 S:Some languages are designed to solve a problem.
  :Others are designed to prove a point.
 
-*:G_39
+*:G2_4
 I:Ken Thompson
 S:When in doubt, use brute force.
 
-*:G_40
+*:G2_5
 I:John F. Kennedy
 S:Man is still the most extraordinary computer of all.
 
-*:G_41
+*:G2_6
 I:B.F. Skinner
 S:The real problem is not whether machines think but whether men do.
 
-*:G_42
+*:G2_7
 I:Jeff Scholnik
 S:Who cares how it works, just as long as it gives the right answer?
 
-*:G_43
+*:G2_8
 I:Bill Gates
 S:The first rule of any technology used in a business is that automation
  :applied to an efficient operation will magnify the efficiency.
  :The second is that automation applied to an inefficiency operation will
  :magnify the inefficiency.
 
-*:G_44
+*:G2_9
 I:Andrew Orlowski
 S:See, no matter how clever your automation systems might be, it all falls
  :apart if your human wetware isn't up to the job.
 
-*:G_45
+*:G2_10
 I:John Backus
 S:I think conventional languages are for the birds.  They're just extensions of
  :the von Neumann computer, and they keep our noses in the dirt of dealing with
@@ -274,6 +287,46 @@ S:I think conventional languages are for the birds.  They're just extensions of
  :built them into programming languages; we've built them into Fortran; we've
  :built them into PL/1; we've built them into almost every language.
 
+*:G2_11
+I:Aristophanes
+S:High thoughts must have a high language.
+
+*:G2_12
+I:Ted Nelson
+S:Learning to program has no more to do with designing interactive software
+ :than learning to touch type has to do with writing poetry.
+
+*:G2_13
+I:Donald E. Knuth
+S:People think that computer science is the art of geniuses but the actual
+ :reality is the opposite, just many people doing things that build on each
+ :other, like a wall of mini stones.
+
+*:G2_14
+I:Peter Van Roy, Seif Haridi
+S:The most difficult work of programmers, and also the most rewarding, is not
+ :writing programs but rather designing abstractions.
+
+*:G2_15
+I:Edsger W. Dijkstra
+S:Besides a mathematical inclination, an exceptionally good mastery of one's
+ :native tongue is the most vital asset of a competent programmer.
+
+*:G2_16
+I:Paul Graham, "Beating the Averages"
+S:Ordinary technology changes fast.  But programming languages are different:
+ :programming languages are not just technology, but what programmers think in.
+ :They're half technology and half religion.  And so the median language, meaning
+ :whatever language the median programmer uses, moves as slow as an iceberg.
+
+*:G2_17
+I:Alan J. Perlis
+S:The computers are never large enough or fast enough.  Each breakthrough in
+ :hardware technology leads to more massive programming enterprises, new
+ :organizational principles, and an enrichment of abstract models.  Every reader
+ :should ask himself periodically "Toward what end, toward what end?" - but do
+ :not ask it too often lest you pass up the fun of programming for the
+ :constipation of bittersweet philosophy.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -471,6 +524,72 @@ I:Henry Baker
 S:Software people would never drive to the office if building engineers and
  :automotive engineers were as cavalier about buildings and autos as the
  :software "engineer" is about his software.
+
+*:SW_37
+I:Norman Augustine
+S:Software is like entropy: It is difficult to grasp, weighs nothing, and obeys
+ :the Second Law of Thermodynamics; i.i., it always increases.
+
+*:SW_38
+I:Bill Curtis
+S:In a room full of top software designers, if two agree on the same thing,
+ :that's a majority.
+
+*:SW_39
+I:Antoine de Saint-Exupry
+S:Perfection [in design] is achieved, not when there is nothing more to add,
+ :but when there is nothing left to take away.
+
+*:SW_40
+I:Yoggi Berra
+S:In theory, theory and practice are the same.  In practice, they're not.
+
+*:SW_41
+I:Alan Kay
+S:Most software today is very much like an Egyptian pyramid with millions of
+ :bricks piled on top of each other, with no structural integrity, but just
+ :done by brute force and thousands of slaves.
+
+*:SW_42
+I:D. Adams
+S:A common mistake people make when trying to design something completely
+ :foolproof is to underestimate the ingenuity of complete fools.
+
+*:SW_43
+I:Richard P. Gabriel & Ron Goldman, "Mob Software: The Erotic Life of Code"
+S:Software development methodologies evolved under this regime [figure it out,
+ :code it up, compile it, run it, throw it away] along with mythical belief in
+ :master planning.  Such beliefs were rooted in an elementary-school-level
+ :fiction that great masterpieces were planned, or arose as a by-product of
+ :physicists shovelling menial and rote coding tasks to their inferiors in the
+ :computing department.  Master planning feeds off the desire for order,
+ :a desire born of our fear of failure, our fear of death.
+
+*:SW_44
+I:Kent Beck, "Smalltalk Best Practice Patterns"
+S:To me, development consists of two processes that feed each other.  First,
+ :you figure out what you want the computer to do.  Then, you instruct the
+ :computer to do it.  Trying to write those instructions inevitably changes
+ :what you want the computer to do and so it goes.
+ :
+ :In this model, coding isn't the poor handmaiden of design or analysis.
+ :Coding is where your fuzzy, comfortable ideas awaken in the harsh domain of
+ :reality.  It is where you learn what your computer can do.  If you stop
+ :coding, you stop learning.
+ :
+ :We aren't always good at guessing where responsibilities should go.  Coding
+ :is where our design guesses are tested.  Being prepared to be flexible about
+ :making design changes during coding results in programs that get better and
+ :better over time.  Insisting that early ideas be carried through is short
+ :sighted.
+
+*:SW_45
+I:Paul Graham, "ANSI Common Lisp"
+S:Planning is necessary evil.  It is a response to risk: the more dangerous an`
+ :undertaking, the more important it is to plan ahead.  Powerful tools decrease
+ :risk, and so decrease the need for planning.  The design of your program can
+ :then benefit from what is probably the most useful source of information
+ :available: the experience of implementing it.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -708,6 +827,20 @@ S:In Lisp, if you want to do aspect-oriented programming, you just do a
  :that to work.  Lisp still has the advantage there, it's just a question
  :of people wanting that.
 
+*:L2_20
+I:Paul Graham
+S:The more of an IT flavor the job descriptions had, the less dangerous was the
+ :company.  The safest kind were the ones that wanted Oracle experience.  You
+ :never had to worry about those.  You were also safe if they said they wanted
+ :C++ or Java developers.  If they wanted Perl or Python programmers, that would
+ :be a bit frightening.  If I had ever seen a job posting looking for Lisp
+ :hackers, I would have been really worried.
+
+*:L2_21
+I:Paul Graham, "ANSI Common Lisp"
+S:The spirit of Lisp hacking can be expressed in two sentences.
+ :Programming should be fun.  Programs should be beautiful.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -843,12 +976,16 @@ I:Philip Greenspun
 S:Any sufficiently complicated C or FORTRAN program contains an ad hoc
  :informally-specified bug-ridden slow implementation of half of Common Lisp.
 
+*:C_27
+I:Bjarne Stroustrup
+S:C++: Simula in wolf's clothing.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
 # ###########################################################################
 
-*:JAVA_CS
+*:JAVACS
 B:Java and C#
 
 *:JAVACS_1
@@ -924,6 +1061,51 @@ I:James Gosling
 S:Your development cycle is much faster because Java is interpreted.
  :The compile-link-load-test-crash-debug cycle is obsolete.
 
+*:JAVACS_16
+I:Scott McKay
+S:C++ is history repeated as tragedy.  Java is history repeated as farce.
+
+*:JAVACS_17
+I:Larry O'Brien
+S:Claiming Java is easier than C++ is like saying that
+ :K2 is shorter than Everest.
+
+*:JAVACS_18
+I:Matthew B. Kennel
+S:In the best possible scenario Java will end up mostly like Eiffel but with
+ :extra warts because of insufficiently thoughtful early design.
+
+*:JAVACS_19
+I:Frank Winkler
+S:Java, the best argument for Smalltalk since C++.
+
+*:JAVACS_20
+I:Philip Greenspun
+S:Java is the SUV of programming tools.
+
+*:JAVACS_21
+I:Thant Tessman
+S:Arguing that Java is better than C++ is like arguing that grasshoppers taste
+ :better than tree bark.
+
+*:JAVACS_22
+I:Paul Graham
+S:Like the creators of sitcoms or junk food or package tours, Java's designers
+ :were consciously designing a product for people not as smart as them.
+
+*:JAVACS_23
+I:Steve Holden
+S:There are undoubtedly a lot of very intelligent people writing Java, better
+ :programmers than I will ever be.  I just wish I knew why.
+
+*:JAVACS_24
+I:Patricia Seybold in 1998
+S:If you learn to program in Java, you'll never be without a job!
+
+*:JAVACS_25
+I:John Knight
+S:Knowing the syntax of Java does not make someone a software engineer.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -989,6 +1171,40 @@ S:I'm not a real programmer.  I throw together things until it works then
 I:Teodor Zlatanov
 S:If you want to shoot yourself in the foot, Perl give you ten bullets and
  :a laser scope, then stand by and cheer you on.
+
+*:SCRIPT_12
+I:Yukihiro 'Matz' Matsumoto
+S:Actually, I'm trying to make Ruby natural, not simple.
+
+*:SCRIPT_13
+I:Xah Lee
+S:The three characteristics of Perl programmers: mundaneness, sloppiness, and
+ :fatuousness.
+
+*:SCRIPT_14
+I:Jeffrey Davis
+S:Perl has grown from being a very good scripting language into something like
+ :a cross between a universal solvent and an open-ended Mandarin where new
+ :ideograms are invented hourly.
+
+*:SCRIPT_15
+I:Bruce Eckel
+S:Perl is like vise grips.  You can do anything with it but it is the wrong
+ :tool for every job.
+
+*:SCRIPT_16
+I:Xah Lee
+S:Perl is the sanctuary of dunces.  The godsend for brainless coders.  The means
+ :and banner of sysadmins.  The lingua franca of trial-and-error hackers.  The
+ :song and dance of stultified engineers.
+
+*:SCRIPT_17
+I:Jeff Smith
+S:Perl is a car with an autopilot designed by insane aliens.
+
+*:SCRIPT_18
+I:Charlie Campbell
+S:JavaScript is the duct tape of the internet.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1174,6 +1390,28 @@ S:If you can't do it in FORTRAN, do it in assembly language.  If you can't do it
 I:Edsger W. Dijkstra
 S:Using PL/I must be like flying a plane with 7,000 buttons, switches, and
  :handles to manipulate in the cockpit.
+
+*:LEGACY_24
+I:Edsger W. Dijkstra
+S:When FORTRAN has been called infantile disorder, PL/I, with its growth
+ :characteristics of a dangerous tumor, could turn out to be a fatal disease.
+
+*:LEGACY_25
+I:Edsger W. Dijkstra
+S:PL/I, "the fatal disease", belongs more to the problem set than
+ :to the solution set.
+
+*:LEGACY_26
+I:Bruce Powel Douglass
+S:C treats you like a consenting adult.  Pascal treats you like a naughty child.
+ :Ada treats you like a criminal.
+
+*:LEGACY_27
+I:Bill Joy
+S:There are a couple of people in the world who can really program in C or
+ :FORTRAN.  They write code in less time than it takes for other programmers.
+ :Most programmers aren't that good.  The problem is that those few programmers
+ :who crank out code aren't interested in maintaining it.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
