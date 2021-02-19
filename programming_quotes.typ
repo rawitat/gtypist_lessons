@@ -25,8 +25,8 @@ M: "The Programming Quotes series contains the following lessons"
  :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
  :LISP        "Lisp                     Lisp and dialects"
  :LISP_2      "Lisp #2                  Lisp and dialects, continued"
- :C_FAMILY    "C, C++, Java, C#         C and its family (C++, Obj-C, C#, Java)"
- :C_FAMILY_2  "C, C++, Java, C#  #2     C and its family, continued"
+ :C_CPP       "C, C++, Objective-C      C and its family (C++, Obj-C)"
+ :JAVA_CS     "Java and C#              Java and C#, they belongs together"
  :DY_SCRIPT   "Dynamic Scripting        Perl, Ruby, Python, etc."
  :OOP         "Object-Oriented          OO Designs and implementation in Languages"
  :LEGACY      "Older, Legacy Languages  COBOL, Fortran, etc"
@@ -713,8 +713,8 @@ N:MENU
 
 # ###########################################################################
 
-*:C_FAMILY
-B:C and its family (C++, Obj-C, C#, Java)
+*:C_CPP
+B:C and its family (C++, Objective-C)
 
 *:C_1
 I:Mike Vanier
@@ -740,101 +740,64 @@ I:Gavin Russell Baker
 S:C++: Where friends have access to your private members.
 
 *:C_6
-I:Michael Feldman
-S:Java is, in many ways, C++--.
-
-*:C_7
-I:Alanna
-S:Saying that Java is nice because it works on all OSes is like saying that
- :anal sex is nice because it works on all genders.
-
-*:C_8
-I:Pixadel
-S:Fine, Java MIGHT be a good example of what a programming language
- :should be like.  But Java applications are good examples of what
- :applications SHOULDN'T be like.
-
-*:C_9
-I:Robert Sewell
-S:If Java had true garbage collection, most programs would delete
- :themselves upon execution.
-
-*:C_10
 I:Waldi Ravens.
 S:A C Program is like a fast dance on a newly waxed dance floor by people
  :carrying razors.
 
-*:C_11
+*:C_7
 I:Ron Sercely.
 S:The evolution of languages: FORTRAN is a non-typed language.  C is a weakly
  :typed language. Ada is a strongly styped language.  C++ is a strongly hyped
  :language.
 
-*:C_12
+*:C_8
 I:Alan Kay
 S:I invented the term 'Object-Oriented', and I can tell you I did not have C++
  :in mind. 
 
-*:C_13
+*:C_9
 I:David Jameson
 S:The latest new features in C++ are designed to fix the previously new features
  :in C++.
 
-*:C_14
-I:James Gosling, co-inventor of Java
-S:Java is C++ without guns, knives, and clubs.
-
-*:C_15
-I:Brucee
-S:Java: write once, run away!
-
-*:C_16
-I:Chris Heilmann
-S:Java is to JavaScript what car is to carpet.
-
-*:C_17
-I:Scott Bellware
-S:Java is a DSL to transforming big XML documents into long exception
- :stack traces.
-
-*:C_18
+*:C_10
 I:Anonymous
 S:I have yet to meet a C compiler that is more friendly and easier to use
  :than eating soup with a knife.
 
-*:C_19
+*:C_11
 I:Ray Simard
 S:C /n./: A programming language that is sort of like Pascal except more like
  :assembly except that it isn't very much like either one, or anything else.
  :It is either the best language available to the art today, or it isn't.
 
-*:C_20
+*:C_12
 I:Blair P. Houghton
 S:In My Egotistical Opinion, most people's C programs should be indented
  :six feet downward and covered with dirt.
 
-*:C_21
+*:C_13
 I:J.P. Candusso
 S:Going from programming Pascal to programming in C, is like learning to write
  :in Morse code.
 
-*:C_22
+*:C_14
 I:Shakespeare
 S:#define QUESTION ((bb) || !(bb))
 
-*:C_23
+*:C_15
 I:Kernighan
 S:C is not a high-level language.
 
-*:C_24
+*:C_16
 I:Elon Musk
 S:I like C, because it avoids class warfare.
 
-*:C_25
+*:C_17
 I:Dennis M. Ritchie
 S:C is quirky, flawed, and an enormous success.
 
-*:C_26
+*:C_18
 I:Linus Torvalds
 S:C++ is a horrible language.  It's made more horrible by the fact that a lot
  :of substandard programmers use it, to the point where it's much much easier to
@@ -842,40 +805,40 @@ S:C++ is a horrible language.  It's made more horrible by the fact that a lot
  :were to do *nothing* but keep the C++ programmers out, that in itself would
  :be a huge reason to use C.
 
-*:C_27
+*:C_19
 I:Scott Meyers on friends functions in C++
 S:Friends, much as in real life, are often more trouble than their worth.
 
-*:C_28
+*:C_20
 I:James Hague
 S:PL/I and Ada started out with all the bloat, were very daunting languages,
  :and got bad reputations (deservedly).  C++ has shown that if you slowly bloat
  :up a language over a period of years, people don't seem to mind as much.
 
-*:C_29
+*:C_21
 I:Stefan Van Baelen
 S:C(++) is a write-only, high-level assembler language.
 
-*:C_30
+*:C_22
 I:Michael B. Feldman
 S:C++ would make a decent teaching language if we could teach the ++ part
  :without the C part.
 
-*:C_31
+*:C_23
 I:Larry O'Brien
 S:From a practical viewpoint, it's easy to see that C will always be with us,
  :taking a place beside FORTRAN and COBOL as the right tool for certain jobs.
 
-*:C_32
+*:C_24
 I:Bertrand Meyer
 S:C++ is the only current language making COBOL look good.
 
-*:C_33
+*:C_25
 I:Bill Joy
 S:You can't prove anything about a program written in C or FORTRAN.
  :It's really just Peek and Poke with some syntactic sugar.
 
-*:C_34
+*:C_26
 I:Philip Greenspun
 S:Any sufficiently complicated C or FORTRAN program contains an ad hoc
  :informally-specified bug-ridden slow implementation of half of Common Lisp.
@@ -885,41 +848,78 @@ N:MENU
 
 # ###########################################################################
 
-*:C_FAMILY_2
-B:C and its family (C++, Obj-C, C#, Java), continued
+*:JAVA_CS
+B:Java and C#
 
-*:C2_1
+*:JAVACS_1
+I:Michael Feldman
+S:Java is, in many ways, C++--.
+
+*:JAVACS_2
+I:Alanna
+S:Saying that Java is nice because it works on all OSes is like saying that
+ :anal sex is nice because it works on all genders.
+
+*:JAVACS_3
+I:Pixadel
+S:Fine, Java MIGHT be a good example of what a programming language
+ :should be like.  But Java applications are good examples of what
+ :applications SHOULDN'T be like.
+
+*:JAVACS_4
+I:Robert Sewell
+S:If Java had true garbage collection, most programs would delete
+ :themselves upon execution.
+
+*:JAVACS_5
+I:James Gosling, co-inventor of Java
+S:Java is C++ without guns, knives, and clubs.
+
+*:JAVACS_6
+I:Brucee
+S:Java: write once, run away!
+
+*:JAVACS_7
+I:Chris Heilmann
+S:Java is to JavaScript what car is to carpet.
+
+*:JAVACS_8
+I:Scott Bellware
+S:Java is a DSL to transforming big XML documents into long exception
+ :stack traces.
+
+*:JAVACS_9
 I:Tel Hudson
 S:Using Java for serios jobs is like trying to take the skin off a rice pudding
  :wearing boxing groves.
 
-*:C2_2
+*:JAVACS_10
 I:Bill Gates
 S:Anybody who thinks a little 9,000-line program [ Java ] that's distributed
  :free and can be cloned by anyone is going to affect anything we do at
  :Microsoft has his head screwed on wrong.
 
-*:C2_3
+*:JAVACS_11
 I:Scott McNealy
 S:Take a cup of coffee and add three drops of poison and what have you got?
  :Microsoft J++.
 
-*:C2_4
+*:JAVACS_12
 I:Paul Graham
 S:Of all the programmers I can think of, I know only one who would voluntarily
  :program in Java.  And of all the great programmers I can think of who don't
  :work for Sun, on Java, I know of zero.
 
-*:C2_5
+*:JAVACS_13
 I:Charles Simonyi
 S:Thirty years from now nobody will remember Java and everyone will remember
  :Microsoft.
 
-*:C2_6
+*:JAVACS_14
 I:Alan Kay
 S:Java is the most distressing thing to happen to computing since MS-DOS.
 
-*:C2_7
+*:JAVACS_15
 I:James Gosling
 S:Your development cycle is much faster because Java is interpreted.
  :The compile-link-load-test-crash-debug cycle is obsolete.
