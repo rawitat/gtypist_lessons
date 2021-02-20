@@ -11,8 +11,10 @@ M: "The Programming Quotes series contains the following lessons"
  :GENERAL     "General Wisdoms          General Wisdoms in Programming and Code Writing"
  :GENERAL_2   "General Wisdoms #2       Continuation of the above"
  :GENERAL_3   "General Wisdoms #3       Yet another continuation from above"
+ :GENERAL_4   "General Wisdoms #4       You know the drill, from the above"
  :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
  :SW_ENG_2    "Software Engineering #2  Continuation of the above"
+ :SW_ENG_3    "Software Engineering #3  Just like that, from above"
  :LISP        "Lisp                     Lisp and dialects"
  :LISP_2      "Lisp #2                  Lisp and dialects, continued"
  :C_CPP       "C, C++, Objective-C      C and its family (C++, Obj-C)"
@@ -573,6 +575,164 @@ I:E.C. Zeeman
 S:Technical skill is mastery of complexity,
  :while creativity is mastery of simplicity.
 
+*:G3_24
+I:Everyone needs computer programming.  It will be the way we speak to the
+ :servants.
+
+*:G3_25
+I:Linus Torvalds
+S:Most good programmers do programming not because they expect to get paid or
+ :get adulation by the public, but because it is fun to program.
+
+*:G3_26
+I:Anonymous
+S:Computers do not solve problems, they execute solutions.
+
+*:G3_27
+I:Oscar Godson
+S:One of the best programming skills you can have is knowing when to walk away
+ :for awhile.
+
+*:G3_28
+I:Scott Adams
+S:You can never underestimate the stupidity of the general public.
+
+*:G3_29
+I:Kreitzberg & Shmeiderman
+S:Programming can be fun, so can cryptography;
+ :however they should not be combined.
+
+*:G3_30
+I:C.A.R Hoare
+S:Inside every large program, there is a program trying to get out.
+
+*:G3_31
+I:Pragmatic Programmer
+S:A good way to stay flexible is to write less code.
+
+*:G3_32
+I:Gerald M. Weinberg
+S:No matter what the problem is, it's always a people problem.
+
+*:G3_33
+I:Gordon Bell
+S:Every big computing disaster has come from taking too many ideas and putting
+ :them in one place.
+
+*:G3_34
+I:Edsger W. Dijkstra
+S:Simplicity is prerequisite for reliability.
+
+*:G3_35
+I:Jordi Boggiano
+S:Focus on WHY instead of WHAT in your code will make you a better developer.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:GENERAL_4
+B:General Wisdoms in Programming and Code Writing #4
+
+*:G4_1
+I:Andrei Herasimchuck
+S:The best engineers I know are artists at heart.
+ :The best designers I know are secretly technicians as well.
+
+*:G4_2
+I:Donald E. Knuth
+S:You're bound to be unhappy if you optimize everything.
+
+*:G4_3
+I:Robert C. Martin
+S:The proper use of comments is to compensate for our failure to express
+ :ourself in code.
+
+*:G4_4
+I:David Heinemeier Hansson
+S:Programmers are constantly making things more complicated than they need to be
+ :BECAUSE FUTURE.  Fuck the future.  Program for today.
+
+*:G4_5
+I:Ron Fein
+S:Design is choosing how you will fail.
+
+*:G4_6
+I:Ron Jeffries
+S:Code never lies, comments sometimes do.
+
+*:G4_7
+I:Larry Wall
+S:You want it in one line? Does it have to fit in 80 columns?
+
+*:G4_8
+I:John Ousterhout
+S:The best performance improvement is the transition from the nonworking state
+ :to the working state.
+
+*:G4_9
+I:Bjarne Stroustrup
+S:An organization that treats its programmers as morons will soon have
+ :programmers that are willing and able to act like morons only.
+
+*:G4_10
+I:Niklaus Wirth
+S:Prolific programmers contribute to certain disaster.
+
+*:G4_11
+I:Anonymous
+S:Every good work of software starts by scratching a developer's personal itch.
+
+*:G4_12
+I:Ricard Pattis
+S:Programming languages, like pizzas, come in only two sizes:
+ :too big and too small.
+
+*:G4_13
+I:Alan J. Perlis
+S:One man's constant is another man's variable.
+
+*:G4_14
+I:Anonymous
+S:Only half of programming is coding.  The other 90% is debugging.
+
+*:G4_15
+I:Steve McConnell
+S:The big optimizations come from refining the high-level design, not the
+ :individual routines.
+
+*:G4_16
+I:Robert C. Martin
+S:All race conditions, deadlock conditions, and concurrent update problems
+ :are due to mutable variables.
+
+*:G4_17
+I:Alan Turing
+S:Up to a point, it is better to just let the snags [bugs] be there than to spend
+ :such time in design that there are none.
+
+*:G4_18
+I:C.A.R Hoare
+S:The price of reliability is the pursuit of the utmost simplicity.
+ :It is a price which the very rich may find hard to pay.
+
+*:G4_19
+I:C.A.R Hoare
+S:You cannot teach beginners top-down programming, because they don't know
+ :which end is up.
+
+*:G4_20
+I:Edsger W. Dijkstra
+S:The competent programmer is fully aware of the strictly limited size of his
+ :own skull; therefore he approaches the programming task in full humility, and
+ :among other things he avoids clever tricks like the plague.
+
+ *:G4_21
+ I:Ricard Pattis
+ S:If you cannot grok the overall structure of a program while taking a shower,
+  :you are not ready to code it.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -712,6 +872,27 @@ S:Code is read more than it is written.
 *:SW_25
 I:Ralph Johnson
 S:Before software can be reusable it first has to be usable.
+
+*:SW_26
+I:Frederick P. Brooks Jr.
+S:What one programmer can do in one month, two programmers can do in two months.
+
+*:SW_27
+I:Steve McConnell
+S:It's okay to figure out murdur mysteries, but you shouldn't need to figure out
+ :code.  You should be able to read it.
+
+*:SW_28
+I:Frederick P. Brooks Jr.
+S:Plan to throw one [implementation] away; you will, anyhow.
+
+*:SW_29
+I:Frederick P. Brooks Jr.
+S:Adding manpower to a late software project makes it later!
+
+*:SW_30
+I:Jim Highsmith
+S:The best way to get a project done faster is to start sooner.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -892,6 +1073,183 @@ S:The structure of a software system provides the ecology in which code is born,
 I:D. Vargas
 S:It's easy to cry "bug" when the truth is that you've got a complex system and
  :sometimes it takes a while to get all the components to co-exist peacefully.
+
+*:SW2_28
+I:Frederick P. Brooks Jr.
+S:Einstein argued that there must be simplified explanations of nature, because
+ :God is not capricious or arbitrary.  No such faith comforts the software
+ :engineer.
+
+*:SW2_29
+I:Frederick P. Brooks Jr.
+S:[Regarding the addition of more programmers to get a project completed faster]
+ :Nine people can't make a baby in a month.
+
+*:SW2_30
+I:Ken Thompson
+S:One of my most productive days was throwing away 1,000 lines of code.
+
+*:SW2_31
+I:Gerald Weinberg
+S:If builders built buildings the way programmers wrote programs, then the first
+ :woodpecker that came along would destroy civilization.
+
+*:SW2_32
+I:Andy Hunt
+S:No one in brief history of computing has ever written a piece of perfect
+ :software.  It's unlikely that you'll be the first.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:SW_ENG_3
+B:Some thoughts on Software Development and Engineering #2
+
+*:SW3_1
+I:Barry Boehm
+S:Poor management can increse software costs more rapidly than any other factor.
+
+*:SW3_2
+I:Anna Nachesa
+S:If the programmers like each other, they play a game called 'pair programming'.
+ :And if not then the game is called 'peer review'.
+
+*:SW3_3
+I:Steve McConnell
+S:It's better to wait for a productive programmer to become available than it is
+ :to wait for the first available programmer to become productive.
+
+*:SW3_4
+I:Anonymous
+S:You start coding.  I'll go find out what they want.
+
+*:SW3_5
+I:Scoff Cherf
+S:To go faster, slow down.  Everybody who knows about orbital mechanics
+ :understands that.
+
+*:SW3_6
+I:Albert Einstein
+S:The significant problems we face cannot be solved by
+ :the same level of thinking that created them.
+
+*:SW3_7
+I:Tom Van Vleck
+S:When somebody begins a sentence with "IT WOULD BE NICE IF.."
+ :the right thing to do is to wait politely for the speaker to finish.
+ :No project ever gets around to the it-would-be-nice-features:
+ :or if they do, they regret it.  Wait for sentences that begin
+ :"WE HAVE TO.." and pay close attention, and see if you agree.
+
+*:SW3_8
+I:Anonymous
+S:Why do we never have time to do it right, but always have time to DO IT OVER?
+
+*:SW3_9
+I:Bill Langley
+S:The perfect project is POSSIBLE if one first documents a list of
+ :ALL the UNKNOWNS.
+
+*:SW3_10
+I:FAST, GOOD, CHEAP. Choose any two.
+S:Software and cathedrals are much the same:
+ :first we build them, then we pray.
+
+*:SW3_11
+I:Frederick P. Brooks Jr.
+S:The bearing of a child takes nine months, no matter how many women as assigned.
+
+*:SW3_12
+I:Robert C. Martin
+S:Indeed, the ratio of time spent reading versus writing is well over 10 to 1.
+ :We are constantly reading old code as part of the effort to write new code.
+ :Therefore, making it easy to read makes it easier to write.
+
+*:SW3_13
+I:Frederick P. Brooks Jr.
+S:The conclusion is simple: if a 200-man project has 25 managers who are the
+ :most competent and experienced programmers, fire the 175 troops and put the
+ :managers back to programming.
+
+*:SW3_14
+I:Yegor Bugayenko, "Code Ahead: Vol. 1"
+S:Any software project must have a technical leader, who is responsible for all
+ :technical decisions made by the team and have enough authority to make them.
+ :Responsibility and authority are two mandatory components that must be present
+ :in order to make it possible to call such a person an architect.
+
+*:SW3_15
+I:Scott Rosenberg, "Dreaming in Code"
+S:Software is easy to make, except when you want it to do something new.
+ :And then, of course, there is a corollary: The only software that's worth
+ :making is software that does something new.
+
+*:SW3_16
+I:Edmond Lau, "The Effective Engineer"
+S:In his book, Software Abstractions, MIT Professor Daniel Jackson explains just
+ :how important it is to choose the right abstractions.  "Pick the right ones,
+ :and programming will flow naturally from design; modules will have small and
+ :simple interfaces; and new functionality will more likely fit in without
+ :extensive reorganization," Jackson writes.  "Pick the wrong ones, and program-
+ :ming will be a series of nasty surprises: interfaces will become baroque and
+ :clumsy as they are forced to accommodate unanticipated interactions, and even
+ :the simplest changes will be hard to make.
+
+*:SW3_17
+I:Piethein Strengholt
+S:Connascence, in the context of software engineering, refers to the degree of
+ :coupling between software components.  Software components are connascent if
+ :a change in one would require the other(s) to be modified in order to maintain
+ :the overall correctness of the system.
+
+*:SW3_18
+I:Laurent Bossavit, "The Leprechauns of Software Engineering"
+S:A lot of research in software engineering strikes me as hopelessly naive in
+ :one or two ways.  Most of it fails entirely to account for the social and
+ :belief aspects altogether.  It looks at its object of inquiry as if it was
+ :entirely material and inert; as if "software" was some kind of naturally
+ :occurring substance, the properties of which can be revealed in the equivalent
+ :of a test tube.
+
+*:SW3_19
+I:Dominica Degrandis, "Making Work Visible"
+S:Businesses frequently prioritize new feature releases over fixing technical
+ :debt.  They choose to work on revenue-generating work instead of revenue-
+ :protection work.  This rarely works out as the business hopes, particularly
+ :as problems discovered during the final stages of uncompleted projects drag
+ :engineers away from the newer projects.
+
+*:SW3_20
+I:Niklaus Wirth
+S:The belief that complex systems require armies of designers and programmers is
+ :wrong.  A system that is not understood in its entirety, or at least to a
+ :significant degree of detail by a single individual, should probably not
+ :be built.
+
+*:SW3_21
+I:Niklaus Wirth
+S:A primary cause of complexity is that software vendors uncritically adopt
+ :almost any feature that users want.
+
+*:SW3_22
+I:Frederick P. Brooks Jr.
+S:Good judgement comes from experience, and experience comes from bad judgement.
+
+*:SW3_23
+I:Dennis Ritchie
+S:... with proper design, the features come cheaply.  This approach is arduous,
+ :but contines to succeed.
+
+*:SW3_24
+I:Bertrand Meyer
+S:Correctness is clearly the prime quality.  If a system does not do what it is
+ :suppose to do, then everything else about it matters little.
+
+*:SW3_25
+I:Frederick P. Brook Jr.
+S:Conceptual integrity is the most important consideration in system design.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1303,6 +1661,20 @@ S:As for C++ - well, it reminds me of the Soviet-era labor joke:
  :eight by four billion, and all the syntactic sugar of C++ fundamentally cannot
  :mask the gapping holes in its object model left by the cast operator and
  :unconstrained address arithmetic.
+
+*:C_31
+I:Bertrand Meyer
+S:There are only two things wrong with C++: The initial concept and the
+ :implementation.
+
+*:C_32
+I:Erwin Dieterich
+S:The last good thing written in C was Franz Schubert's Symphony Number 9.
+
+*:C_33
+I:Larry Wall
+S:The problem with using C++ ... is that there's already a strong tendency in
+ :the language to require you to know everything before you can do anything.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1960,6 +2332,52 @@ S:Assumption is the mother of all fuckups.
 I:J. Horning
 S:Computer Science is the only discipline in which we view adding a new wing
  :to a building as being maintenance.
+
+*:FUNNY_30
+I:Anonymous
+S:All computers wait at the same speed.
+
+*:FUNNY_31
+I:Anonymous
+S:Artificial Intelligence usually beats natural stupidity.
+
+*:FUNNY_32
+I:Miguel de Icaza
+S:Every piece of software written today is likely going to infringe on someone
+ :else's patent.
+
+*:FUNNY_33
+I:Anonymous
+S:Good programming is 99% sweat and 1% coffee.
+
+*:FUNNY_34
+I:Jeff Atwood
+S:The older I get, the more I believe that the only way to become a better
+ :programmer is by not programming.
+
+*:FUNNY_35
+I:Bruce Ediger
+S:The only "intuitive" interface is the nipple.  After that it's all learned.
+
+*:FUNNY_36
+I:Larry Wall
+S:Real programmers can write assembly code in any language.
+
+*:FUNNY_37
+I:Jeff Atwood
+S:No one hates software more than software developers.
+
+*:FUNNY_38
+I:Anonymous
+S:Developer: an organism that turns coffee into code.
+
+*:FUNNY_39
+I:Anonymous
+S:There's no test like production.
+
+*:FUNNY_40
+I:Anonymous
+S:There is nothing quite so permanent as a quick fix.
 
 # for the last lesson, no question asked, just goto menu
 G:MENU
