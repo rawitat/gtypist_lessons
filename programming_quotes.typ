@@ -728,10 +728,84 @@ S:The competent programmer is fully aware of the strictly limited size of his
  :own skull; therefore he approaches the programming task in full humility, and
  :among other things he avoids clever tricks like the plague.
 
- *:G4_21
- I:Ricard Pattis
- S:If you cannot grok the overall structure of a program while taking a shower,
-  :you are not ready to code it.
+*:G4_21
+I:Ricard Pattis
+S:If you cannot grok the overall structure of a program while taking a shower,
+ :you are not ready to code it.
+
+*:G4_22
+I:Kurt Vonnegut
+S:If you can't write clearly, you probably don't think nearly as well you think.
+
+*:G4_23
+I:James Gosling
+S:You never actually find a perfect answer to a problem.  You just find the
+ :answer that has the fewest problems.
+
+*:G4_24
+I:Nick Takayama
+S:The hardest problem in computer science is not being an opinionated jerk
+ :about everything.
+
+*:G4_26
+I:Sam Morgan
+S:You code has two users: the computer, and every other person who has to work
+ :with what you wrote.
+
+*:G4_27
+I:Michael Feathers
+S:In a complex system you don't get to change just one thing - ever.
+
+*:G4_28
+I:Bjarne Stroustrup
+S:More good code has been written in languages denounced as bad than in languages
+ :proclaimed wonderful.
+
+*:G4_29
+I:Eric Raymond
+S:Smart data structures and dumb code works a lot better than
+ :the other way around.
+
+*:G4_30
+I:Dennis Ritchie
+S:A language that doesn't have everything is actually easier to program
+ :than some that do.
+
+*:G4_31
+I:Edsger W. Dijkstra
+S:... the purpose of abstraction is not to be vague, but to create a new semantic
+ :level in which one can be absolutely precise.
+
+*:G4_32
+I:B. Reid
+S:Computer Science is the first engineering discipline in which the complexity
+ :of the objects created is limited solely by the skill of the creator, and not
+ :by the strength of raw materials.
+
+*:G4_33
+I:Michael Feathers
+S:We just have to accept that developer skill is a far more significant variable
+ :than language choice or methodological nuances.
+
+*:G4_34
+I:Martin Fowler
+S:Comparing to another activity is useful if it helps you formulate questions,
+ :it's dangerous when you use it to justify answers.
+
+*:G4_35
+I:Alan J. Perlis
+S:Every program has (at least) two purposes: the one for which it was written,
+ :and another for which it wasn't.
+
+*:G4_36
+I:Ron Jeffries
+S:When we use a language, we should commit ourselves to knowing it, being able
+ :to read it, and writing it idiomatically.
+
+*:G4_37
+I:Steve McConnell
+S:A brute force solution that works is better than an elegant solution that
+ :doesn't work.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -893,6 +967,39 @@ S:Adding manpower to a late software project makes it later!
 *:SW_30
 I:Jim Highsmith
 S:The best way to get a project done faster is to start sooner.
+
+*:SW_31
+I:Douglas Hofstadter
+S:Hofstadter's Law: It always takes longer than you expect, even when you take
+ :into account Hofstadter's Law.
+
+*:SW_32
+I:Bertrand Meyer
+S:Incorrect documentation is often worse than no documentation.
+
+*:SW_33
+I:Larry McVoy
+S:Architect: SOmeone who knows the difference between that which could be done
+ :and that which should be done.
+
+*:SW_34
+I:J.D. Horton
+S:Nothing resolves design issues like an implementation.
+
+*:SW_35
+I:Putt's Law
+S:Putt's Law: Technology is dominated by two types of people:
+ :Those who understand what they do not manage.
+ :Those who manage what they do not understand.
+
+*:SW_36
+I:Steven Levy
+S:There has never been an unexpectedly short debugging period in the history
+ :of computers.
+
+*:SW_37
+I:Terry Baker
+S:A program is never less than 90% complete and never more than 95%.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1250,6 +1357,49 @@ S:Correctness is clearly the prime quality.  If a system does not do what it is
 *:SW3_25
 I:Frederick P. Brook Jr.
 S:Conceptual integrity is the most important consideration in system design.
+
+*:SW3_26
+I:Eric Raymond
+S:Ugly programs are like ugly suspension bridges: they're much more liable to
+ :collapse than pretty ones, because the way humans (especially engineer-human)
+ :perceive beauty is intimately related to our ability to process and understand
+ :complexity.
+
+*:SW3_27
+I:Andy Hunt and David Thomas
+S:It's not at all important to get it right the first time.  It's vitally
+ :important to get it right the last time.
+
+*:SW3_28
+I:Taligent's Guide to Designing Programs
+S:Remember that there is no code faster than no code.
+
+*:SW3_29
+I:John Carmack
+S:... the cost of adding a feature isn't just the time it takes to code it.
+ :The cost also includes the addition of an obstacle to future expansion.
+ :The trick is to pick the features that don't fight each other.
+
+*:SW3_30
+I:Frederick P. Brooks Jr.
+S:The fundamental problem with program maintenance is that fixing a defect has
+ :a substantial (20-50 percent) chance of introducing another.  So the whole
+ :process is two steps forward and one step backward.
+
+*:SW3_31
+I:Kevlin Henney, "The Imperial Clothing Crisis" (2002)
+S:Refactoring provides enough energy to a system for it to relax into a new
+ :and more comfortable state, a new local minimum.
+
+*:SW3_32
+I:Kent Beck
+S:Good engineering is not primarily making good decisions, it's seeking good
+ :feedback which lets you quickly discard bad decisions.
+
+*:SW3_33
+I:Bjarne Stroustrup
+S:The most important single aspect of software development is to be clear
+ :aobut what you are trying to build.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1676,6 +1826,16 @@ I:Larry Wall
 S:The problem with using C++ ... is that there's already a strong tendency in
  :the language to require you to know everything before you can do anything.
 
+*:C_34
+I:Brian Kernighan & Dennis Ritchie
+S:As we said in the preface to the first edition, C wears well as one's exper-
+ :ience with it grows.  With a decade more experience, we still feel that way.
+
+*:C_35
+I:David Keppel
+S:It has been discovered that C++ provides a remarkable facility for concealing
+ :the trivial details of a program such as where its bugs are.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1924,6 +2084,24 @@ S:The Perl programmer who veers off the road into the forest will get out of
 I:G. van Rossum
 S:Don't you hate code that's not properly indented? Making it [indenting] part
  :of the syntax guarantees that all code is properly indented.
+
+*:SCRIPT_21
+I:Alan Kay
+S:Perl is another example of filling a tiny, short-term need, and then being
+ :a real problem in the longer term.
+
+*:SCRIPT_22
+I:Jeff Polk
+S:There's no obfuscated Perl contest because it's pointless.
+
+*:SCRIPT_23
+I:Larry Wall
+S:A Perl program is correct if it gets the job done before your boss fire you.
+
+*:SCRIPT_24
+I:Brian Hook, about Perl
+S:I have a pretty major problem with a language where one of the most common
+ :variables has the name $_.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
