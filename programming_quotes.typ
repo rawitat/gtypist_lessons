@@ -1434,7 +1434,7 @@ S:Lisp is a programmable programming language.
 
 *:L1_6
 I:John McCarthy, "Early History of Lisp"
-S:One can even conjecture that Lisp owes it survival
+S:One can even conjecture that Lisp owes its survival
  :specifically to the fact that its programs are lists, which
  :everyone, including me, has regarded as a disadvantage.
 
