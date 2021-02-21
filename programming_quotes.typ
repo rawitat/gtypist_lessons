@@ -411,7 +411,7 @@ S:The purpose of computing is insight, not numbers.
 
 *:G2_30
 I:S. Heller, in "Efficient C/C++ Programming"
-S:The speed if a non-working program is irrelevant.
+S:The speed of a non-working program is irrelevant.
 
 *:G2_31
 I:G.H. Hardy, in "A Mathematician's Apology"
@@ -477,7 +477,7 @@ S:Computers are good at following instructions, but not at reading your mind.
 
 *:G3_6
 I:Donald E. Knuth
-S:Let us change our traditional attitude to the constuction of programs.
+S:Let us change our traditional attitude to the construction of programs.
  :Instead of imagining that our main task is to instruct a computer what to do,
  :let us concentrate rather on explaining to human beings what we want a
  :computer to do.
@@ -489,7 +489,7 @@ S:We should forget about small efficiencies, say about 97% of the time: prematur
 
 *:G3_8
 I:J. von Neumann
-S:In mathematics you don't understand things.  You just get used to thme.
+S:In mathematics you don't understand things.  You just get used to them.
 
 *:G3_9
 I:Alan J. Perlis
@@ -735,7 +735,7 @@ S:If you cannot grok the overall structure of a program while taking a shower,
 
 *:G4_22
 I:Kurt Vonnegut
-S:If you can't write clearly, you probably don't think nearly as well you think.
+S:If you can't write clearly, you probably don't think nearly as well as you think.
 
 *:G4_23
 I:James Gosling
