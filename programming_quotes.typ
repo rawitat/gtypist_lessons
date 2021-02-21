@@ -360,7 +360,7 @@ I:D. Gelernter, "Machine Beauty"
 S:Beauty is more important in computing than anywhere else in technology because
  :software is so complicated.  Beauty is the ultimate defense against complexity.
  :The geniuses of the computer field, on the other hand, are the people with
- :keenest aesthetic senses, the ones who are capable of creating beauty. Beauty
+ :keenest aesthetic senses, the ones who are capable of creating beauty.  Beauty
  :is decisive at every level: the most important interfaces, the most important
  :programming languages, the winning algorithms are the beautiful ones.
 
