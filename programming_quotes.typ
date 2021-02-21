@@ -276,7 +276,7 @@ S:I think conventional languages are for the birds.  They're just extensions of
  :individual words and computing addresses, and doing all kinds of silly things
  :like that, things that we've picked up from programming for computers; we've
  :built them into programming languages; we've built them into Fortran; we've
- :built them into PL/1; we've built them into almost every language.
+ :built them into PL/I; we've built them into almost every language.
 
 *:G2_11
 I:Aristophanes
