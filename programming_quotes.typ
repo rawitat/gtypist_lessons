@@ -261,7 +261,7 @@ S:Who cares how it works, just as long as it gives the right answer?
 I:Bill Gates
 S:The first rule of any technology used in a business is that automation
  :applied to an efficient operation will magnify the efficiency.
- :The second is that automation applied to an inefficiency operation will
+ :The second is that automation applied to an inefficient operation will
  :magnify the inefficiency.
 
 *:G2_9
