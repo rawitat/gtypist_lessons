@@ -2367,7 +2367,7 @@ B:Perl, Ruby, Python, etc. Mostly scriptings languages.
 
 *:SCRIPT_1
 I:Keith Bostic
-S:Perl - The only language that looks that same before and after RSA encryption.
+S:Perl - The only language that looks the same before and after RSA encryption.
 
 *:SCRIPT_2
 I:Jon Ribbens
