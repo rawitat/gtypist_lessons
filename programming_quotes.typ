@@ -2077,7 +2077,7 @@ S:A C Program is like a fast dance on a newly waxed dance floor by people
 
 *:C_7
 I:Ron Sercely.
-S:The evolution of languages: FORTRAN is a non-typed language.  C is a weakly
+S:The evolution of languages: Fortran is a non-typed language.  C is a weakly
  :typed language. Ada is a strongly styped language.  C++ is a strongly hyped
  :language.
 
@@ -2158,7 +2158,7 @@ S:C++ would make a decent teaching language if we could teach the ++ part
 *:C_23
 I:Larry O'Brien
 S:From a practical viewpoint, it's easy to see that C will always be with us,
- :taking a place beside FORTRAN and COBOL as the right tool for certain jobs.
+ :taking a place beside Fortran and COBOL as the right tool for certain jobs.
 
 *:C_24
 I:Bertrand Meyer
@@ -2166,12 +2166,12 @@ S:C++ is the only current language making COBOL look good.
 
 *:C_25
 I:Bill Joy
-S:You can't prove anything about a program written in C or FORTRAN.
+S:You can't prove anything about a program written in C or Fortran.
  :It's really just Peek and Poke with some syntactic sugar.
 
 *:C_26
 I:Philip Greenspun
-S:Any sufficiently complicated C or FORTRAN program contains an ad hoc
+S:Any sufficiently complicated C or Fortran program contains an ad hoc
  :informally-specified bug-ridden slow implementation of half of Common Lisp.
 
 *:C_27
@@ -2664,18 +2664,18 @@ S:I couldn't resist the temptation to put in a null reference, simply because
 
 *:LEGACY_4
 I:Alan J. Perlis
-S:FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms,
+S:Fortran is not a flower but a weed -- it is hardy, occasionally blooms,
  :and grows in every computer.
 
 *:LEGACY_5
 I:Edsger W. Dijkstra
-S:FORTRAN, the infantile disorder, by now nearly 20 years old, is hopelessly
+S:Fortran, the infantile disorder, by now nearly 20 years old, is hopelessly
  :inadequate for whatever computer aπplication you have in mind today:
  :it is now too clumsy, too risky, and too expensive to use.
 
 *:LEGACY_6
 I:Ken Thompson, co-creator of B, Unix, Go
-S:FORTRAN was the language of choice for the same reason that three-legged
+S:Fortran was the language of choice for the same reason that three-legged
  :races are popular.
 
 *:LEGACY_7
@@ -2694,7 +2694,7 @@ S:COBOL programmers understand why women hate periods.
 *:LEGACY_10
 I:Edsger W. Dijkstra
 S:In the good old days physicists repeated each other's experiments, just
- :to be sure.  Today they stick to FORTRAN, so that they can share each other's
+ :to be sure.  Today they stick to Fortran, so that they can share each other's
  :programs, bugs included.
 
 *:LEGACY_11
@@ -2706,7 +2706,7 @@ S:COBOL is a very bad language, but all the others (for business data processing
 I:Ed Post
 S:As long as there are ill-defined goals, bizarre bugs, and unrealistic
  :schedules, there will be Real Programmers willing to jump in and Solve The
- :Problem, saving the documentation for later.  Long live FORTRAN!
+ :Problem, saving the documentation for later.  Long live Fortran!
 
 *:LEGACY_13
 I:Larry Wall
@@ -2719,12 +2719,12 @@ S:COBOL has almost no fervent enthusiasts.  As a programming tool, it has roughl
 
 *:LEGACY_15
 I:Steven Feiner
-S:You can tell how far we have to go, when FORTRAN is the language of
+S:You can tell how far we have to go, when Fortran is the language of
  :supercomputers.
 
 *:LEGACY_16
 I:John Krueger
-S:A computer without COBOL and FORTRAN is like a piece of chocolate cake without
+S:A computer without COBOL and Fortran is like a piece of chocolate cake without
  :ketchup or mustard.
 
 *:LEGACY_17
@@ -2739,7 +2739,7 @@ S:With respect to COBOL you can really do only one or two things: fight the
 *:LEGACY_19
 I:Peter Gabriel
 S:The very architecture of almost every computer today is designed to optimize
- :the performance of FORTRAN programs and its operating-system-level sister, C.
+ :the performance of Fortran programs and its operating-system-level sister, C.
 
 *:LEGACY_20
 I:Jargon File
@@ -2753,7 +2753,7 @@ S:COBOL programmers are destined to code COBOL for the rest of their lives,
 
 *:LEGACY_22
 I:Ed Post
-S:If you can't do it in FORTRAN, do it in assembly language.  If you can't do it
+S:If you can't do it in Fortran, do it in assembly language.  If you can't do it
  :in assembly language, it isn't worth doing.
 
 *:LEGACY_23
@@ -2763,7 +2763,7 @@ S:Using PL/I must be like flying a plane with 7,000 buttons, switches, and
 
 *:LEGACY_24
 I:Edsger W. Dijkstra
-S:When FORTRAN has been called infantile disorder, PL/I, with its growth
+S:When Fortran has been called infantile disorder, PL/I, with its growth
  :characteristics of a dangerous tumor, could turn out to be a fatal disease.
 
 *:LEGACY_25
@@ -2779,7 +2779,7 @@ S:C treats you like a consenting adult.  Pascal treats you like a naughty child.
 *:LEGACY_27
 I:Bill Joy
 S:There are a couple of people in the world who can really program in C or
- :FORTRAN.  They write code in less time than it takes for other programmers.
+ :Fortran.  They write code in less time than it takes for other programmers.
  :Most programmers aren't that good.  The problem is that those few programmers
  :who crank out code aren't interested in maintaining it.
 
