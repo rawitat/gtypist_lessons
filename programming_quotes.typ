@@ -12,11 +12,12 @@ M: "The Programming Quotes series contains the following lessons"
  :GENERAL_2   "General Wisdoms #2       Continuation of the above"
  :GENERAL_3   "General Wisdoms #3       Yet another continuation from above"
  :GENERAL_4   "General Wisdoms #4       You know the drill, from the above"
+ :GENERAL_5   "General Wisdoms #5       Yet another one of the above"
  :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
  :SW_ENG_2    "Software Engineering #2  Continuation of the above"
  :SW_ENG_3    "Software Engineering #3  Just like that, from above"
- :LISP        "Lisp                     Lisp and dialects"
- :LISP_2      "Lisp #2                  Lisp and dialects, continued"
+ :LISP        "Lisp and FP              Lisp and Functional Programming"
+ :LISP_2      "Lisp and FP #2           Continuation of the above"
  :C_CPP       "C, C++, Objective-C      C and its family (C++, Obj-C)"
  :JAVACS      "Java and C#              Java and C#, they belongs together"
  :DY_SCRIPT   "Dynamic Scripting        Perl, Ruby, Python, etc."
@@ -797,15 +798,193 @@ I:Alan J. Perlis
 S:Every program has (at least) two purposes: the one for which it was written,
  :and another for which it wasn't.
 
-*:G4_36
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:GENERAL_5
+B:General Wisdoms in Programming and Code Writing #5
+
+*:G5_1
 I:Ron Jeffries
 S:When we use a language, we should commit ourselves to knowing it, being able
  :to read it, and writing it idiomatically.
 
-*:G4_37
+*:G5_2
 I:Steve McConnell
 S:A brute force solution that works is better than an elegant solution that
  :doesn't work.
+
+*:G5_3
+I:Alan J. Perlis
+S:Syntactic sugar causes cancer of the semicolon, and other.
+
+*:G5_4
+I:Edsger W. Dijkstra
+S:The tools we use have a profound (and devious!) influence on our
+ :thinking habits, and, therefore, on our thinking abilities.
+
+*:G5_5
+I:Bjarne Stroustrup, "The Design and Evolution of C++"
+S:There is no agreement of what a programming language really is and what its
+ :main purpose is supposed to be.  Is a programming language a tool for instruct-
+ :ing machines? A means of communicating between programmers? A vehicle for
+ :expressing high-level designs? A notation for algorithms? A way of expressing
+ :relationships between concepts? A tool for experimentation? A means of controll-
+ :ing computerized devices? My view is that a general-purpose prorgamming language
+ :must be all of those to serve its diverse set of users.  The only thing a 
+ :language cannot be "and survive" is a mere collection of "neat" features.
+
+*:G5_6
+I:Bjarne Stroustrup, "The Design and Evolution of C++"
+S:It is my firm belief that all successful languages are grown and not merely
+ :designed from first principles.
+
+*:G5_7
+I:Bjarne Stroustrup, "The Design and Evolution of C++"
+I:I have reaffirmed a long-standing and strongly held view: Language comparisons
+ :are rarely meaningful and even less often fair.  A good comparison of major
+ :programming languages requires more effort than most people are willing to
+ :spend, experience in a wide range of application areas, a rigid maintenance
+ :of a detached and impartial point of view, and a sense of fairness.
+
+*:G5_8
+I:Bjarne Stroustrup, "LinuxWorld"
+S:I think that any language that aspires to mainstream use must provide a broad
+ :base for a variety of techniques -- including object-oriented programming
+ :(class hierarchies) and generic programming (parameterized types and 
+ :algorithms).  In particular, it must provide good facilities for composing
+ :programs out of separate parts (possibly writing in several different
+ :languages).  I also think that exceptions are necessary for managing the
+ :complexity of error handling.  A language that lacks such facilities forces
+ :its users to laboriously simulate them.
+
+*:G5_9
+I:Dennis Ritchie, "LinuxWorld"
+S:At least for the people who send me mail about a new language that they're
+ :designing, the general advice is: do it to learn about how to write a compiler.
+ :Don't have any expectations that anyone will use it, unless you hook up with
+ :some sort of organization in a position to push it hard.  It's a lottery, and
+ :some can buy a lot of the tickets. There are plenty of beautiful languages
+ :(more beautiful than C) that didn't catch on.  But someone does win the lottery,
+ :and doing a language at least teaches you something.
+
+*:G5_10
+I:Alan Kay, "Educom Review"
+S:What doesn't exist are really powerful general forms of arguing with computers
+ :right now.  So we have to have special orders coming in on special cases and
+ :then think up ways to do it. Some of these are generalizable and eventually you
+ :will get an actual engineering discipline.
+
+*:G5_11
+I:Abelson & Sussman, "SICP"
+S:We have also obtained a glimpse of another crucial idea about languages and
+ :program design.  This is the approach of stratified design, the notion that
+ :a complex system should be structured as a sequence of levels that are described
+ :using a sequence of languages.  Each level is constructed by combining parts
+ :that are regarded as primitive at that level, and the parts constructed at each
+ :level are used as primitives at the next level.  The language used at each level
+ :of a stratified design has primitives, means of combination, and means of
+ :abstraction appropriate to that level of detail.
+
+*:G5_12
+I:Simon Peyton Jones
+S:In the programming-language world, one rule of survival is simple: dance or die.
+ :It is not enough to make a beautiful language.  You must also make it easy for
+ :programs written in your beautiful language to interact with programs written in
+ :other languages.
+
+*:G5_13
+I:John McCarthy, "Towards a Mathematical Science of Computation"
+S:Let me re-assert that the question of whether there are limitations in
+ :principle of what problems man can make machines solve for him as compared
+ :to his own ability to solve problems, really is a technical question in
+ :recursive function theory.
+
+*:G5_14
+I:Kent Beck
+S:The craft of programming begins with empathy, not formatting or languages or
+ :tools or algorithms or data structures.
+
+*:G5_15
+I:Edsger W. Dijkstra
+S:Simplicity and elegance are unpopular because they require hard work and
+ :discipline to achieve and education to be appreciated.
+
+*:G5_16
+I:Edsger W. Dijkstra
+S:The question of whether computers can think is like the question of whether
+ :submarines can swim.
+
+*:G5_17
+I:Ken Thompson
+S:You can't trust code that you did not totally create yourself.
+
+*:G5_18
+I:Leonardo da Vinci
+S:Simplicity is the ultimate sophistication.
+
+*:G5_19
+I:Niklaus Wirth
+S:Increasingly, people seem to misinterpret complexity as sophistication, which
+:is baffling —-the incomprehensible should cause suspicion rather than admiration.
+:Possibly this trend results from a mistaken belief that using a somewhat
+:mysterious device confers an aura of power on the user.
+
+*:G5_20
+I:Chris Wenham
+S:Debugging time increases as a square of the program’s size.
+
+*:G5_21
+I:P.J. Plauger
+S:My definition of an expert in any field is a person who knows enough about
+ :what’s really going on to be scared.
+
+*:G5_22
+I:Richard Gabriel
+S:Old programs read like quiet conversations between a well-spoken research
+ :worker and a well-studied mechanical colleague, not as a debate with a compiler.
+ :Who’d have guessed sophistication bought such noise?
+
+*:G5_23
+I:R. Buckminster Fuller
+S:When I am working on a problem I never think about beauty.  I think only how to
+ :solve the problem.  But when I have finished, if the solution is not beautiful,
+ :I know it is wrong.
+
+*:G5_24
+I:Linus Torvalds
+S:I will, in fact, claim that the difference between a bad programmer and a good
+ :one is whether he considers his code or his data structures more important.
+ :Bad programmers worry about the code.  Good programmers worry about data
+ :structures and their relationships.
+
+*:G5_27
+I:Hans Hoffmann
+S:The ability to simplify means to eliminate the unnecessary so that
+ :the necessary may speak.
+
+*:G5_28
+I:John von Neumann
+S:There’s no sense being exact about something if you don’t even know
+ :what you’re talking about.
+
+*:G5_29
+I:Paul Graham
+S:In programming the hard part isn’t solving problems, but deciding
+ :what problems to solve.
+
+*:G5_30
+I:Rob Pike
+S:Such is modern computing: everything simple is made too complicated because
+ :it’s easy to fiddle with; everything complicated stays complicated because
+ :it’s hard to fix.
+
+*:G5_31
+I:Christer Ericson
+S:Premature optimization, that’s like a sneeze.
+ :Premature abstraction is like ebola; it makes my eyes bleed.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1401,6 +1580,17 @@ I:Bjarne Stroustrup
 S:The most important single aspect of software development is to be clear
  :aobut what you are trying to build.
 
+*:SW3_34
+I:David Parnas
+S:Q: What is the most often-overlooked risk in software engineering?
+ :
+ :A: Incompetent programmers.  There are estimates that the number of programmers
+ :needed in the U.S. exceeds 200,000.  This is entirely misleading. It is not a
+ :quantity problem; we have a quality problem.  One bad programmer can easily
+ :create two new jobs a year.  Hiring more bad programmers will just increase
+ :our perceived need for them.  If we had more good programmers, and could easily
+ :identify them, we would need fewer, not more.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1519,6 +1709,18 @@ S:Although my own previous enthusiasm has been for syntactically rich languages,
  :1970 Turing Lecture, in which he argued that Lisp's uniformity of structure
  :and power of self reference gave the programmer capabilities whose content
  :was well worth the sacrifice of visual form.
+
+*:L1_21
+I:Michael Feathers
+S:Object oriented programming makes code understandable by encapsulating moving
+ :parts.  Functional programming makes code understandable by minimizing moving
+ :parts.
+
+*:L1_22
+I:Audrey Tang
+S:Haskell is faster than C++, more concise than Perl, more regular than Python,
+ :more flexible than Ruby, more typeful than C#, more robust than Java, and has
+ :absolutely nothing in common with PHP.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1650,6 +1852,20 @@ S:The more of an IT flavor the job descriptions had, the less dangerous was the
 I:Paul Graham, "ANSI Common Lisp"
 S:The spirit of Lisp hacking can be expressed in two sentences.
  :Programming should be fun.  Programs should be beautiful.
+
+*:L2_22
+I:Philip Wadler, "How to declare an imperative"
+S:Whereas some declerative programmers only pay lip service to equational
+ :reasoning, users of functional languages exploit them every time they run a
+ :compiler, whether they notice it or not.
+
+*:L2_23
+I:Robin Milner
+S:There are many ways of trying to understand programs.  People often rely too
+ :much on one way, which is called 'debugging' and consists of running a
+ :partly-understood program to see if it does what you expected.  Another way,
+ :which ML advocates, is to install some means of understanding in the very
+ :programs themselves.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -2208,6 +2424,39 @@ S:Object-oriented programming as it emerged in Simula 67 allows software
  :structure to be based on real-world structures, and gives programmers a
  :powerful way to simplify the design and construction of complex programs.
 
+*:OOP_16
+I:Bertrand Meyer, "ITWorld.com"
+S:All I can really say by way of a reasonably short comment is that inheritance
+ :is a very flexible mechanism.  It's possible and in fact fairly common to misuse
+ :it, but that's not a reason to distrust it systematically as seems to have
+ :become the fashion.
+
+*:OOP_17
+I:Bertrand Meyer, "ITWorld.com"
+S:One problem I have with a good deal of the literature is that it is based on
+ :a view of inheritance strongly or even solely determined by knowledge of the
+ :mechanisms of C++ and Java.  I think that to understand the scope of inheritance
+ :one must look beyond these two languages, which are each the products of a
+ :specific time, a specific frame of mind, a specific market, and a specific
+ :frame of mind. One should learn from them but not be restricted by their view
+ :of the world. 
+
+*:OOP_18
+I:Charles Petzold, "Programming MS Windows with C#"
+S:In a sense, the whole history of new programming languages and class libraries
+ :for Windows has involved the struggle to reduce the windows hello-world program
+ :down to something small, sleek, and elegant.
+
+*:OOP_19
+I:Paul Graham
+S:The object-oriented model makes it easy to build up programs by accretion.
+ :What this often means, in practice, is that it provides a structured way to
+ :write spaghetti code.
+
+*:OOP_20
+I:Rob Pike
+S:Object-oriented design is the roman numerals of computing.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -2354,6 +2603,25 @@ S:There are a couple of people in the world who can really program in C or
  :FORTRAN.  They write code in less time than it takes for other programmers.
  :Most programmers aren't that good.  The problem is that those few programmers
  :who crank out code aren't interested in maintaining it.
+
+*:LEGACY_28
+I:Edsger W. Dijkstra
+S:APL is a mistake, carried through to perfection.  It is the language of the
+ :future for the programming techniques of the past: it creates a new generation
+ :of coding bums. 
+
+*:LEGACY_29
+I:John C. Reynolds
+S:Another line of development stemming from Algol 60 has led to languages such as
+ :Pascal and its descendants, e.g. Euclid, Mesa, and Ada, which are significantly
+ :lower-­level than Algol.  Each of these languages seriously restricts the block
+ :or procedure mechanism of Algol by eliminating features such as call by name,
+ :dynamic arrays, or proce­dure parameters.
+
+*:LEGACY_30
+I:Henry Spencer
+S:Programming graphics in X is like finding the square root of PI
+ :using Roman numerals.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -2556,6 +2824,11 @@ S:There's no test like production.
 *:FUNNY_40
 I:Anonymous
 S:There is nothing quite so permanent as a quick fix.
+
+*:FUNNY_41
+I:Paul Leary
+S:That's what's cool about working with computers.  They don't argue, they
+ :remember everything, and they don't drink all your beer.
 
 # for the last lesson, no question asked, just goto menu
 G:MENU
