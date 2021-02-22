@@ -870,7 +870,7 @@ S:It is my firm belief that all successful languages are grown and not merely
 
 *:G5_7
 I:Bjarne Stroustrup, "The Design and Evolution of C++"
-I:I have reaffirmed a long-standing and strongly held view: Language comparisons
+S:I have reaffirmed a long-standing and strongly held view: Language comparisons
  :are rarely meaningful and even less often fair.  A good comparison of major
  :programming languages requires more effort than most people are willing to
  :spend, experience in a wide range of application areas, a rigid maintenance
