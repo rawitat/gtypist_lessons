@@ -2404,7 +2404,7 @@ S:We just need the Turing machine to solve all our problems, in theory.
 
 *:SCRIPT_8
 I:Anonymous
-S:It you put 100 million monkeys to hammer away at keyboards for 100 million
+S:If you put 100 million monkeys to hammer away at keyboards for 100 million
  :years, one of them will write a C program.  The rest will write Perl.
 
 *:SCRIPT_9
