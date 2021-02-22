@@ -831,7 +831,7 @@ S:Any code of your own that you haven't looked at for six or more months
 *:SW_4
 I:Tom Cargill
 S:The first 90% of code accounts for the first 90% of the development time.
- :The remaining 10% of code accounts for the other 90% of the developemnt time.
+ :The remaining 10% of code accounts for the other 90% of the development time.
 
 *:SW_5
 I:Francis Glassborow
@@ -887,7 +887,7 @@ S:Complexity kills.  It sucks the life out of developers, it makes products
 
 *:SW_15
 I:C.A.R Hoare
-S:There are two ways of constructing a software design design.
+S:There are two ways of constructing a software design.
  :One way is to make it so simple that there are obviously no deficiencies.
  :And the other way is to make it so complicated that there are no
  :obvious deficiencies.
@@ -1216,7 +1216,7 @@ B:Some thoughts on Software Development and Engineering #2
 
 *:SW3_1
 I:Barry Boehm
-S:Poor management can increse software costs more rapidly than any other factor.
+S:Poor management can increase software costs more rapidly than any other factor.
 
 *:SW3_2
 I:Anna Nachesa
