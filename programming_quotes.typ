@@ -1487,7 +1487,7 @@ S:Software and cathedrals are much the same:
 
 *:SW3_11
 I:Frederick P. Brooks Jr.
-S:The bearing of a child takes nine months, no matter how many women as assigned.
+S:The bearing of a child takes nine months, no matter how many women are assigned.
 
 *:SW3_12
 I:Robert C. Martin
