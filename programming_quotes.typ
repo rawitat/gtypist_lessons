@@ -994,7 +994,7 @@ S:The ability to simplify means to eliminate the unnecessary so that
 
 *:G5_28
 I:John von Neumann
-S:There’s no sense being exact about something if you don’t even know
+S:There's no sense being exact about something if you don’t even know
  :what you’re talking about.
 
 *:G5_29
