@@ -221,6 +221,21 @@ I:Alan J. Perlis
 S:A programming language is low-level when its programs require attention
  :to the irrelevant.
 
+*:G_36
+I:Alan J. Perlis
+S:The best book on programming for the layman is 'Alice in Wonderland';
+ :but that's because it's the best book on anything for the layman.
+ 
+*:G_37
+I:Donald Knuth
+S:Everyday life is like programming, I guess.
+ :If you love something you can put beauty into it.
+
+*:G_38
+I:Paul Graham
+S:A programming language is for thinking about programs, not for expressing
+ :programs you've already thought of.  It should be a pencil, not a pen.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -628,6 +643,12 @@ S:Simplicity is prerequisite for reliability.
 I:Jordi Boggiano
 S:Focus on WHY instead of WHAT in your code will make you a better developer.
 
+*:G3_36
+I:Stewart Alsop
+S:Gates is the ultimate programming machine.  He believes everything can be
+ :defined, examined, reduced to essentials, and rearranged into a logical
+ :sequence that will achieve a particular goal.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -797,6 +818,12 @@ S:Comparing to another activity is useful if it helps you formulate questions,
 I:Alan J. Perlis
 S:Every program has (at least) two purposes: the one for which it was written,
  :and another for which it wasn't.
+
+*:G4_36
+I:Donald Knuth
+S:The most important thing in the programming language is the name.  A language
+ :will not succeed without a good name.  I have recently invented a very good\
+ :name and now I am looking for a suitable language.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -985,6 +1012,21 @@ S:Such is modern computing: everything simple is made too complicated because
 I:Christer Ericson
 S:Premature optimization, that’s like a sneeze.
  :Premature abstraction is like ebola; it makes my eyes bleed.
+
+*:G5_32
+I:John Romero
+S:You might not think that programmers are artists, but programming is an
+ :extremely creative profession. It's logic-based creativity.
+
+*:G5_33
+I:Ellen Ullman
+S:Programming is the art of algorithm design and the craft of debugging
+ :errant code.
+
+*:G5_34
+I:Edsger W. Dijkstra
+S:Prorgamming is one of the most difficult branches of applied mathematics;
+ :the poorer mathematicians had better remain pure mathematicians.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1722,6 +1764,86 @@ S:Haskell is faster than C++, more concise than Perl, more regular than Python,
  :more flexible than Ruby, more typeful than C#, more robust than Java, and has
  :absolutely nothing in common with PHP.
 
+*:L1_23
+I:Peter Seibel
+S:Consequently, a Common Lisp program tends to provide a much clearer mapping
+ :between your ideas about how the program works and the code you actually write.
+ :Your ideas aren't obscured by boilerplate code and endlessly repeated idioms.
+ :This makes your code easier to maintain because you don’t have to wade through
+ :reams of code every time you need to make a change.
+
+*:L1_24
+I:Simon Thompson, "Haskell: The Craft of Functional Programming"
+S:Haskell programs are easy to parallelize, and to run efficiently on multicore
+ :hardware, because there is no state to be shared between different threads.
+
+*:L1_25
+I:Robert C. Martin
+S:You don’t need semaphores if you don’t have side effects! You can’t have
+ :concurrent update problems if you don’t update!
+ :So that’s the big deal about functional languages; and it is one big fricking
+ :deal.  There is a freight train barreling down the tracks towards us, with
+ :multi-core emblazoned on it; and you’d better be ready by the time it gets here.
+
+*:L1_26
+I:John Carmack
+S:Programming in a functional style makes the state presented to your code
+ :explicit, which makes it much easier to reason about, and, in a completely
+ :pure system, makes thread race conditions impossible.
+
+*:L1_27
+I:Joe Armstrong, "Programming Erlang"
+S:Processes share no data with other processes.  This is the reason why we can
+ :easily distribute Erlang programs over multicores or networks.
+
+*:L1_28
+I:Martin Odersky
+S:non-determinism = parallel processing + mutable state
+
+*:L1_29
+I:Wikipedia
+S:In computer science, functional programming is a programming paradigm — 
+ :a style of building the structure and elements of computer programs — 
+ :that treats computation as the evaluation of mathematical functions and avoids
+ :changing-state and mutable data.
+ :
+ :(By contrast) Imperative programming is a programming paradigm that uses
+ :statements that change a program's state.
+
+
+*:L1_39
+I:Marry Rose Cook, "A Practical Introduction to Functional Programming (article)"
+S:When people talk about functional programming, they mention a dizzying number
+ :of ‘functional’ characteristics.  They mention immutable data, first class
+ :functions, and tail call optimisation.  These are language features that aid
+ :functional programming.
+
+*:L1_40
+I:Marry Rose Cook, continue from previous
+S:(Continue) They mention mapping, reducing, pipelining, recursing, currying and
+ :the use of higher order functions.  These are programming techniques used to
+ :write functional code.
+ :
+ :They mention parallelization, lazy evaluation, and determinism.  These are
+ :advantageous properties of functional programs.
+
+*:L1_41
+I:Marry Rose Cook, continue from previous
+S:(Continue) Ignore all that.  Functional code is characterised by one thing:
+ :the absence of side effects.  It (a pure function) doesn’t rely on data outside
+ :the current function, and it doesn’t change data that exists outside the
+ :current function.  Every other ‘functional’ thing can be derived from this
+ :property.  Use it as a guide rope as you learn.”
+
+*:L1_42
+I:Marry Rose Cook, continue from previous
+S:Functional code is characterised by one thing: the absence of side effects
+
+*:L1_43
+I:Alvin Alexander
+S:Functional programming is a way of writing software applications using only
+ :pure functions and immutable values.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1866,6 +1988,56 @@ S:There are many ways of trying to understand programs.  People often rely too
  :partly-understood program to see if it does what you expected.  Another way,
  :which ML advocates, is to install some means of understanding in the very
  :programs themselves.
+
+*:L2_24
+I:Alvin Alexander
+S:The best FP code is like algebra, and in algebra you never re-use variables.
+ :And not re-using variables has many benefits.
+
+*:L2_25
+I:Bartos Milewski
+S:Did you notice that in the definition of 'data race'
+ :there’s always talk of mutation?
+
+*:L2_26
+I:defmacro
+S:A functional program is ready for concurrency without any further modifications.
+ :You never have to worry about deadlocks and race conditions because you don’t
+ :need to use locks.  No piece of data in a functional program is modified twice
+ :by the same thread, let alone by two different threads.  That means you can
+ :easily add threads without ever giving conventional problems that plague
+ :concurrency applications a second thought.
+
+*:L2_27
+I:Jon Fairbairn
+S:By the way seriously: how do you debug Haskell programs?
+ :
+ :Mostly seriously: I don't.  If the programme doesn't work the way I intended it,
+ :I rewrite bits in a simpler fashion until I understand it well enough and it
+ :works.  For the sort of programme you were asking for, breaking things up until
+ :they are small enough that one can understand the individual parts completely
+ :(as I did in the solution I posted) and then composing them together really is
+ :the best approach.
+ :
+ :If you need to debug a programme that simple, what it's telling you is that
+ :you've written it the wrong way!
+
+*:L2_28
+I:Audrey Tang
+S:I think Haskell excels at everything but user base :)
+
+*:L2_29
+I:Audrey Tang
+S:Perl: "Easy things are easy, hard things are possible."
+ :Haskell: "Hard things are easy, the impossible just happened."
+
+*:L2_30
+I:Collection of "Shoot Yourself in the Foot with Haskell"
+S:You shoot the gun, but the bullet gets trapped in the IO monad.
+ :Couldn't match expected type 'Deer' against inferred type 'Foot'.
+ :The bullet is in the ST monad and the gun is in the IO monad, so you can't.
+ :You are perfectly fine as long as you just don't evaluate the foot.
+ :Nothing happens unless you start walking.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -2318,6 +2490,13 @@ S:A Perl program is correct if it gets the job done before your boss fire you.
 I:Brian Hook, about Perl
 S:I have a pretty major problem with a language where one of the most common
  :variables has the name $_.
+
+*:SCRIPT_25
+I:Guido van Rossum (creator of Python)
+S:Now, it's my belief that Python is a lot easier than to teach to students
+ :programming and teach them C or C++ or Java at the same time because all the
+ :details of the languages are so much harder.  Other scripting languages really
+ :don't work very well there either.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -2829,6 +3008,10 @@ S:There is nothing quite so permanent as a quick fix.
 I:Paul Leary
 S:That's what's cool about working with computers.  They don't argue, they
  :remember everything, and they don't drink all your beer.
+
+*:FUNNY_42
+I:Kathy Griffin
+S:I also love Mole, the unsung hero of reality programming.
 
 # for the last lesson, no question asked, just goto menu
 G:MENU
