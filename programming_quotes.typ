@@ -3041,7 +3041,7 @@ S:I won't program in Java anymore.  I'm not Marxist and don't believe in classes
 
 *:OOP_9
 I:Bill Joy
-S:I fear that new object-oriented systems may suffer the fat of Lisp, in that
+S:I fear that new object-oriented systems may suffer the fate of Lisp, in that
  :they can do many things, but the complexity of the class hierarchies may
  :cause them to collapse under their own weight.
 
