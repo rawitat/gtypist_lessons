@@ -773,7 +773,7 @@ S:The hardest problem in computer science is not being an opinionated jerk
 
 *:G4_26
 I:Sam Morgan
-S:You code has two users: the computer, and every other person who has to work
+S:Your code has two users: the computer, and every other person who has to work
  :with what you wrote.
 
 *:G4_27
