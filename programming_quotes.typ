@@ -1645,7 +1645,7 @@ B:From "The Elements of Programming Style" Book
 
 *:ELEM_P_1
 I:(1)
-S:Write clear -- don't be too clever.
+S:Write clearly -- don't be too clever.
 
 *:ELEM_P_2
 I:(2)
