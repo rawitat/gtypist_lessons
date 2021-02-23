@@ -1928,7 +1928,7 @@ S:Rule of Transparency
 *:UNIX_11
 I:Basics of Unix Philosophy
 S:Rule of Robustness
- :Robustness is the child of transpency and simplicity.
+ :Robustness is the child of transparency and simplicity.
 
 *:UNIX_12
 I:Basics of Unix Philosophy
