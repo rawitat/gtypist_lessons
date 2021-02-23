@@ -17,6 +17,7 @@ M: "The Programming Quotes series contains the following lessons"
  :SW_ENG_2    "Software Engineering #2        Continuation of the above"
  :SW_ENG_3    "Software Engineering #3        Just like that, from above"
  :ELEM_PRG    "Elements of Programming Style  Lessons from legendary 1978 book"
+ :UNIX_PRG    "The Art of Unix Programming    Quotes from another legendary book"
  :LISP        "Lisp and FP                    Lisp and Functional Programming"
  :LISP_2      "Lisp and FP #2                 Continuation of the above"
  :C_CPP       "C, C++, Objective-C            C and its family (C++, Obj-C)"
@@ -1867,6 +1868,261 @@ S:Document your data layouts.
 *:ELEM_P_56
 I:(56)
 S:Don't over comment.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:UNIX_PRG
+B:"The Art of Unix Programming", Eric S. Raymond
+
+*:UNIX_1
+I:(1)
+S:Culture? What Culture?
+
+*:UNIX_2
+I:(2)
+S:Unix is Fun to Hack.
+
+*:UNIX_3
+I:(3)
+S:Lessons of Unix can be applied elsewhere.
+
+*:UNIX_4
+I:Basics of Unix Philosophy
+S:Rule of Modularity
+ :Write simple parts connected by clean interfaces.
+
+*:UNIX_5
+I:Basics of Unix Philosophy
+S:Rule of Clarity
+ :Clarity is better than cleverness.
+
+*:UNIX_6
+I:Basics of Unix Philosophy
+S:Rule of Composition
+ :Design programs to be connected with other programs.
+
+*:UNIX_7
+I:Basics of Unix Philosophy
+S:Rule of Separation
+ :Separate policy from mechanism; separate interfaces from engines.
+
+*:UNIX_8
+I:Basics of Unix Philosophy
+S:Rule of Simplicity
+ :Design for simplicity; add complexity only where you must.
+
+*:UNIX_9
+I:Basics of Unix Philosophy
+S:Rule of Parsimony
+ :Write a big program only when it is clear by demonstration that
+ :nothing else will do.
+
+*:UNIX_10
+I:Basics of Unix Philosophy
+S:Rule of Transparency
+ :Design for visibility to make inspection and debugging easier.
+
+*:UNIX_11
+I:Basics of Unix Philosophy
+S:Rule of Robustness
+ :Robustness is the child of transpency and simplicity.
+
+*:UNIX_12
+I:Basics of Unix Philosophy
+S:Rule of Representation
+ :Fold knowledge into data, so program logic can be stupid and robust.
+
+*:UNIX_13
+I:Basics of Unix Philosophy
+S:Rule of Least Surprise
+ :In interface design, always do the least surprising thing.
+
+*:UNIX_14
+I:Basics of Unix Philosophy
+S:Rule of Silence
+ :When a program has nothing surprising to say, it should say nothing.
+
+*:UNIX_15
+I:Basics of Unix Philosophy
+S:Rule of Repair
+ :Repair when you can -- but when you must fail, fail noisily and
+ :as soon as possible.
+
+*:UNIX_16
+I:Basics of Unix Philosophy
+S:Rule of Economy
+ :Programmer is expensive; conserve it in preference to machine time.
+
+*:UNIX_17
+I:Basics of Unix Philosophy
+S:Rule of Generation
+ :Avoid hand-hacking; write programs to write programs when you can.
+
+*:UNIX_18
+I:Basics of Unix Philosophy
+S:Rule of Optimization
+ :Prototype before polishing.  Get it working before you optimize it.
+
+*:UNIX_19
+I:Basics of Unix Philosophy
+S:Rule of Diversity
+ :Distrust all claims for one true way.
+
+*:UNIX_20
+I:Basics of Unix Philosophy
+S:Rule of Extensibility
+ :Design for the future, because it will be here sooner than you think.
+
+*:UNIX_21
+I:(21)
+S:Python language is one example.  As we noted above, it is also heavily used
+ :for mathematical and scientific papers, and will probably dominate that niche
+ :for some years yet.
+
+*:UNIX_22
+I:(22)
+S:When the superior programmer refrains from coding, his force is felt for
+ :a thousand miles.
+
+*:UNIX_23
+I:(23)
+S:When you feel the urge to design a complex binary file format, or a complex
+ :binary application protocol, it is generally wise to lie down until the
+ :feeling passes
+
+*:UNIX_24
+I:(24)
+S:CSV (fields separated by commas, double quotes used to escape commas, 
+ :no continuation lines) is rarely found under Unix.
+
+*:UNIX_25
+I:(25)
+S:Use # as an introducer for comments.  It is good to have a way to embed
+ :annotations and comments in data files.  It’s best if they’re actually part of
+ :the file structure, and so will be preserved by tools that know its format.
+ :For comments that are not preserved during parsing, # is the conventional start
+ :character.
+
+*:UNIX_26
+I:(26)
+S:Transparency is therefore more than an esthetic triumph; it is a victory that
+ :will be reflected in lower costs throughout the software’s life cycle.
+
+*:UNIX_27
+I:(27)
+S:Top-down tends to be good practice when three preconditions are true:
+ :(a) you can specify in advance precisely what the program is to do,
+ :(b) the specification is unlikely to change significantly during implementation,
+ :and (c) you have a lot of freedom in choosing, at a low level, how the program
+ :is to get that job done.
+
+*:UNIX_28
+I:(28)
+S:There is a flip side to this.  In the Unix world, libraries which are delivered
+ :as libraries should come with exerciser programs.
+
+*:UNIX_29
+I:(29)
+S:When you see the right thing, do it—this may look like more work in the short
+ :term, but it’s the path of least effort in the long run.  If you don’t know
+ :what the right thing is, do the minimum necessary to get the job done, at
+ :least until you figure out what the right thing is.
+ :
+ :To do the Unix philosophy right, you have to be loyal to excellence.
+ :You have to believe that software design is a craft worth all the intelligence,
+ :creativity, and passion you can muster.  Otherwise you won’t look past the easy,
+ :stereotyped ways of approaching design and implementation; you’ll rush into
+ :coding when you should be thinking.  You’ll carelessly complicate when you
+ :should be relentlessly simplifying—and then you’ll wonder why your code bloats
+ :and debugging is so hard.
+
+*:UNIX_30
+I:(30)
+S:If you have any trouble sounding condescending, find a Unix user to show you
+ :how it’s done.
+
+*:UNIX_31
+I:(31)
+S:As with buildings, it’s easier to repair superstructure on top of a solid
+ :foundation than it is to replace the foundations without trashing the
+ :superstructure.
+
+*:UNIX_32
+I:(32)
+S:Make each program do one thing well.  To do a new job, build afresh rather
+ :than complicate old programs by adding new features.
+
+*:UNIX_33
+I:(33)
+S:The nightmare scenario is one in which corporate monopolism and statist
+ :power-seeking, always natural allies, feed back into each other and create
+ :rationales for increasing regulation, repression, and criminalization of
+ :digital speech.
+
+*:UNIX_34
+I:(34)
+S:To design for compactness and orthogonality, start from zero.
+ :Zen teaches that attachment leads to suffering; experience with software
+ :design teaches that attachment to unnoticed assumptions leads to
+ :non-orthogonality, noncompact designs, and projects that fail or become
+ :maintenance nightmares.
+
+*:UNIX_35
+I:(35)
+S:Web pages get bogged down in the dispute over whether the reader or author
+ :should control the appearance
+
+*:UNIX_36
+I:(36)
+S:To design the perfect anti-Unix, write an operating system that thinks it knows
+ :what you’re doing better than you do.  And then adds injury to insult by getting
+ :it wrong.
+
+*:UNIX_37
+I:(37)
+S:One of the main lessons of Zen is that we ordinarily see the world through
+ :a haze of preconceptions and fixed ideas that proceed from our desires.
+ :To achieve enlightenment, we must follow the Zen teaching not merely to let go
+ :of desire and attachment, but to experience reality exactly as it is —- without
+ :the preconceptions and the fixed ideas getting in the way.
+
+*:UNIX_38
+I:(38)
+S:Tools that look glossy but shatter under stress are not good long-term value.
+
+*:UNIX_39
+I:(39)
+S:Rushing to optimize before the bottlenecks are known may be the only error to
+ :have ruined more designs than feature creep.  From tortured code to incomprehen-
+ :sible data layouts, the results of obsessing about speed or memory or disk usage
+ :at the expense of transparency and simplicity are everywhere.  They spawn
+ :innumerable bugs and cost millions of man-hours—often, just to get marginal
+ :gains in the use of some resource much less expensive than debugging time.
+ :Disturbingly often, premature local optimization actually hinders global
+ :optimization (and hence reduces overall performance).  A prematurely optimized
+ :portion of a design frequently interferes with changes that would have much
+ :higher payoffs across the whole design, so you end up with both inferior
+ :performance and excessively complex code.
+
+*:UNIX_40
+I:(40)
+S:Mixing languages is better than writing everything in one, if and only if
+ :using only that one is likely to overcomplicate the program.
+
+*:UNIX_41
+I:(41)
+S:Are the individual functions in your modules too large? 
+ :
+ :This is not so much a matter of line count as it is of internal complexity.
+ :If you can’t informally describe a function’s contract with its callers in
+ :one line, the function is probably too large.
+ :
+ :Many years ago, I learned from Kernighan & Plauger’s "The Elements of
+ :Programming Style" a useful rule.  Write that one-line comment immediately
+ :after the prototype of your function.  For every function, without exception.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
