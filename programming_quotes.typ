@@ -8,22 +8,23 @@
 *:MENU
 B:The Programming and Programming Languages Quotes Course
 M: "The Programming Quotes series contains the following lessons"
- :GENERAL     "General Wisdoms          General Wisdoms in Programming and Code Writing"
- :GENERAL_2   "General Wisdoms #2       Continuation of the above"
- :GENERAL_3   "General Wisdoms #3       Yet another continuation from above"
- :GENERAL_4   "General Wisdoms #4       You know the drill, from the above"
- :GENERAL_5   "General Wisdoms #5       Yet another one of the above"
- :SW_ENG      "Software Engineering     Some thoughts on Software Dev/Eng"
- :SW_ENG_2    "Software Engineering #2  Continuation of the above"
- :SW_ENG_3    "Software Engineering #3  Just like that, from above"
- :LISP        "Lisp and FP              Lisp and Functional Programming"
- :LISP_2      "Lisp and FP #2           Continuation of the above"
- :C_CPP       "C, C++, Objective-C      C and its family (C++, Obj-C)"
- :JAVACS      "Java and C#              Java and C#, they belongs together"
- :DY_SCRIPT   "Dynamic Scripting        Perl, Ruby, Python, etc."
- :OOP         "Object-Oriented          OO Designs and implementation in Languages"
- :LEGACY      "Older, Legacy Languages  COBOL, Fortran, etc"
- :FUNNY       "Facts & Funny            Facts & Funny about Programmers"
+ :GENERAL     "General Wisdoms                ... in Programming and Code Writing"
+ :GENERAL_2   "General Wisdoms #2             Continuation of the above"
+ :GENERAL_3   "General Wisdoms #3             Yet another continuation from above"
+ :GENERAL_4   "General Wisdoms #4             You know the drill, from the above"
+ :GENERAL_5   "General Wisdoms #5             Yet another one of the above"
+ :SW_ENG      "Software Engineering           Some thoughts on Software Dev/Eng"
+ :SW_ENG_2    "Software Engineering #2        Continuation of the above"
+ :SW_ENG_3    "Software Engineering #3        Just like that, from above"
+ :ELEM_PRG    "Elements of Programming Style  Lessons from legendary 1978 book"
+ :LISP        "Lisp and FP                    Lisp and Functional Programming"
+ :LISP_2      "Lisp and FP #2                 Continuation of the above"
+ :C_CPP       "C, C++, Objective-C            C and its family (C++, Obj-C)"
+ :JAVACS      "Java and C#                    Java and C#, they belongs together"
+ :DY_SCRIPT   "Dynamic Scripting              Perl, Ruby, Python, etc."
+ :OOP         "Object-Oriented                OO Designs and implementation in Languages"
+ :LEGACY      "Older, Legacy Languages        COBOL, Fortran, etc"
+ :FUNNY       "Facts & Funny                  Facts & Funny about Programmers"
 
 
 # ###########################################################################
@@ -1632,6 +1633,240 @@ S:Q: What is the most often-overlooked risk in software engineering?
  :create two new jobs a year.  Hiring more bad programmers will just increase
  :our perceived need for them.  If we had more good programmers, and could easily
  :identify them, we would need fewer, not more.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:ELEM_PRG
+B:From "The Elements of Programming Style" Book
+
+*:ELEM_P_1
+I:(1)
+S:Write clear -- don't be too clever.
+
+*:ELEM_P_2
+I:(2)
+S:Say what you mean, simply and directly.
+
+*:ELEM_P_3
+I:(3)
+S:Use library functions whenever feasible.
+
+*:ELEM_P_4
+I:(4)
+S:Avoid too many temporary variables.
+
+*:ELEM_P_5
+I:(5)
+S:Write clearly -- don't sacrifice clarity for efficiency.
+
+*:ELEM_P_6
+I:(6)
+S:Let the machine do the dirty work.
+
+*:ELEM_P_7
+I:(7)
+S:Replace repetitive expressions by calls to common functions.
+
+*:ELEM_P_8
+I:(8)
+S:Parenthesize to avoid ambiguity.
+
+*:ELEM_P_9
+I:(9)
+S:Choose variable names that won't be confused.
+
+*:ELEM_P_10
+I:(10)
+S:Avoid unnecessary branches.
+
+*:ELEM_P_11
+I:(11)
+S:If a logical expression is hard to understand, try transforming it.
+
+*:ELEM_P_12
+I:(12)
+S:Choose a data representation that makes the program simple.
+
+*:ELEM_P_13
+I:(13)
+S:Write first in easy-to-understand pseudo language; then translate into
+ :whatever language you have to use.
+
+*:ELEM_P_14
+I:(14)
+S:Modularize.  Use procedures and functions.
+
+*:ELEM_P_15
+I:(15)
+S:Avoid gotos completely if you can keep the program readable.
+
+*:ELEM_P_16
+I:(16)
+S:Don't patch bade code -- rewrite it.
+
+*:ELEM_P_17
+I:(17)
+S:Write and test a big program in small pieces.
+
+*:ELEM_P_18
+I:(18)
+S:Use recursive procedures for recursively-defined data structures.
+
+*:ELEM_P_19
+I:(19)
+S:Test input for plausibility and validity.
+
+*:ELEM_P_20
+I:(20)
+S: Make sure input doesn't violate limits of the program.
+
+*:ELEM_P_21
+I:(21)
+S:Terminate input by end-of-file marker, not by count.
+
+*:ELEM_P_22
+I:(22)
+S:Identify bad input; recover if poossible.
+
+*:ELEM_P_23
+I:(23)
+S:Make input easy to prepare and output self-explanatory.
+
+*:ELEM_P_24
+I:(24)
+S:Use uniform input formats.
+
+*:ELEM_P_25
+I:(25)
+S:Make input easy to proofread.
+
+*:ELEM_P_26
+I:(26)
+S:Use self-identifying input.  Allow defaults.  Echo both on output.
+
+*:ELEM_P_27
+I:(27)
+S:Make sure all variables are initialized before use.
+
+*:ELEM_P_28
+I:(28)
+S:Don't stop at one bug.
+
+*:ELEM_P_29
+I:(29)
+S:Use debugging compilers.
+
+*:ELEM_P_30
+I:(30)
+S:Watch out for off-by-one errors.
+
+*:ELEM_P_31
+I:(31)
+S:Take care of branch the right way on equality.
+
+*:ELEM_P_32
+I:(32)
+S:Be careful if a loop exits to the same place from the middle and the bottom.
+
+*:ELEM_P_33
+I:(33)
+S:Make sure your code does "nothing" gracefully.
+
+*:ELEM_P_34
+I:(34)
+S:Test programs at their boundary values.
+
+*:ELEM_P_35
+I:(35)
+S:Check some answers by hand.
+
+*:ELEM_P_36
+I:(36)
+S:10.0 times 0.1 is hardly ever 1.0.
+
+*:ELEM_P_37
+I:(37)
+S:7/8 is zero while 7.0/8.0 is not zero.
+
+*:ELEM_P_38
+I:(38)
+S:Don't compare floating point numbers solely for equality.
+
+*:ELEM_P_39
+I:(39)
+S:Make it right before you make it faster.
+
+*:ELEM_P_40
+I:(40)
+S:Make it fail-safe before you make it faster.
+
+*:ELEM_P_41
+I:(41)
+S:Make it clear before you make it faster.
+
+*:ELEM_P_42
+I:(42)
+S:Don't sacrifice clarity for small gains in efficiency.
+
+
+*:ELEM_P_43
+I:(43)
+S:Let your compiler do the simple optimizations.
+
+*:ELEM_P_44
+I:(44)
+S:Don't strain to re-use code; reorganize instead.
+
+*:ELEM_P_45
+I:(45)
+S:Make sure special cases are truly special.
+
+*:ELEM_P_46
+I:(46)
+S:Keep it simple to make it faster.
+
+*:ELEM_P_47
+I:(47)
+S:Don't diddle code to make it faster -- find a better algorithm.
+
+*:ELEM_P_48
+I:(48)
+S:Instrument your programs.  Measure before making efficiency changes.
+
+*:ELEM_P_49
+I:(49)
+S:Make sure comments and code agree.
+
+*:ELEM_P_50
+I:(50)
+S:Don't just echo the code with comments -- make every comment count.
+
+*:ELEM_P_51
+I:(51)
+S:Don't comment bad code -- rewrite it.
+
+*:ELEM_P_52
+I:(52)
+S:Use variable names that meaning something.
+
+*:ELEM_P_53
+I:(53)
+S:Use statement labels that mean something.
+
+*:ELEM_P_54
+I:(54)
+S:Format a program to help the reader understand it.
+
+*:ELEM_P_55
+I:(55)
+S:Document your data layouts.
+
+*:ELEM_P_56
+I:(56)
+S:Don't over comment.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
