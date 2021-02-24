@@ -1629,7 +1629,7 @@ I:David Parnas
 S:Q: What is the most often-overlooked risk in software engineering?
  :
  :A: Incompetent programmers.  There are estimates that the number of programmers
- :needed in the U.S. exceeds 200,000.  This is entirely misleading. It is not a
+ :needed in the U.S. exceeds 200,000.  This is entirely misleading.  It is not a
  :quantity problem; we have a quality problem.  One bad programmer can easily
  :create two new jobs a year.  Hiring more bad programmers will just increase
  :our perceived need for them.  If we had more good programmers, and could easily
