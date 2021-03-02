@@ -1991,7 +1991,7 @@ S:When the superior programmer refrains from coding, his force is felt for
 I:(23)
 S:When you feel the urge to design a complex binary file format, or a complex
  :binary application protocol, it is generally wise to lie down until the
- :feeling passes
+ :feeling passes.
 
 *:UNIX_24
 I:(24)
