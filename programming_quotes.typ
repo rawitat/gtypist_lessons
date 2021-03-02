@@ -1706,7 +1706,7 @@ S:Avoid gotos completely if you can keep the program readable.
 
 *:ELEM_P_16
 I:(16)
-S:Don't patch bade code -- rewrite it.
+S:Don't patch bad code -- rewrite it.
 
 *:ELEM_P_17
 I:(17)
