@@ -2762,7 +2762,7 @@ S:Java is a DSL to transforming big XML documents into long exception
 
 *:JAVACS_9
 I:Tel Hudson
-S:Using Java for serios jobs is like trying to take the skin off a rice pudding
+S:Using Java for serious jobs is like trying to take the skin off a rice pudding
  :wearing boxing groves.
 
 *:JAVACS_10
