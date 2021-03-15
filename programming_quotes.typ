@@ -824,7 +824,7 @@ S:Every program has (at least) two purposes: the one for which it was written,
 *:G4_36
 I:Donald Knuth
 S:The most important thing in the programming language is the name.  A language
- :will not succeed without a good name.  I have recently invented a very good\
+ :will not succeed without a good name.  I have recently invented a very good
  :name and now I am looking for a suitable language.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
@@ -1375,7 +1375,7 @@ S:[The spec] Be literal in your interpretation and smile when the designer
 I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:Let's face it: superb code and unit testing will be useless if the overall
  :design is poor.  And how can there be a rational, effective design if no one
- :on the design team can walk you through the more important transactions, step`
+ :on the design team can walk you through the more important transactions, step
  :by step and alternative by alternative.
 
 *:SW2_24
