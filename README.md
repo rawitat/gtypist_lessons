@@ -1,2 +1,12 @@
-# gtypist_lessons
-Collection of my own GNU Typist Lessons
+# What is this?
+This is "Collection of famous quotes in computer programming, software development, programming languages, etc" by many famous and legendary people (such as Alan Kay, Bjarne Stroustrup, Alan J. Perlis, etc), compiled into GNU Typist (gtypist) lessons.
+
+# Requirement
+- GNU Typist (any version should do, I tested with 2.9.x)
+
+# Usage
+```bash
+# in the cloned directory
+$ gtypist programming_quotes.typ 
+```
+Also see GNU Typist manual for other gtypist options.
