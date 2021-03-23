@@ -16,6 +16,7 @@ M: "The Programming Quotes series contains the following lessons"
  :SW_ENG      "Software Engineering           Some thoughts on Software Dev/Eng"
  :SW_ENG_2    "Software Engineering #2        Continuation of the above"
  :SW_ENG_3    "Software Engineering #3        Just like that, from above"
+ :OPTMZ_1     "Optimization                   Concerning Performance and optimization"
  :ELEM_PRG    "Elements of Programming Style  Lessons from legendary 1978 book"
  :UNIX_PRG    "The Art of Unix Programming    Quotes from another legendary book"
  :LISP        "Lisp and FP                    Lisp and Functional Programming"
@@ -1635,6 +1636,146 @@ S:Q: What is the most often-overlooked risk in software engineering?
  :our perceived need for them.  If we had more good programmers, and could easily
  :identify them, we would need fewer, not more.
 
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:OPTMZ_1
+B:Concerning Performance, Speed, and Optimization  
+
+*:OTM_1
+I:Donald E. Knuth
+S:We should forget about small efficiencies, say about 97% of the time: premature
+ :optimization is the root of all evil.
+
+
+*:OTM_2
+I:W. Wulf
+S:More bugs have introduced into programs through premature optimization than
+ :any other cause, including pure stupidity.
+ :
+ :(Sometimes quoted as:)
+ :More computing sins are committed in the name of efficiency, without 
+ :necessarily achieving it, than for any other single reason -including blind
+ :stupidity.
+
+
+*:OTM_3
+I:Donald E. Knuth
+S:You're bound to be unhappy if you optimize everything.
+
+
+*:OTM_4
+I:Steve McConnell
+S:The big optimizations come from refining the high-level design, not the
+ :individual routines.
+
+*:OTM_5
+I:Christer Ericson
+S:Premature optimization, that’s like a sneeze.
+ :Premature abstraction is like ebola; it makes my eyes bleed.
+
+*:OTM_6
+I:Elements of Programming Style, Kernighan & Plauger
+S:Let your compiler do the simple optimizations.
+
+
+*:OTM_7
+I:The Art of Unix Programming, Eric Raymond
+S:Rule of Optimization
+ :Prototype before polishing.  Get it working before you optimize it.
+
+*:OTM_8
+I:The Art of Unix Programming, Eric Raymond
+S:Rushing to optimize before the bottlenecks are known may be the only error to
+ :have ruined more designs than feature creep.  From tortured code to incomprehen-
+ :sible data layouts, the results of obsessing about speed or memory or disk usage
+ :at the expense of transparency and simplicity are everywhere.  They spawn
+ :innumerable bugs and cost millions of man-hours—often, just to get marginal
+ :gains in the use of some resource much less expensive than debugging time.
+ :Disturbingly often, premature local optimization actually hinders global
+ :optimization (and hence reduces overall performance).  A prematurely optimized
+ :portion of a design frequently interferes with changes that would have much
+ :higher payoffs across the whole design, so you end up with both inferior
+ :performance and excessively complex code.
+
+*:OTM_9
+I:Peter Gabriel
+S:The very architecture of almost every computer today is designed to optimize
+ :the performance of Fortran programs and its operating-system-level sister, C.
+
+*:OTM_10
+I:D. Jones
+S:The fastest algorithm can frequently be replaced by one that is almost as fast
+ :and much easier to understand.
+
+*:OTM_11
+I:Kent Beck
+S:Make it work, make it right, make it fast.
+
+*:OTM_12
+I:Elements of Programming Style, Kernighan & Plauger
+S:Make it right before you make it faster.
+
+*:OTM_13
+I:Elements of Programming Style, Kernighan & Plauger
+S:Make it fail-safe before you make it faster.
+
+*:OTM_14
+I:Elements of Programming Style, Kernighan & Plauger
+S:Make it clear before you make it faster.
+
+*:OTM_15
+I:Elements of Programming Style, Kernighan & Plauger
+S:Keep it simple to make it faster.
+
+*:OTM_16
+I:Elements of Programming Style, Kernighan & Plauger
+S:Don't diddle code to make it faster -- find a better algorithm.
+
+*:OTM_17
+I:Jon Bentley and Doug McIlroy
+S:The key to performance is elegance, not battalions of
+ :special cases.
+
+*:OTM_18
+I:John Ousterhout
+S:The best performance improvement is the transition from the nonworking state
+ :to the working state.
+
+*:OTM_19
+I:Elements of Programming Style, Kernighan & Plauger
+S:Instrument your programs.  Measure before making efficiency changes.
+
+*:OTM_20
+I:S. Heller, in "Efficient C/C++ Programming"
+S:The speed of a non-working program is irrelevant.
+
+*:OTM_21
+I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+S:Software quality has almost nothing to do with algorithmic elegance, compact-
+ :ness, or speed - in fact, those attributes do more harm to quality than good.
+
+*:OTM_22
+I:Donald E. Knuth, "Selected Papers on Computer Science"
+S:The best programs are written so that computing machines can perform
+ :them quickly and so that human beings can understand them clearly.
+ :A programmer is ideally an essayist who works with traditional aesthetic
+ :and literary forms as well as mathematical concepts, to communicate
+ :the way that an algorithm works and to convince a reader that the results
+ :will be correct.
+
+*:OTM_23
+I:D. Gelernter, "Machine Beauty"
+S:Beauty is more important in computing than anywhere else in technology because
+ :software is so complicated.  Beauty is the ultimate defense against complexity.
+ :The geniuses of the computer field, on the other hand, are the people with
+ :keenest aesthetic senses, the ones who are capable of creating beauty.  Beauty
+ :is decisive at every level: the most important interfaces, the most important
+ :programming languages, the winning algorithms are the beautiful ones.
+
+ 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
