@@ -1350,7 +1350,7 @@ S:To me, development consists of two processes that feed each other.  First,
 
 *:SW2_20
 I:Paul Graham, "ANSI Common Lisp"
-S:Planning is necessary evil.  It is a response to risk: the more dangerous an`
+S:Planning is necessary evil.  It is a response to risk: the more dangerous an
  :undertaking, the more important it is to plan ahead.  Powerful tools decrease
  :risk, and so decrease the need for planning.  The design of your program can
  :then benefit from what is probably the most useful source of information
