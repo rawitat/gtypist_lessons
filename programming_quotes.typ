@@ -904,7 +904,7 @@ S:At least for the people who send me mail about a new language that they're
 I:Alan Kay, "Educom Review"
 S:What doesn't exist are really powerful general forms of arguing with computers
  :right now.  So we have to have special orders coming in on special cases and
- :then think up ways to do it. Some of these are generalizable and eventually you
+ :then think up ways to do it.  Some of these are generalizable and eventually you
  :will get an actual engineering discipline.
 
 *:G5_11
