@@ -1177,7 +1177,7 @@ S:What one programmer can do in one month, two programmers can do in two months.
 
 *:SW_27
 I:Steve McConnell
-S:It's okay to figure out murdur mysteries, but you shouldn't need to figure out
+S:It's okay to figure out murder mysteries, but you shouldn't need to figure out
  :code.  You should be able to read it.
 
 *:SW_28
