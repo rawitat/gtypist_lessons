@@ -1871,7 +1871,7 @@ S:Terminate input by end-of-file marker, not by count.
 
 *:ELEM_P_22
 I:(22)
-S:Identify bad input; recover if poossible.
+S:Identify bad input; recover if possible.
 
 *:ELEM_P_23
 I:(23)
