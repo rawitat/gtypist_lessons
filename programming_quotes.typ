@@ -2505,7 +2505,7 @@ S:Within a couple weeks of learning Lisp I found programming in any other
 I:Paul Graham
 S:Historically, languages designed for other people to use have been bad:
  :Cobol, PL/I, Pascal, Ada, C++.  The good languages have been those that
- :were designed for their own creators: C, Perl, Smalltalk, Lisp
+ :were designed for their own creators: C, Perl, Smalltalk, Lisp.
 
 *:L2_6
 I:Glenn Ehrlich
