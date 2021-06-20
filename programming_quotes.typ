@@ -2549,7 +2549,7 @@ S:The most powerful programming language is Lisp.  If you don't know Lisp (or it
 
 *:L2_13
 I:Larry Wall
-S:By policy, Lisp has never really catered to mere motrals.  And, of course,
+S:By policy, Lisp has never really catered to mere mortals.  And, of course,
  :mere mortals have never really forgiven Lisp for not catering to them.
 
 *:L2_14
