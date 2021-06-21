@@ -3425,9 +3425,9 @@ S:APL is a mistake, carried through to perfection.  It is the language of the
 I:John C. Reynolds
 S:Another line of development stemming from Algol 60 has led to languages such as
  :Pascal and its descendants, e.g. Euclid, Mesa, and Ada, which are significantly
- :lower-­level than Algol.  Each of these languages seriously restricts the block
+ :lower level than Algol.  Each of these languages seriously restricts the block
  :or procedure mechanism of Algol by eliminating features such as call by name,
- :dynamic arrays, or proce­dure parameters.
+ :dynamic arrays, or procedure parameters.
 
 *:LEGACY_30
 I:Henry Spencer
