@@ -3440,7 +3440,7 @@ N:MENU
 # ###########################################################################
 
 *:FUNNY
-B:Funny but True about Programmers
+B:Funny but True about Programmers/Programming
 
 *:FUNNY_1
 I:Rick Cook, The Wizardry Compiled
