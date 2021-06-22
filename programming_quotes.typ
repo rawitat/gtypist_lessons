@@ -3201,7 +3201,7 @@ S:OO is like the Bible in that which scripture is to be interpreted metaphori-
 I:Paul Graham, "ANSI Common Lisp"
 S:The object-oriented model makes it easy to build programs by accretion.
  :What this often means, in practice, is that it provides a structured way to
- :write spaghetti code. This is not necessarily bad, but it is not entirely
+ :write spaghetti code.  This is not necessarily bad, but it is not entirely
  :good either.
  :
  :A lot of code in the real world is spaghetti code, and this is probably not
