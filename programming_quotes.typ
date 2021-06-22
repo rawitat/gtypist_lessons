@@ -422,7 +422,7 @@ S:The way to make programs easy to read is not to stuff them with comments.
  :A good programming language ought to be better for explaining software than
  :English.  You should only need comments when there is some kind of kludge
  :you need to warn readers about, just as on a road there are only arrows on
- :parts with unexpected sharp cruves.
+ :parts with unexpected sharp curves.
 
 *:G2_29
 I:R. Hamming
