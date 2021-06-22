@@ -1571,7 +1571,7 @@ S:Good judgement comes from experience, and experience comes from bad judgement.
 *:SW3_23
 I:Dennis Ritchie
 S:... with proper design, the features come cheaply.  This approach is arduous,
- :but contines to succeed.
+ :but continues to succeed.
 
 *:SW3_24
 I:Bertrand Meyer
