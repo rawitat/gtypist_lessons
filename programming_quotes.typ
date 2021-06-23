@@ -1293,7 +1293,7 @@ S:Software people would never drive to the office if building engineers and
 *:SW2_12
 I:Norman Augustine
 S:Software is like entropy: It is difficult to grasp, weighs nothing, and obeys
- :the Second Law of Thermodynamics; i.i., it always increases.
+ :the Second Law of Thermodynamics; i.e., it always increases.
 
 *:SW2_13
 I:Bill Curtis
