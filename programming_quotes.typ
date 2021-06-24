@@ -3782,5 +3782,11 @@ S:That's what's cool about working with computers.  They don't argue, they
 I:Kathy Griffin
 S:I also love Mole, the unsung hero of reality programming.
 
+*:FUNNY_43
+I:Craig Bruce
+S:Yeah, computers are going to take over the programming business because they
+ :have become so fast recently that they can solve the Halting Problem in five
+ :seconds flat.
+
 # for the last lesson, no question asked, just goto menu
 G:MENU
