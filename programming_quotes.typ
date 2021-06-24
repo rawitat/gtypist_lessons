@@ -3400,6 +3400,11 @@ I:Edsger Dijkstra
 S:Object-Oriented programming is an exceptionally bad idea which could have
  :originated in California.
 
+*:OOP_22
+I:James H. Clark
+S:It's very hard to explain to people who don't program, but the object-oriented
+ :programming system made programming the Mac and iPhone so easy.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
