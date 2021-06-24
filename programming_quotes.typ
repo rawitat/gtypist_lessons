@@ -1051,6 +1051,112 @@ S:Programming is not a zero-sum game.  Teaching something to a fellow programmer
  :doesn't take it away from you.  I'm happy to share what I can, because I'm in it
  :for the love of programming.
 
+*:G6_2
+I:John Maeda
+S:There is a construct in computer programming called 'the infinite loop' which
+ :enables a computer to do what no other physical machine can do - to operate in
+ :perpetuity without tiring.  In the same way it doesn't know exhaustion, it doesn't
+ :know when it's wrong and it can keep doing the wrong thing over and over without
+ :tiring.
+
+*:G6_3
+I:Ryan Bethencourt
+S:I imagine a day, some time in the not too distant future when children and
+ :teenagers will be able to create their own genetically engineered machines,
+ :cure the diseases of the old and find new ways to build and extend capabilities
+ :of humanity, moving from programming software to programming the physical world,
+ :through biology.
+
+*:G6_4
+I:Mark Cuban
+S:I personally think there's going to be a greater demand in 10 years for liberal arts
+ :majors than there were for programming majors and maybe even engineering, because
+ :when the data is all being spit out for you, options are being spit out for you,
+ :you need a different perspective in order to have a different view of the data.
+
+*:G6_5
+I:Niklaus Wirth
+S:Many people tend to look at programming styles and languages like religions:
+ :if you belong to one, you cannot belong to others.  But this analogy is
+ :another fallacy.
+
+*:G6_6
+I:Ellen Ullman
+S:Computer programming has always been a self-taught, maverick occupation.
+
+*:G6_7
+I:Nicholas Negroponte
+S:Giving the kids a programming environment of any sort, whether it's a tool like
+ :Squeak or Scratch or Logo to write programs in a childish way - and I mean that
+ :in the most generous sense of the word, that is, playing with and building
+ :things - is one of the best ways to learn.
+
+*:G6_8
+I:Niklaus Wirth
+S:Prorgamming is usually taught by examples.
+
+*:G6_9
+I:Niklaus Wirth
+S:Our ultimate goal is Extensible Programming (EP).  By this, we mean the
+ :construction of hierarchies of modules, each module adding new functionality
+ :to the system.
+
+*:G6_10
+I:Marc Andreessen
+S:An awful lot of successful technology companies ended up being in a slightly
+ :different market than they started out.  Microsoft started with programming tools,
+ :but came out with an operating system.  Oracle started doing contracts for the CIA.
+ :AOL started out as an online video gaming network.
+
+*:G6_11
+I:Alan J. Perlis
+S:In English every word can be verbed.  Would that it were so in our programming
+ :language.
+
+*:G6_12
+I:William Mougayar
+S:Study how to write smart contracts, which is the basic unit of programming
+ :a blockchain for business purposes.  It is the equivalent of being taught HTML
+ :and Java during the early Internet days.  And master how to create assets or
+ :tokenize existing ones on a blockchain.
+
+*:G6_13
+I:Tim O'Reilly
+S:There is people who make stuff with words.  There is people who make stuff with
+ :programs.  And I really believe that that whole creative culture, people didn't
+ :realize how creative programming is.  And anybody who's done it of course knows
+ :that not only is it creative, but it's incredibly absorbing.
+
+*:G6_14
+I:Maya Lin
+S:I loved logic, math, computer programming.  I loved systems and logic approaches.
+ :And so I just figured architecture is this perfect combination.
+
+*:G6_15
+I:Masi Oka
+S:Coming from a programming background, I have a good sense of what's feasible
+ :and what's not feasible in a game.
+
+*:G6_16
+I:Craig Federighi
+S:People sometimes have a view of programming that is something solitary and very
+ :technical.  But programming is among the most creative, expressive, and social
+ :careers.
+
+*:G6_17
+I:Geoff Mulgan
+S:Courses can, and should, incorporate the excitement and fun of programming games,
+ :apps or even real digital devices.
+
+*:G6_18
+I:Bill Gates
+S:In a budget, how important is art versus music versus athletics versus computer
+ :programming? At the end of the day, some of those trade-offs will be made
+ :politically.
+
+*:G6_19
+I:Alan J. Perlis
+S:Some programming languages manage to absorb change, but withstand progress.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
