@@ -1031,6 +1031,11 @@ I:Edsger W. Dijkstra
 S:Prorgamming is one of the most difficult branches of applied mathematics;
  :the poorer mathematicians had better remain pure mathematicians.
 
+*:G5_35
+I:John Romero
+S:You might not think programmers are artists, but programming is an extremely
+ :creative profession.  It's logic-based creativity.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
