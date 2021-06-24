@@ -1158,6 +1158,53 @@ S:In a budget, how important is art versus music versus athletics versus compute
 I:Alan J. Perlis
 S:Some programming languages manage to absorb change, but withstand progress.
 
+*:G6_20
+I:Bjarne Stroustrup
+S:I find languages that support just one programming paradigm constraining.
+
+*:G6_21
+I:Niklaus Wirth
+S:But active programming consists of the design of new programs, rather than
+ :contemplation of old programs.
+
+*:G6_22
+I:Niklaus Wirth
+S:Clearly, programming courses should teach methods of design and construction,
+ :and the selected examples should be such that a grdual development can be nicely
+ :demonstrated.
+
+*:G6_23
+I:Brian Kernighan
+S:Programming language is very specific to instructing a computer to do a particular
+ :structure of sequence.  It's the very way you tell the machine what you want it
+ :to do.
+
+*:G6_24
+I:Jeff Minter
+S:I always considered programming as being like modern-day wizardry.  You could think
+ :of things in your mind and then make them happen.
+
+*:G6_25
+I:Ellen Ullman
+S:People imagine that programming is logical, a process like fixing a clock.
+ :Nothing could be further from the truth.
+
+*:G6_26
+I:Ellen Ullman
+S:Productivity has always been the justification for the prepackaging of programming
+ :knowledge.  But it is worth asking about the sort of productivity gains that come
+ :from the simplifications of click-and-drag.
+
+*:G6_27
+I:Leslie Lamport
+S:There is a race between the increasing complexity of the systems we build and our
+ :ability to develop intellectual tools for understanding that complexity.  If the race
+ :is won by our tools, then systems will eventually become easier to use and more
+ :reliable.  If not, they will continue to become harder to use and less reliable for
+ :all but a relatively small set of common tasks.  Given how hard thinking is, if those
+ :intellectual tools are to succeed, they will have to substitute calculation for
+ :thought.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
