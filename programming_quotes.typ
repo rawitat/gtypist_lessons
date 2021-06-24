@@ -2398,7 +2398,7 @@ N:MENU
 # ###########################################################################
 
 *:LISP
-B:Quotes on Lisp and dialects
+B:Quotes on Lisp and Functional Programming Languages
 
 *:L1_1
 I:Marvin Minsky
@@ -2609,7 +2609,7 @@ N:MENU
 # ###########################################################################
 
 *:LISP_2
-B:Quotes on Lisp and dialects, continued
+B:Quotes on Lisp and Functional Programming Languages, Continued
 
 *:L2_1
 I:Paul Graham, Nov 1983
@@ -2797,6 +2797,12 @@ S:You shoot the gun, but the bullet gets trapped in the IO monad.
  :The bullet is in the ST monad and the gun is in the IO monad, so you can't.
  :You are perfectly fine as long as you just don't evaluate the foot.
  :Nothing happens unless you start walking.
+
+*:L2_31
+I:Stephen Wolfram
+S:The fact that the same symbolic programming primitives work for those as work
+ :for math kinds of things, I think, really validates the idea of symbolic
+ :programming being something pretty general.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
