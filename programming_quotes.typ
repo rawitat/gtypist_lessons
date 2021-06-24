@@ -13,6 +13,7 @@ M: "The Programming Quotes series contains the following lessons"
  :GENERAL_3   "General Wisdoms #3             Yet another continuation from above"
  :GENERAL_4   "General Wisdoms #4             You know the drill, from the above"
  :GENERAL_5   "General Wisdoms #5             Yet another one of the above"
+ :GENERAL_6   "General Wisdoms #6             As the name said"
  :SW_ENG      "Software Engineering           Some thoughts on Software Dev/Eng"
  :SW_ENG_2    "Software Engineering #2        Continuation of the above"
  :SW_ENG_3    "Software Engineering #3        Just like that, from above"
@@ -1035,6 +1036,21 @@ S:Prorgamming is one of the most difficult branches of applied mathematics;
 I:John Romero
 S:You might not think programmers are artists, but programming is an extremely
  :creative profession.  It's logic-based creativity.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:GENERAL_6
+B:General Wisdoms in Programming and Code Writing #6
+
+*:G6_1
+I:John Carmack
+S:Programming is not a zero-sum game.  Teaching something to a fellow programmer
+ :doesn't take it away from you.  I'm happy to share what I can, because I'm in it
+ :for the love of programming.
+
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
