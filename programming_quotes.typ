@@ -3268,6 +3268,11 @@ S:The object-oriented model makes it easy to build up programs by accretion.
 I:Rob Pike
 S:Object-oriented design is the roman numerals of computing.
 
+*:OOP_21
+I:Edsger Dijkstra
+S:Object-Oriented programming is an exceptionally bad idea which could have
+ :originated in California.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
