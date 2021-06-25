@@ -1029,7 +1029,7 @@ S:Programming is the art of algorithm design and the craft of debugging
 
 *:G5_34
 I:Edsger W. Dijkstra
-S:Prorgamming is one of the most difficult branches of applied mathematics;
+S:Programming is one of the most difficult branches of applied mathematics;
  :the poorer mathematicians had better remain pure mathematicians.
 
 *:G5_35
@@ -1093,7 +1093,7 @@ S:Giving the kids a programming environment of any sort, whether it's a tool lik
 
 *:G6_8
 I:Niklaus Wirth
-S:Prorgamming is usually taught by examples.
+S:Programming is usually taught by examples.
 
 *:G6_9
 I:Niklaus Wirth
@@ -2857,6 +2857,12 @@ S:There are many ways of trying to understand programs.  People often rely too m
  :one way, which is called "debugging" and consists of running a partly-understood
  :program to see if it does what you expected.  Another way, which ML advocates, is to
  :install some means of understanding in the very programs themselves
+
+*:L2_33
+I:Philip Wadler
+S:Whereas some declerative programmers only pay lip service to equational reasoning,
+ :users of functional languages exploit them every time they run a compiler, whether
+ :they notice it or not.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
