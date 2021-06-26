@@ -1863,7 +1863,7 @@ S:The big optimizations come from refining the high-level design, not the
 
 *:OTM_5
 I:Christer Ericson
-S:Premature optimization, that’s like a sneeze.
+S:Premature optimization, that's like a sneeze.
  :Premature abstraction is like ebola; it makes my eyes bleed.
 
 *:OTM_6
