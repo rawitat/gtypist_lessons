@@ -2846,7 +2846,7 @@ S:The best FP code is like algebra, and in algebra you never re-use variables.
 *:L2_25
 I:Bartos Milewski
 S:Did you notice that in the definition of 'data race'
- :there’s always talk of mutation?
+ :there's always talk of mutation?
 
 *:L2_26
 I:defmacro
