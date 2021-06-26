@@ -1849,7 +1849,7 @@ S:More bugs have introduced into programs through premature optimization than
  :
  :(Sometimes quoted as:)
  :More computing sins are committed in the name of efficiency, without 
- :necessarily achieving it, than for any other single reason -including blind
+ :necessarily achieving it, than for any other single reason - including blind
  :stupidity.
 
 *:OTM_3
