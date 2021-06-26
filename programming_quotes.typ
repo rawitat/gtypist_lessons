@@ -1823,7 +1823,6 @@ I:Donald E. Knuth
 S:We should forget about small efficiencies, say about 97% of the time: premature
  :optimization is the root of all evil.
 
-
 *:OTM_2
 I:W. Wulf
 S:More bugs have introduced into programs through premature optimization than
@@ -1834,11 +1833,9 @@ S:More bugs have introduced into programs through premature optimization than
  :necessarily achieving it, than for any other single reason -including blind
  :stupidity.
 
-
 *:OTM_3
 I:Donald E. Knuth
 S:You're bound to be unhappy if you optimize everything.
-
 
 *:OTM_4
 I:Steve McConnell
@@ -1853,7 +1850,6 @@ S:Premature optimization, that’s like a sneeze.
 *:OTM_6
 I:Elements of Programming Style, Kernighan & Plauger
 S:Let your compiler do the simple optimizations.
-
 
 *:OTM_7
 I:The Art of Unix Programming, Eric Raymond
@@ -1948,7 +1944,6 @@ S:Beauty is more important in computing than anywhere else in technology because
  :keenest aesthetic senses, the ones who are capable of creating beauty.  Beauty
  :is decisive at every level: the most important interfaces, the most important
  :programming languages, the winning algorithms are the beautiful ones.
-
  
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
