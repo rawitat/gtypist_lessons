@@ -2883,9 +2883,13 @@ S:Perl: "Easy things are easy, hard things are possible."
 *:L2_30
 I:Collection of "Shoot Yourself in the Foot with Haskell"
 S:You shoot the gun, but the bullet gets trapped in the IO monad.
+ :
  :Couldn't match expected type 'Deer' against inferred type 'Foot'.
+ :
  :The bullet is in the ST monad and the gun is in the IO monad, so you can't.
+ :
  :You are perfectly fine as long as you just don't evaluate the foot.
+ :
  :Nothing happens unless you start walking.
 
 *:L2_31
