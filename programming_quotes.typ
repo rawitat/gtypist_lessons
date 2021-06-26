@@ -1945,6 +1945,10 @@ S:Beauty is more important in computing than anywhere else in technology because
  :is decisive at every level: the most important interfaces, the most important
  :programming languages, the winning algorithms are the beautiful ones.
  
+*:OTM_24
+I:Alan J. Perlis
+S:Optimization hinders evolution.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
