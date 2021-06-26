@@ -538,7 +538,8 @@ S:It is easier to write an incorrect program than understand a correct one.
 
 *:G3_12
 I:Alan J. Perlis
-S:Simplicity does not precede complexity, but follows it.
+S:Optimization hinders evolution.  Everything should be built top-down, except the
+ :first time.  Simplicity does not precede complexity, but follows it.
 
 *:G3_13
 I:Alan J. Perlis
@@ -1209,6 +1210,16 @@ S:There is a race between the increasing complexity of the systems we build and 
  :intellectual tools are to succeed, they will have to substitute calculation for
  :thought.
 
+*:G6_28
+I:W. Edwards Deming
+S:Sub-optimization is when everyone is for himself.  Optimization is when everyone
+ :is working to help the company.
+
+*:G6_29
+I:Mark Zuckerberg
+S:The biggest risk is not taking any risk.  In a world that changing really quickly,
+ :the only strategy that is guaranteed to fail is not taking risks.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1830,7 +1841,7 @@ S:Programmers waste enormous amounts of time thinking about, or worrying about,
  :maintenance are considered.  We should forget about small efficiencies, say
  :about 97% of the time: premature optimization is the root of all evil.  Yet
  :we should not pass up our opportunities in that critical 3%.
- 
+
 *:OTM_2
 I:W. Wulf
 S:More bugs have introduced into programs through premature optimization than
@@ -1955,7 +1966,32 @@ S:Beauty is more important in computing than anywhere else in technology because
  
 *:OTM_24
 I:Alan J. Perlis
-S:Optimization hinders evolution.
+S:Optimization hinders evolution.  Everything should be built top-down, except the
+ :first time.  Simplicity does not precede complexity, but follows it.
+
+*:OTM_25
+I:William A. Dembski
+S:Contrained optimization is the art of compromise between conflicting objectives.
+ :This is what design is all about.  To find fault with biological design - as
+ :Stephen Jay Gould regularly does - because it misses some idealized optimum is
+ :therefore gratuitous.  Not knowing the objectives of the designer, Gould is in no
+ :position to say whether the designer has proposed a faulty compromise among those
+ :objectives.
+
+*:OTM_26
+I:Larry Constantine
+S:In fast moving markets, adaptation is significantly more important
+ :than optimization.
+
+*:OTM_27
+I:Rob Pike
+S:Caches aren't architecture, they're just optimization.
+
+*:OTM_28
+I:Erik Naggum
+S:Optimization is generally detrimental to future success, but it is the only way
+ :to accomplish present success in competition with others who are equally interested
+ :in short-term results.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
