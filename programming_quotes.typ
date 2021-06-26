@@ -970,18 +970,18 @@ S:Increasingly, people seem to misinterpret complexity as sophistication, which
 
 *:G5_20
 I:Chris Wenham
-S:Debugging time increases as a square of the program’s size.
+S:Debugging time increases as a square of the program's size.
 
 *:G5_21
 I:P.J. Plauger
 S:My definition of an expert in any field is a person who knows enough about
- :what’s really going on to be scared.
+ :what's really going on to be scared.
 
 *:G5_22
 I:Richard Gabriel
 S:Old programs read like quiet conversations between a well-spoken research
  :worker and a well-studied mechanical colleague, not as a debate with a compiler.
- :Who’d have guessed sophistication bought such noise?
+ :Who'd have guessed sophistication bought such noise?
 
 *:G5_23
 I:R. Buckminster Fuller
@@ -1003,19 +1003,19 @@ S:The ability to simplify means to eliminate the unnecessary so that
 
 *:G5_28
 I:John von Neumann
-S:There's no sense being exact about something if you don’t even know
- :what you’re talking about.
+S:There's no sense being exact about something if you don't even know
+ :what you're talking about.
 
 *:G5_29
 I:Paul Graham
-S:In programming the hard part isn’t solving problems, but deciding
+S:In programming the hard part isn't solving problems, but deciding
  :what problems to solve.
 
 *:G5_30
 I:Rob Pike
 S:Such is modern computing: everything simple is made too complicated because
- :it’s easy to fiddle with; everything complicated stays complicated because
- :it’s hard to fix.
+ :it's easy to fiddle with; everything complicated stays complicated because
+ :it's hard to fix.
 
 *:G5_31
 I:Christer Ericson
@@ -2359,7 +2359,7 @@ S:CSV (fields separated by commas, double quotes used to escape commas,
 *:UNIX_25
 I:(25)
 S:Use # as an introducer for comments.  It is good to have a way to embed
- :annotations and comments in data files.  It’s best if they’re actually part of
+ :annotations and comments in data files.  It's best if they're actually part of
  :the file structure, and so will be preserved by tools that know its format.
  :For comments that are not preserved during parsing, # is the conventional start
  :character.
@@ -2367,7 +2367,7 @@ S:Use # as an introducer for comments.  It is good to have a way to embed
 *:UNIX_26
 I:(26)
 S:Transparency is therefore more than an esthetic triumph; it is a victory that
- :will be reflected in lower costs throughout the software’s life cycle.
+ :will be reflected in lower costs throughout the software's life cycle.
 
 *:UNIX_27
 I:(27)
@@ -2385,26 +2385,26 @@ S:There is a flip side to this.  In the Unix world, libraries which are delivere
 *:UNIX_29
 I:(29)
 S:When you see the right thing, do it—this may look like more work in the short
- :term, but it’s the path of least effort in the long run.  If you don’t know
+ :term, but it's the path of least effort in the long run.  If you don't know
  :what the right thing is, do the minimum necessary to get the job done, at
  :least until you figure out what the right thing is.
  :
  :To do the Unix philosophy right, you have to be loyal to excellence.
  :You have to believe that software design is a craft worth all the intelligence,
- :creativity, and passion you can muster.  Otherwise you won’t look past the easy,
- :stereotyped ways of approaching design and implementation; you’ll rush into
- :coding when you should be thinking.  You’ll carelessly complicate when you
- :should be relentlessly simplifying—and then you’ll wonder why your code bloats
+ :creativity, and passion you can muster.  Otherwise you won't look past the easy,
+ :stereotyped ways of approaching design and implementation; you'll rush into
+ :coding when you should be thinking.  You'll carelessly complicate when you
+ :should be relentlessly simplifying—and then you'll wonder why your code bloats
  :and debugging is so hard.
 
 *:UNIX_30
 I:(30)
 S:If you have any trouble sounding condescending, find a Unix user to show you
- :how it’s done.
+ :how it's done.
 
 *:UNIX_31
 I:(31)
-S:As with buildings, it’s easier to repair superstructure on top of a solid
+S:As with buildings, it's easier to repair superstructure on top of a solid
  :foundation than it is to replace the foundations without trashing the
  :superstructure.
 
@@ -2436,7 +2436,7 @@ S:Web pages get bogged down in the dispute over whether the reader or author
 *:UNIX_36
 I:(36)
 S:To design the perfect anti-Unix, write an operating system that thinks it knows
- :what you’re doing better than you do.  And then adds injury to insult by getting
+ :what you're doing better than you do.  And then adds injury to insult by getting
  :it wrong.
 
 *:UNIX_37
@@ -2475,10 +2475,10 @@ I:(41)
 S:Are the individual functions in your modules too large? 
  :
  :This is not so much a matter of line count as it is of internal complexity.
- :If you can’t informally describe a function’s contract with its callers in
+ :If you can't informally describe a function's contract with its callers in
  :one line, the function is probably too large.
  :
- :Many years ago, I learned from Kernighan & Plauger’s "The Elements of
+ :Many years ago, I learned from Kernighan & Plauger's "The Elements of
  :Programming Style" a useful rule.  Write that one-line comment immediately
  :after the prototype of your function.  For every function, without exception.
 
@@ -2618,7 +2618,7 @@ I:Peter Seibel
 S:Consequently, a Common Lisp program tends to provide a much clearer mapping
  :between your ideas about how the program works and the code you actually write.
  :Your ideas aren't obscured by boilerplate code and endlessly repeated idioms.
- :This makes your code easier to maintain because you don’t have to wade through
+ :This makes your code easier to maintain because you don't have to wade through
  :reams of code every time you need to make a change.
 
 *:L1_24
@@ -2628,11 +2628,11 @@ S:Haskell programs are easy to parallelize, and to run efficiently on multicore
 
 *:L1_25
 I:Robert C. Martin
-S:You don’t need semaphores if you don’t have side effects! You can’t have
- :concurrent update problems if you don’t update!
- :So that’s the big deal about functional languages; and it is one big fricking
+S:You don't need semaphores if you don't have side effects! You can't have
+ :concurrent update problems if you don't update!
+ :So that's the big deal about functional languages; and it is one big fricking
  :deal.  There is a freight train barreling down the tracks towards us, with
- :multi-core emblazoned on it; and you’d better be ready by the time it gets here.
+ :multi-core emblazoned on it; and you'd better be ready by the time it gets here.
 
 *:L1_26
 I:John Carmack
@@ -2663,7 +2663,7 @@ S:In computer science, functional programming is a programming paradigm —
 *:L1_39
 I:Marry Rose Cook, "A Practical Introduction to Functional Programming (article)"
 S:When people talk about functional programming, they mention a dizzying number
- :of ‘functional’ characteristics.  They mention immutable data, first class
+ :of ‘functional' characteristics.  They mention immutable data, first class
  :functions, and tail call optimisation.  These are language features that aid
  :functional programming.
 
@@ -2679,9 +2679,9 @@ S:(Continue) They mention mapping, reducing, pipelining, recursing, currying and
 *:L1_41
 I:Marry Rose Cook, continue from previous
 S:(Continue) Ignore all that.  Functional code is characterised by one thing:
- :the absence of side effects.  It (a pure function) doesn’t rely on data outside
- :the current function, and it doesn’t change data that exists outside the
- :current function.  Every other ‘functional’ thing can be derived from this
+ :the absence of side effects.  It (a pure function) doesn't rely on data outside
+ :the current function, and it doesn't change data that exists outside the
+ :current function.  Every other ‘functional' thing can be derived from this
  :property.  Use it as a guide rope as you learn.”
 
 *:L1_42
@@ -2851,7 +2851,7 @@ S:Did you notice that in the definition of 'data race'
 *:L2_26
 I:defmacro
 S:A functional program is ready for concurrency without any further modifications.
- :You never have to worry about deadlocks and race conditions because you don’t
+ :You never have to worry about deadlocks and race conditions because you don't
  :need to use locks.  No piece of data in a functional program is modified twice
  :by the same thread, let alone by two different threads.  That means you can
  :easily add threads without ever giving conventional problems that plague
