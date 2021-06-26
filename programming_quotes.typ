@@ -1019,7 +1019,7 @@ S:Such is modern computing: everything simple is made too complicated because
 
 *:G5_31
 I:Christer Ericson
-S:Premature optimization, that’s like a sneeze.
+S:Premature optimization, that's like a sneeze.
  :Premature abstraction is like ebola; it makes my eyes bleed.
 
 *:G5_32
