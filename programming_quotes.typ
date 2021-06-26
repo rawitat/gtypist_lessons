@@ -1797,7 +1797,7 @@ S:Good engineering is not primarily making good decisions, it's seeking good
 *:SW3_33
 I:Bjarne Stroustrup
 S:The most important single aspect of software development is to be clear
- :aobut what you are trying to build.
+ :about what you are trying to build.
 
 *:SW3_34
 I:David Parnas
