@@ -2826,7 +2826,7 @@ S:The spirit of Lisp hacking can be expressed in two sentences.
 
 *:L2_22
 I:Philip Wadler, "How to declare an imperative"
-S:Whereas some declerative programmers only pay lip service to equational
+S:Whereas some declarative programmers only pay lip service to equational
  :reasoning, users of functional languages exploit them every time they run a
  :compiler, whether they notice it or not.
 
