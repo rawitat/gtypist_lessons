@@ -2582,7 +2582,7 @@ S:Lisp was far more powerful and flexible than any other language of its day;
 
 *:L1_18
 I:Philip Greenspun
-S:SQL, Lisp, and Haskell are the only programming languages that I've seen
+S:SQL, Lisp, and Haskell are the only languages that I've seen
  :where one spends more time thinking than typing.
 
 *:L1_19
