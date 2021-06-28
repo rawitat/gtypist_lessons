@@ -2944,13 +2944,13 @@ S:C++: Where friends have access to your private members.
 
 *:C_6
 I:Waldi Ravens.
-S:A C Program is like a fast dance on a newly waxed dance floor by people
+S:A C program is like a fast dance on a newly waxed dance floor by people
  :carrying razors.
 
 *:C_7
 I:Ron Sercely.
 S:The evolution of languages: Fortran is a non-typed language.  C is a weakly
- :typed language. Ada is a strongly styped language.  C++ is a strongly hyped
+ :typed language.  Ada is a strongly typed language.  C++ is a strongly hyped
  :language.
 
 *:C_8
