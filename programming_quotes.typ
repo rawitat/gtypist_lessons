@@ -1220,6 +1220,43 @@ I:Mark Zuckerberg
 S:The biggest risk is not taking any risk.  In a world that changing really quickly,
  :the only strategy that is guaranteed to fail is not taking risks.
 
+*:G6_30
+I:Henry Petroski
+S:The most amazing achievement of the computer software industry is its continuing
+ :cancellation of the steady and staggering gains made by the computer hardware
+ :industry.
+
+*:G6_31
+I:Timm Martin
+S:True innovation often comes from the small startup who is lean enough to launch
+ :a market but lacks the haft to own it.
+
+*:G6_32
+I:Larry Wall
+S:Computer language design is just like a stroll in the park.  Jurassic Park, that is.
+
+*:G6_33
+I:David Emery
+S:The only people who have anything to fear from free software are those whose products
+ :are worth even less.
+
+*:G6_34
+I:Maurice Wilkes
+S:As soon as we started programming, we found to our surprise that it wasn't as easy
+ :to get programs right as we had thought.  Debugging had to be discovered.  I can
+ :remember the exact instant when I realized that a large part of my life from then on
+ :was going to be spent in finding mistakes in my own programs.
+
+*:G6_35
+I:David Wheeler
+S:All problems in computer science can be solved by another level of indirection.
+ :
+ :(Related) But that ususally will create another problem.
+
+*:G6_36
+I:Joel Spolsky
+S:It's harder to read code than to write it.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1332,7 +1369,7 @@ S:We see a lot of feature-driven product design in which the cost of features
  :is not properly accounted.  Features can have a negative value to customers
  :because they make the products more difficult to understand and use.
  :
- :We are finding that people like products that just works.  It turns out that
+ :We are f`indi`ng that people like products that just works.  It turns out that
  :designs that just work are much harder to produce than designs that assemble
  :long list of features.
 
@@ -3900,6 +3937,11 @@ I:Craig Bruce
 S:Yeah, computers are going to take over the programming business because they
  :have become so fast recently that they can solve the Halting Problem in five
  :seconds flat.
+
+*:FUNNY_44
+I:Gerald Weinberg
+S:Writing code has a place in the human hierarchy worth somewhere above grave robbing
+ :and beneath managing.
 
 # for the last lesson, no question asked, just goto menu
 G:MENU
