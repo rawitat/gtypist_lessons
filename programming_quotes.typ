@@ -1656,6 +1656,21 @@ I:Andy Hunt
 S:No one in brief history of computing has ever written a piece of perfect
  :software.  It's unlikely that you'll be the first.
 
+*:SW2_33
+I:Andy Hunt and Dave Thomas
+S:Don't repeat yourself.  Every piece of knowledge must have a single, unambiguous,
+ :authoritative representation within a system.
+
+*:SW2_34
+I:Phil Karlton
+S:There are only two hard things in computer science: cache invalidation and
+ :naming things.
+
+*:SW2_35
+I:Leon Bambrick
+S:There are two hard things in computer science: cache invalidation, naming things,
+ :and off-by-one errors.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
