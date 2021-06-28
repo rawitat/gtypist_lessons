@@ -3552,7 +3552,7 @@ S:Fortran is not a flower but a weed -- it is hardy, occasionally blooms,
 *:LEGACY_5
 I:Edsger W. Dijkstra
 S:Fortran, the infantile disorder, by now nearly 20 years old, is hopelessly
- :inadequate for whatever computer aπplication you have in mind today:
+ :inadequate for whatever computer application you have in mind today:
  :it is now too clumsy, too risky, and too expensive to use.
 
 *:LEGACY_6
