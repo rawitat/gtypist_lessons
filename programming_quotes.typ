@@ -2436,7 +2436,7 @@ S:There is a flip side to this.  In the Unix world, libraries which are delivere
 
 *:UNIX_29
 I:(29)
-S:When you see the right thing, do it—this may look like more work in the short
+S:When you see the right thing, do it — this may look like more work in the short
  :term, but it's the path of least effort in the long run.  If you don't know
  :what the right thing is, do the minimum necessary to get the job done, at
  :least until you figure out what the right thing is.
