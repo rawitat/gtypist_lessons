@@ -2132,7 +2132,7 @@ S:Test input for plausibility and validity.
 
 *:ELEM_P_20
 I:(20)
-S: Make sure input doesn't violate limits of the program.
+S:Make sure input doesn't violate limits of the program.
 
 *:ELEM_P_21
 I:(21)
