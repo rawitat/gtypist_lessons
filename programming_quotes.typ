@@ -1389,6 +1389,85 @@ S:The reason Maxwell's Demon cannot exist is that it does take resources to perf
  :a wannabe demon if it tries to sort data from networked people into one or the other
  :side of some imaginary door, while pretending there is no cost or risk involved.
 
+*:PHIL_18
+I:Geoffrey Hinton
+S:I have always been convinced that the only way to get artificial intelligence to work
+ :is to do computation in a way similar to the human brain.  That is the goal I have
+ :been pursuing.  We are making progress, though we still have lots to learn about how
+ :the brain actually works.
+
+*:PHIL_19
+I:Howard Aiken
+S:The desire to economize time and mental effort in arithmetical computations, and to
+ :eliminate human liability to error is probably as old as the science of arithmetic
+ :itself.
+
+*:PHIL_20
+I:Rudy Rucker
+S:A computation is a process that obeys finitely describable rules.
+
+*:PHIL_21
+I:Stephen Hawking
+S:There is no physical law precluding particles from being organised in ways that
+ :perform even more advanced computations than the arrangements of particles in
+ :human brain.
+
+*:PHIL_22
+I:Roger Penrose
+S:If you come from mathematics, as I do, you realize that there are many problems,
+ :even classical problems, which cannot be solved by computation alone.
+
+*:PHIL_23
+I:Martin Rees
+S:Some things, like the orbits of the planets, can be calculated far into the future.
+ :But that's atypical.  In most contexts, there is a limit.  Even the most fine-grained
+ :computation can only forecast British weather a few days ahead.  There are limits to
+ :what can ever be learned about the future, however powerful computers become.
+
+*:PHIL_24
+I:Orison Swett Marden
+S:The achievements of willpower are almost beyond computation.  Scarcely anything seems
+ :impossible to the man who can will strongly enough and long enough.
+
+*:PHIL_25
+I:Seth Lloyd
+S:One of the things that I've been doing recently in my scientific research is to ask
+ :this question: Is the universe actually capable of performing things like digital
+ :computations?
+
+*:PHIL_26
+I:Seth Lloyd
+S:All physical systems can be thought of as registering and processing information,
+ :and how one wishes to define computation will determine your view of what computation
+ :consists of.
+
+*:PHIL_27
+I:Rudy Rucker
+S:Lately I've been working to convince myself that everything is a computation.
+
+*:PHIL_28
+I:Rudy Rucker
+S:If you think of your life as a kind of computation, it's quite abundantly clear that
+ :there's not going to be a final answer and there won't be anything particularly
+ :wonderful about having the computation halt!
+
+*:PHIL_29
+I:Rudy Rucker
+S:If we suppose that many natural phenomena are in effect computations, the study of
+ :computer science can tell us about the kinds of natural phenomena that can occur.
+
+*:PHIL_30
+I:David Deutsch
+S:To me quantum computation is a new and deeper and better way to understand the laws
+ :of physics, and hence understanding physical reality as a whole.
+
+*:PHIL_31
+I:Steven Pinker
+S:I spent 20 years doing research on regular and irregular verbs, not because I'm an
+ :obsessive language lover but because it seemed to me that tey tapped into a
+ :fundamental distinction in language processing, indeed in cognitive processing,
+ :between memory lookup and rule-driven computation.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
