@@ -1315,6 +1315,80 @@ S:Many persons who are not conversant with mathematical studies imagine that bec
  :letters or any other general symbols; and in fact it might bring out its results in
  :algebraic notation, were provisions made accordingly.
 
+*:PHIL_9
+I:Gregory Bateson, "Mind and Nature"
+S:Thirty years ago, we used to ask: Can a computer simulate all processes of logic?
+ :The answer was "yes", but the question was surely wrong.  We should have asked:
+ :Can logic simulate all sequence of cause and effect? And the answer would have been 
+ :"no".
+
+*:PHIL_10
+I:Jordan Ellenberg, "How Not to Be Wrong: The Power of Mathmetical Thinking"
+S:Dividing one number by another is mere computation; knowing what to divide what
+ :is mathematics.
+
+*:PHIL_11
+I:Rudy Rucker
+S:We're presently in the midst of third intellectual revolution.  The first came with
+ :Newton: the planets obey physical laws.  The second came with Darwin: biology obeys
+ :genetic laws.  In today's third revolution, we're coming to realize that even minds
+ :and societies emerge from interacting laws that can be regarded as computations.
+ :Everything is computation.
+
+*:PHIL_12
+I:Stephen Wolfram
+S:It's always seemed like a big mystery how nature, seeminly so effortlessly, manages
+ :to produce so much that seems to us so complex.  Well, I think we found its secret.
+ :It's just sampling what's out there in the computational universe.
+
+*:PHIL_13
+I:Michael Sipser, "Introduction to The Theory of Computation"
+S:Theory is relevant to you because it shows you a new, simpler, and more elegant
+ :side of computers, which we normally consider to be complicated machines.  The best
+ :computer designs are applications are conceived with elegance in mind.  A theoretical
+ :course can heighten your aesthetic sense and help you build more beautiful systems.
+
+*:PHIL_14
+I:Abhijit Naskar, "Mission Reality"
+S:Computation is not the same as thought and emulation is not the same as imagination.
+
+*:PHIL_15
+I:Paul Graham
+S:If you understand McCarthy's eval, you understand more than just a stage in the 
+ :history of languages.  These ideas are still the semantic core of Lisp today.  
+ :So studying McCarthy's original paper shows us, in a sense, what Lisp really is.  
+ :It's not something that McCarthy designed so much as something he discovered.
+ :It's not intrinsically a language for AI or for rapid prototyping, or any other
+ :task at that level.  It's what you get (or one thing you get) when you try to
+ :axiomatize computation.
+
+*:PHIL_16
+I:Laura F. Landweber, "Evolution as Computation", Dimac Workshop, Princeton, Jan 1999
+S:It is now plausible at the molecular level to conceive of concerted, non-random
+ :changes in the genome guided by cellular computing networks during episodes of
+ :evolutionary change.  Thus, just as the genome has come to be seen as a highly
+ :sophisticated information storage system, its evolution has become a matter of
+ :highly sophisticated information processing.
+
+*:PHIL_17
+I:Jaron Lanier, "Who Owns the Future?"
+S:The reason Maxwell's Demon cannot exist is that it does take resources to perform
+ :an act of discrimination.  We imagine computation is free, but it never is.  The very
+ :act of choosing which particle is cold or hot itself becomes an energy drain and a
+ :source of waste heat.  The principle is also known as "no free lunch".
+ :
+ :We do our best to implement Maxwell's Demon whenever we manipulate reality with our
+ :technologies, but we can never do so perfectly; we certainly can't get ahead of the
+ :game, which is known as entropy.  All the air conditioners in a city emit heat that
+ :makes the city hotter overall.  While you can implement what seems to be a Maxwell's
+ :Demon if you don't look too far or too closely, in the big picture you always lose more
+ :than you gain.
+ :
+ :Every bit in computer is a wannabe Maxwell's Demon, separting the state of "one" from
+ :the state of "zero" for a while, at a cost.  A computer on a network can also act like
+ :a wannabe demon if it tries to sort data from networked people into one or the other
+ :side of some imaginary door, while pretending there is no cost or risk involved.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
