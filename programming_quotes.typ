@@ -14,6 +14,7 @@ M: "The Programming Quotes series contains the following lessons"
  :GENERAL_4   "General Wisdoms #4             You know the drill, from the above"
  :GENERAL_5   "General Wisdoms #5             Yet another one of the above"
  :GENERAL_6   "General Wisdoms #6             As the name said"
+ :PHILOSOPHY  "Philosophy of Computing        Man, Mind, Machine, etc"
  :SW_ENG      "Software Engineering           Some thoughts on Software Dev/Eng"
  :SW_ENG_2    "Software Engineering #2        Continuation of the above"
  :SW_ENG_3    "Software Engineering #3        Just like that, from above"
@@ -1262,6 +1263,63 @@ N:MENU
 
 # ###########################################################################
 
+*:PHILOSOPHY
+B:Philosophical Thoughts: Man, Mind, Machine, etc.
+
+*:PHIL_1
+I:Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
+S:The Analytical Engine has no pretensions whatever to originate anything.  It can do
+ :whatever we know how to order it to perform.  It can follow analysis; but it has no
+ :power of anticipating any analytical relations or truths.  Its province to assist us
+ :to making available what we are already acquainted with.
+
+*:PHIL_2
+I:Alan Turing
+S:The idea behind digital computers may be explained by saying that these machines are
+ :intended to carry out any operations which could be done by a human computer.
+
+*:PHIL_3
+I:Alan Turing
+S:A man provided with paper, pencil, and rubber, and subject to strict discipline,
+ :is in effect a universal machine.
+
+*:PHIL_4
+I:Rudy Rucker
+S:Computations are everywhere, once you begin to look at things in a certain way.
+
+*:PHIL_5
+I:Seth Lloyd
+S:I have not proved that the universe is, in fact, a digital computer and that
+ :it's capable of performing universal computation, but it's plausible that it is.
+
+*:PHIL_6
+I:John McCarthy, "Towards a Mathematical Science of Computation"
+S:Let me re-assert that the question of whether there are limitations in
+ :principle of what problems man can make machines solve for him as compared
+ :to his own ability to solve problems, really is a technical question in
+ :recursive function theory.
+
+*:PHIL_7
+I:Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
+S:The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves
+ :flowers and leaves.
+
+*:PHIL_8
+I:Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
+S:Many persons who are not conversant with mathematical studies imagine that because
+ :the business of [Babbage's Analytical Engine] is to give its results in numerical
+ :notation, the nature of its processes must consequently be arithmetical and numerical,
+ :rather than algebraical and analytical.  This is an error.
+ :
+ :The engine can arrange and combine its numerical quantities exactly as if they were
+ :letters or any other general symbols; and in fact it might bring out its results in
+ :algebraic notation, were provisions made accordingly.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
 *:SW_ENG
 B:Some thoughts on Software Development and Engineering
 
@@ -1369,7 +1427,7 @@ S:We see a lot of feature-driven product design in which the cost of features
  :is not properly accounted.  Features can have a negative value to customers
  :because they make the products more difficult to understand and use.
  :
- :We are f`indi`ng that people like products that just works.  It turns out that
+ :We are finding that people like products that just works.  It turns out that
  :designs that just work are much harder to produce than designs that assemble
  :long list of features.
 
