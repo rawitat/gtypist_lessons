@@ -1319,8 +1319,8 @@ S:Many persons who are not conversant with mathematical studies imagine that bec
 I:Gregory Bateson, "Mind and Nature"
 S:Thirty years ago, we used to ask: Can a computer simulate all processes of logic?
  :The answer was "yes", but the question was surely wrong.  We should have asked:
- :Can logic simulate all sequence of cause and effect? And the answer would have been 
- :"no".
+ :Can logic simulate all sequences of cause and effect? And the answer would have
+ :been "no".
 
 *:PHIL_10
 I:Jordan Ellenberg, "How Not to Be Wrong: The Power of Mathmetical Thinking"
