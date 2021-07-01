@@ -1468,6 +1468,50 @@ S:I spent 20 years doing research on regular and irregular verbs, not because I'
  :fundamental distinction in language processing, indeed in cognitive processing,
  :between memory lookup and rule-driven computation.
 
+*:PHIL_32
+I:Edsger Dijkstra
+S:Computer science is no more about computers than astronomy is about telescopes.
+
+*:PHIL_33
+I:Isaac Newton
+S:Truth is ever to be found in the simplicity, and not in the multiplicity and
+ :confusion of things.
+
+*:PHIL_34
+I:John A. Van de Walle
+S:Mathematics is much more than computation with pencil and a paper and getting
+ :answers to routine exercises.  In fact, it can easily be argued that computation,
+ :such as doing long division, is not mathematics at all.  Calculators can do the
+ :same thing and calculators can only calculate they cannot do mathematics.
+
+*:PHIL_35
+I:L. Ron Hubbard
+S:Imagination is actually a form of computation.  Imagination gives calculated and
+ :instinctive solutions for the future.
+
+*:PHIL_36
+I:Leonard Adleman
+S:Biology and computer science - life and computation - are related.  I am confident
+ :that at their interface great discoveries await those who seek them.
+
+*:PHIL_37
+I:Seth Lloyd
+S:We couldn't build quantum computers unless the universe were quantum and computing.
+ :We can build such machines because the universe is storing and processing
+ :information in the quantum realm.  When we build quantum computers, we're hijacking
+ :that underlying computation in order to make it do things we want: little and/or/not
+ :calculations.  We're hacking into the universe.
+
+*:PHIL_38
+I:Howard Aiken
+S:At the present time there exist problems beyond our ability to solve, not because of
+ :theoretical difficulties, but because of insufficient means of mechanical computation.
+
+*:PHIL_39
+I:Peter Hilton
+S:Computation involves going from a question to an answer.
+ :Mathematics involves going from an answer to a question.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
