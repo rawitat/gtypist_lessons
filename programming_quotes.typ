@@ -1345,7 +1345,7 @@ S:It's always seemed like a big mystery how nature, seemingly so effortlessly, m
 I:Michael Sipser, "Introduction to The Theory of Computation"
 S:Theory is relevant to you because it shows you a new, simpler, and more elegant
  :side of computers, which we normally consider to be complicated machines.  The best
- :computer designs are applications are conceived with elegance in mind.  A theoretical
+ :computer designs and applications are conceived with elegance in mind.  A theoretical
  :course can heighten your aesthetic sense and help you build more beautiful systems.
 
 *:PHIL_14
