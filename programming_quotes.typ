@@ -37,7 +37,7 @@ M: "The Programming Quotes series contains the following lessons"
 B:General Wisdoms in Programming and Code Writing
 
 *:G_1
-I:Abelson & Sussman, SICP, preface to the 1st edition
+I:[1] Abelson & Sussman, SICP, preface to the 1st edition
 S:First, we want to establish the idea that a computer language is not just
  :a way of getting a computer to perform operations but rather that it is a
  :novel formal medium for expressing ideas about methodology.
@@ -46,68 +46,68 @@ S:First, we want to establish the idea that a computer language is not just
  :for machines to execute.
 
 *:G_2
-I:George Boole, quoted in Iverson's Turing Award Lecture
+I:[2] George Boole, quoted in Iverson's Turing Award Lecture
 S:That language is an instrument of human reason, and not
  :merely a medium for the expression of thought, is a truth
  :generally admitted.
 
 *:G_3
-I:Olin Shivers
+I:[3] Olin Shivers
 S:I object to doing things that computers can do.
 
 *:G_4
-I:Cyril Connolly
+I:[4] Cyril Connolly
 S:Imprisoned in every fat man a thin man is wildly signaling
  :to be let out.
 
 *:G_5
-I:Kernighan and Ritchie
+I:[5] Kernighan and Ritchie
 S:The only way to learn a new programming language is by
  :writing programs in it.
 
 *:G_6
-I:Dave Moon
+I:[6] Dave Moon
 S:Language designers are not intellectuals.  They're not as
  :interested in thinking as you might hope.  They just want to
  :get a language done and start using it.
 
 *:G_7
-I:Guy Steele
+I:[7] Guy Steele
 S:The continuation that obeys only obvious stack semantics,
  :O grasshopper, is not the true continuation.
 
 *:G_8
-I:Jon Bentley and Doug McIlroy
+I:[8] Jon Bentley and Doug McIlroy
 S:The key to performance is elegance, not battalions of
  :special cases.
 
 *:G_9
-I:Alan Kay
+I:[9] Alan Kay
 S:Don't worry about what anybody else is going to do.
  :The best way to predict the future is to invent it.
 
 *:G_10
-I:Linus Torvalds
+I:[10] Linus Torvalds
 S:Talk is cheap.  Show me the code.
 
 *:G_11
-I:Why The Lucky Stiff
+I:[11] Why The Lucky Stiff
 S:When you don't create things, you become defined by your tastes
  :rather than ability.  Your tastes only narrow & exclude people.
  :So create.
 
 *:G_12
-I:John Woods
+I:[12] John Woods
 S:Always code as if the guy who ends up maintaining your code will be
  :a violent psychopath who knows where you live.
 
 *:G_13
-I:Martin Fowler
+I:[13] Martin Fowler
 S:Any fool can write code that a computer can understand.  Good programmers
  :write code that humans can understand.
 
 *:G_14
-I:Donald E. Knuth, "Selected Papers on Computer Science"
+I:[14] Donald E. Knuth, "Selected Papers on Computer Science"
 S:The best programs are written so that computing machines can perform
  :them quickly and so that human beings can understand them clearly.
  :A programmer is ideally an essayist who works with traditional aesthetic
@@ -116,35 +116,35 @@ S:The best programs are written so that computing machines can perform
  :will be correct.
 
 *:G_15
-I:Kent Beck
+I:[15] Kent Beck
 S:I'm not a great programmer; I'm just a good programmer with great habits.
 
 *:G_16
-I:Robert C. Martin, "Clean Code"
+I:[16] Robert C. Martin, "Clean Code"
 S:Truth can only be found in one place: the code.
 
 *:G_17
-I:Muhammad Waseem
+I:[17] Muhammad Waseem
 S:Give a man a program, frustrate him for a day.
  :Teach a man to program, frustrate him for a lifetime.
 
 *:G_18
-I:Alan J. Perlis
+I:[18] Alan J. Perlis
 S:A language that doesn't affect the way you think about programming
  :is not worth knowing.
 
 *:G_19
-I:Edward V. Berard
+I:[19] Edward V. Berard
 S:Walking on water and developing software from a specification
  :are easy if both are frozen.
 
 *:G_20
-I:Alan Kay
+I:[20] Alan Kay
 S:The most disastrous thing that you can ever learn is your first
  :programming language.
 
 *:G_21
-I:Joseph Weizenbaum
+I:[21] Joseph Weizenbaum
 S:The computer programmer is a creator of universes for which
  :he alone is the lawgiver.  No playwright, no stage director, no
  :emperor, however powerful, has ever exercised such absolute
@@ -152,12 +152,12 @@ S:The computer programmer is a creator of universes for which
  :such unswervingly dutiful actors or troops.
 
 *:G_22
-I:C.A.R Hoare
+I:[22] C.A.R Hoare
 S:The most important property of a program is whether it accomplishes
  :the intention of its user.
 
 *:G_23
-I:Marvin Minsky
+I:[23] Marvin Minsky
 S:A computer is like a violin.  You can imagine a novice trying first
  :a phonograph and then a violin.  The latter, he says, sounds terrible.
  :That is the argument we have heard from our humanists and most of our
@@ -166,7 +166,7 @@ S:A computer is like a violin.  You can imagine a novice trying first
  :a typewriter, until you learn how to use it.
 
 *:G_24
-I:Robert C. Martin
+I:[24] Robert C. Martin
 S:Remember that code is really the language in which we ultimately
  :express the requirements.  We may create languages that are closer
  :to the requirements.  We may create tools that help us parse and
@@ -174,70 +174,70 @@ S:Remember that code is really the language in which we ultimately
  :never eliminate necessary precision - so there will always be code.
 
 *:G_25
-I:Eric Raymond
+I:[25] Eric Raymond
 S:Computer science education cannot make anybody an expert programmer
  :any more than studying brushes and pigment can make somebody an
  :expert painter.
 
 *:G_26
-I:L. Peter Deutsch
+I:[26] L. Peter Deutsch
 S:To iterate is human, to recurse is divine.
 
 *:G_27
-I:Anonymous
+I:[27] Anonymous
 S:The best thing about a boolean is even if you are wrong, you are
  :only off by a bit.
 
 *:G_28
-I:Bjarne Stroustrup
+I:[28] Bjarne Stroustrup
 S:There are only two kinds of programming languages: those people always
  :bitch about and those nobody uses.
 
 *:G_29
-I:Brian Kernighan
+I:[29] Brian Kernighan
 S:Controlling complexity is the essence of computer programming.
 
 *:G_30
-I:Edsger W. Dijkstra
+I:[30] Edsger W. Dijkstra
 S:Progress is possible only if we train ourselves to think about programs
  :without thinking of them as pieces of executable code.
 
 *:G_31
-I:Steve Jobs
+I:[31] Steve Jobs
 S:Everybody in this country should learn to program a computer, because
  :it teaches you how to think.
 
 *:G_32
-I:C.A.R Hoare
+I:[32] C.A.R Hoare
 S:The code is like humor: When you have to explain it, it's bad.
 
 *:G_33
-I:Why The Lucky Stiff
+I:[33] Why The Lucky Stiff
 S:Programming is rather thankless.  You see your works become replaced by
  :superior ones in a year, unable to run at all in a few more.
 
 *:G_34
-I:Alan J. Perlis
+I:[34] Alan J. Perlis
 S:When someone say: "I want a programming language in which I need only say
  :what I wish done", give him a lollipop.
 
 *:G_35
-I:Alan J. Perlis
+I:[35] Alan J. Perlis
 S:A programming language is low-level when its programs require attention
  :to the irrelevant.
 
 *:G_36
-I:Alan J. Perlis
+I:[36] Alan J. Perlis
 S:The best book on programming for the layman is 'Alice in Wonderland';
  :but that's because it's the best book on anything for the layman.
  
 *:G_37
-I:Donald Knuth
+I:[37] Donald Knuth
 S:Everyday life is like programming, I guess.
  :If you love something you can put beauty into it.
 
 *:G_38
-I:Paul Graham
+I:[38] Paul Graham
 S:A programming language is for thinking about programs, not for expressing
  :programs you've already thought of.  It should be a pencil, not a pen.
 
