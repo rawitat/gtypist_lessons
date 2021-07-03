@@ -1337,7 +1337,7 @@ S:We're presently in the midst of third intellectual revolution.  The first came
 
 *:PHIL_12
 I:Stephen Wolfram
-S:It's always seemed like a big mystery how nature, seeminly so effortlessly, manages
+S:It's always seemed like a big mystery how nature, seemingly so effortlessly, manages
  :to produce so much that seems to us so complex.  Well, I think we found its secret.
  :It's just sampling what's out there in the computational universe.
 
