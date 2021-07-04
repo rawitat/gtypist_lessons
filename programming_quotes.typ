@@ -1285,6 +1285,39 @@ S:I really didn't foresee the Internet.  But then, neither did the computer indu
  :Not that that tells us very much of course -- the computer industry didn't even
  :foresee that the century was going to end.
 
+*:G7_4
+I:[4] Nicholas Negroponte
+S:Computing is not about computers any more.  It is about living.
+
+*:G7_5
+I:[5] Danielle Berry
+S:No one ever said on their deathbed, "Gee, I wish I had spent more time alone
+ :with my computer".
+
+*:G7_6
+I:[6] Adam Osborne
+S:People think computers will keep them from making mistakes.  They're wrong.
+ :With computers you make mistakes faster.
+
+*:G7_7
+I:[7] Steve Jobs
+S:Computers themselves, and software yet to be developed, will revolutionize
+ :the way we learn.
+
+*:G7_8
+I:[8] Norman Ralph Augustine
+S:One of the most feared expressions in modern times is "The computer is down".
+
+*:G7_9
+I:[9] Andy Rooney
+S:Computers may save time but they sure waste a lot of paper.  About 98 percent
+ :of everything printed out by a computer garbage that no one ever reads.
+
+*:G7_10
+I:[10] Reshma Saujani
+S:Computer science is not just for smart 'nerds' in hoodies coding in basements.
+ :Coding is extremely creative and is an integral part of almost every industry.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
@@ -1598,6 +1631,131 @@ S:... we have created a man with not one brain but two.  This new brain is inten
 I:[7] Veronica Roth, "Divergent"
 S:Two things you should know about me; The first is that I am deeply suspicious of
  :people in general.  It is my nature to expect the worst of them.  
+
+*:PHIL2_8
+I:[8] Richard Dawkins
+S:Personally, I rather look forward to a computer prorgam wining the world chess
+ :championship.  Humanity needs a lesson in humility.
+
+*:PHIL2_9
+I:[9] Louis V. Gerstner, Jr.
+S:Computers are magnificent tools for the realization of our dreams, but no machine
+ :can replace the human spark of spirit, compassion, love, and understanding.
+
+*:PHIL2_10
+I:[10] Sydney J. Harris
+S:The real danger is not that computers will begin to think like men, but that men
+ :will begin to think like computers.
+
+*:PHIL2_11
+I:[11] Adam Osborne
+S:The future lies in designing and selling computers that people don't realize
+ :are computers at all.
+
+*:PHIL2_12
+I:[12] Alan Kay
+S:Computer science inverts the normal.  In normal science, you're given a world,
+ :and your job is to find out the rules.  In computer science, you give the 
+ :computer the rules, and it creates the world.
+
+*:PHIL2_13
+I:[13] Paul Allen
+S:The promise of artificial intelligence and computer science generally vastly
+ :outweights the impact it could have on some jobs in the same way that, while the
+ :invention of the airplane negatively affected the railroad industry, it opened
+ :a much wider door to human to progress.
+
+*:PHIL2_14
+I:[14] Isaac Asimov, "Robot Visions"
+S:In a properly automated and educated world, then, machines may prove to be the
+ :true humanizing influence.  It may be that machines will do the work that makes
+ :life possible and that human beings will do all the other things that make life
+ :pleasant and worthwhile.
+
+*:PHIL2_15
+I:[15] William S. Burroughs
+S:The study of thinking machines teaches us more about the brain than we can learn
+ :by introspective methods.  Western man is externalizing himself in the form of
+ :gadgets.
+
+*:PHIL2_16
+I:[16] Alan Turing, "Mechanical Intelligence: Collected Works of A.M. Turing"
+S:The original question, 'Can machines think?' I believe to be too meaningless
+ :to deserve discussion.
+
+*:PHIL2_17
+I:[17] Douglas Rushkoff, "Program or Be Programmed: Ten Commands for a Digital Age"
+S:We are looking at a society increasingly dependent on machines, yet decreasingly
+ :capable of making or even using them effectively.
+
+*:PHIL2_18
+I:[18] Bill Watterson, "There's Treasure Everywhere"
+S:We don't value craftsmanship anymore!  All we value is ruthless efficiency, and
+ :I say we deny our own humanity that way!  Without appreciation for grace and
+ :beauty, there's no pleasure in creating things and no pleasure in having them!
+ :
+ :Our lives are made drearier, rather than richer! How can a person take pride
+ :in his work when skill and care are considered luxuries! We're not machines!
+ :We have a human need for craftsmanship.
+
+*:PHIL2_19
+I:[19] Hugo Cabret (Fictional Character)
+S:I'd imagine the whole world was one big machine.  Machines never come with any
+ :extra parts, you know.  They always come with the exact amount they need.  So I
+ :figured, if the entire world was one big machine, I couldn't be an extra part.
+ :I had to be here for some reason.  And that means you have to be here for some
+ :reason, too.
+
+*:PHIL2_20
+I:[20] Adrian Tchaikovsky, "Blood of the Mantis"
+S:Progress is made by the improvement of people, not the improvement of machines.
+
+*:PHIL2_21
+I:[21] Louise Gluck, "The Wild Iris"
+S:Go ahead: say what you're thinking. 
+ :The garden is not the real world.
+ :Machines are the real world.
+
+*:PHIL2_22
+I:[22] Kurt Vonnegut, "Breakfast of Champions"
+S:So, in the interests of survival, they trained themselves to be agreeing machines
+ :instead of thinking machines.  All their minds had to do was to discover what
+ :other people were thinking, and then they thought that, too.
+
+*:PHIL2_23
+I:[23] Kai-Fu Lee
+S:Part of why predicting the ending to our artificial intelligence story is so
+ :difficult is because this isn't just a story about machines.  It's also a story
+ :about human beings, people with free wills that allows them to make their own
+ :choices and to shape their own destinies.  Our AI future will be created by us,
+ :and it will reflect the choices we make and the actions we take.
+
+*:PHIL2_24
+I:[24] E.M. Forster, "The Machine Stops"
+S:Cannot you see, cannot you all lecturers see, that it is we that are dying and
+ :that down here the only thing that really lives is the Machine?
+ :
+ :We created the Machine, to do our will, but we cannot make it do our will now.
+ :It has robbed us of the sense of space and of the sense of touch, it has blurred
+ :every human relation and narrowed down love to a carnal act, it has paralysed
+ :our bodies and our wills, and now it compels us to worship it.  The Machine
+ :develops -- but not on our lines.  The Machine proceeds -- but not to our goal.
+ :We only exist as the blood corpuscles that course through its arteries, and if
+ :it could work without us, it would let us die.
+
+*:PHIL2_25
+I:[25] Steve Toutonghi, "Side Life"
+S:The machines of the mind are more difficult to recognize than machines of
+ :iron and steam.
+
+*:PHIL2_26
+I:[26] Dahi Tamara Koch, "Within the event horizon: Poetry prose"
+S:Emotions make us human.  Without being able to feel something, we cannot be
+ :anything more than machines.
+
+*:PHIL2_27
+I:[27] Richie Norton
+S:The industrial model is gone.  People are more than machines.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
