@@ -1590,7 +1590,7 @@ S:On two occasions I have been asked: "If you put into the machine wrong figures
  :will the right answers come out?"
  :
  :I am not able rightly to apprehend the kind of confusion of ideas that could 
- :provoke suck a question.
+ :provoke such a question.
 
 *:PHIL2_2
 I:[2] Stephen Hawking
