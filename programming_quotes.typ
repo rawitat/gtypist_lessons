@@ -672,169 +672,169 @@ N:MENU
 B:General Wisdoms in Programming and Code Writing #4
 
 *:G4_1
-I:Andrei Herasimchuck
+I:[1] Andrei Herasimchuck
 S:The best engineers I know are artists at heart.
  :The best designers I know are secretly technicians as well.
 
 *:G4_2
-I:Donald E. Knuth
+I:[2] Donald E. Knuth
 S:You're bound to be unhappy if you optimize everything.
 
 *:G4_3
-I:Robert C. Martin
+I:[3] Robert C. Martin
 S:The proper use of comments is to compensate for our failure to express
  :ourself in code.
 
 *:G4_4
-I:David Heinemeier Hansson
+I:[4] David Heinemeier Hansson
 S:Programmers are constantly making things more complicated than they need to be
  :BECAUSE FUTURE.  Fuck the future.  Program for today.
 
 *:G4_5
-I:Ron Fein
+I:[5] Ron Fein
 S:Design is choosing how you will fail.
 
 *:G4_6
-I:Ron Jeffries
+I:[6] Ron Jeffries
 S:Code never lies, comments sometimes do.
 
 *:G4_7
-I:Larry Wall
+I:[7] Larry Wall
 S:You want it in one line? Does it have to fit in 80 columns?
 
 *:G4_8
-I:John Ousterhout
+I:[8] John Ousterhout
 S:The best performance improvement is the transition from the nonworking state
  :to the working state.
 
 *:G4_9
-I:Bjarne Stroustrup
+I:[9] Bjarne Stroustrup
 S:An organization that treats its programmers as morons will soon have
  :programmers that are willing and able to act like morons only.
 
 *:G4_10
-I:Niklaus Wirth
+I:[10] Niklaus Wirth
 S:Prolific programmers contribute to certain disaster.
 
 *:G4_11
-I:Anonymous
+I:[11] Anonymous
 S:Every good work of software starts by scratching a developer's personal itch.
 
 *:G4_12
-I:Ricard Pattis
+I:[12] Ricard Pattis
 S:Programming languages, like pizzas, come in only two sizes:
  :too big and too small.
 
 *:G4_13
-I:Alan J. Perlis
+I:[13] Alan J. Perlis
 S:One man's constant is another man's variable.
 
 *:G4_14
-I:Anonymous
+I:[14] Anonymous
 S:Only half of programming is coding.  The other 90% is debugging.
 
 *:G4_15
-I:Steve McConnell
+I:[15] Steve McConnell
 S:The big optimizations come from refining the high-level design, not the
  :individual routines.
 
 *:G4_16
-I:Robert C. Martin
+I:[16] Robert C. Martin
 S:All race conditions, deadlock conditions, and concurrent update problems
  :are due to mutable variables.
 
 *:G4_17
-I:Alan Turing
+I:[17] Alan Turing
 S:Up to a point, it is better to just let the snags [bugs] be there than to spend
  :such time in design that there are none.
 
 *:G4_18
-I:C.A.R Hoare
+I:[18] C.A.R Hoare
 S:The price of reliability is the pursuit of the utmost simplicity.
  :It is a price which the very rich may find hard to pay.
 
 *:G4_19
-I:C.A.R Hoare
+I:[19] C.A.R Hoare
 S:You cannot teach beginners top-down programming, because they don't know
  :which end is up.
 
 *:G4_20
-I:Edsger W. Dijkstra
+I:[20] Edsger W. Dijkstra
 S:The competent programmer is fully aware of the strictly limited size of his
  :own skull; therefore he approaches the programming task in full humility, and
  :among other things he avoids clever tricks like the plague.
 
 *:G4_21
-I:Ricard Pattis
+I:[21] Ricard Pattis
 S:If you cannot grok the overall structure of a program while taking a shower,
  :you are not ready to code it.
 
 *:G4_22
-I:Kurt Vonnegut
+I:[22] Kurt Vonnegut
 S:If you can't write clearly, you probably don't think nearly as well as you think.
 
 *:G4_23
-I:James Gosling
+I:[23] James Gosling
 S:You never actually find a perfect answer to a problem.  You just find the
  :answer that has the fewest problems.
 
 *:G4_24
-I:Nick Takayama
+I:[24] Nick Takayama
 S:The hardest problem in computer science is not being an opinionated jerk
  :about everything.
 
 *:G4_26
-I:Sam Morgan
+I:[26] Sam Morgan
 S:Your code has two users: the computer, and every other person who has to work
  :with what you wrote.
 
 *:G4_27
-I:Michael Feathers
+I:[27] Michael Feathers
 S:In a complex system you don't get to change just one thing - ever.
 
 *:G4_28
-I:Bjarne Stroustrup
+I:[28] Bjarne Stroustrup
 S:More good code has been written in languages denounced as bad than in languages
  :proclaimed wonderful.
 
 *:G4_29
-I:Eric Raymond
+I:[29] Eric Raymond
 S:Smart data structures and dumb code works a lot better than
  :the other way around.
 
 *:G4_30
-I:Dennis Ritchie
+I:[30] Dennis Ritchie
 S:A language that doesn't have everything is actually easier to program
  :than some that do.
 
 *:G4_31
-I:Edsger W. Dijkstra
+I:[31] Edsger W. Dijkstra
 S:... the purpose of abstraction is not to be vague, but to create a new semantic
  :level in which one can be absolutely precise.
 
 *:G4_32
-I:B. Reid
+I:[32] B. Reid
 S:Computer Science is the first engineering discipline in which the complexity
  :of the objects created is limited solely by the skill of the creator, and not
  :by the strength of raw materials.
 
 *:G4_33
-I:Michael Feathers
+I:[33] Michael Feathers
 S:We just have to accept that developer skill is a far more significant variable
  :than language choice or methodological nuances.
 
 *:G4_34
-I:Martin Fowler
+I:[34] Martin Fowler
 S:Comparing to another activity is useful if it helps you formulate questions,
  :it's dangerous when you use it to justify answers.
 
 *:G4_35
-I:Alan J. Perlis
+I:[35] Alan J. Perlis
 S:Every program has (at least) two purposes: the one for which it was written,
  :and another for which it wasn't.
 
 *:G4_36
-I:Donald Knuth
+I:[36] Donald Knuth
 S:The most important thing in the programming language is the name.  A language
  :will not succeed without a good name.  I have recently invented a very good
  :name and now I am looking for a suitable language.
