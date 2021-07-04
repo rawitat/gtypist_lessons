@@ -475,39 +475,39 @@ N:MENU
 B:General Wisdoms in Programming and Code Writing #3
 
 *:G3_1
-I:D. Jones
+I:[1] D. Jones
 S:The fastest algorithm can frequently be replaced by one that is almost as fast
  :and much easier to understand.
 
 *:G3_2
-I:Alan Kay
+I:[2] Alan Kay
 S:90% of code written today is getting around other people's mistakes.
 
 *:G3_3
-I:Alan Kay
+I:[3] Alan Kay
 S:Computers are to computing as instruments are to music.  Software is the
  :score whose interpretations amplifies our reach and lifts our spirits.
  :Leonardo da Vinci called music the shaping of the invisible, and his phrase
  :is even more apt as a description of software.
 
 *:G3_4
-I:Alan Kay
+I:[4] Alan Kay
 S:[In a programming language] Simple things should be simple and complex things
  :should be possible.
 
 *:G3_5
-I:Donald E. Knuth
+I:[5] Donald E. Knuth
 S:Computers are good at following instructions, but not at reading your mind.
 
 *:G3_6
-I:Donald E. Knuth
+I:[6] Donald E. Knuth
 S:Let us change our traditional attitude to the construction of programs.
  :Instead of imagining that our main task is to instruct a computer what to do,
  :let us concentrate rather on explaining to human beings what we want a
  :computer to do.
 
 *:G3_7
-I:Donald E. Knuth
+I:[7] Donald E. Knuth
 S:Programmers waste enormous amounts of time thinking about, or worrying about,
  :the speed of noncritical parts of their programs, and these attempts at
  :efficiency actually have a strong negative impact when debugging and
@@ -516,11 +516,11 @@ S:Programmers waste enormous amounts of time thinking about, or worrying about,
  :we should not pass up our opportunities in that critical 3%.
 
 *:G3_8
-I:J. von Neumann
+I:[8] J. von Neumann
 S:In mathematics you don't understand things.  You just get used to them.
 
 *:G3_9
-I:Alan J. Perlis
+I:[9] Alan J. Perlis
 S:I think that it's extraordinary important that we in computer science keep fun
  :in computing.  When it started out, it was an awful lot of fun.  Of course,
  :the paying customers got shafted every now and then, and after a while we began
@@ -531,66 +531,66 @@ S:I think that it's extraordinary important that we in computer science keep fun
  :of computer science never loses its sense of fun.
 
 *:G3_10
-I:Alan J. Perlis
+I:[10] Alan J. Perlis
 S:It goes against the grain of modern education to teach students to program.
  :What fun is there to making plans, acquiring discipline, organizing thoughts,
  :devoting attention to detail, and learning to be self critical.
 
 *:G3_11
-I:Alan J. Perlis
+I:[11] Alan J. Perlis
 S:It is easier to write an incorrect program than understand a correct one.
 
 *:G3_12
-I:Alan J. Perlis
+I:[12] Alan J. Perlis
 S:Optimization hinders evolution.  Everything should be built top-down, except the
  :first time.  Simplicity does not precede complexity, but follows it.
 
 *:G3_13
-I:Alan J. Perlis
+I:[13] Alan J. Perlis
 S:To understand a program, you must become both the machine and the program.
 
 *:G3_14
-I:Bjarne Stroustrup
+I:[14] Bjarne Stroustrup
 S:Design and programming are human activities; forget that and all is lost.
 
 *:G3_15
-I:Alan Turing
+I:[15] Alan Turing
 S:We shall do much better programming job, provided we approach the task with
  :a full appreciation of its tremendous difficulty, provided that we respect
  :the intrinsic limitations of the human mind and approach the task as very
  :humble programmers.
 
 *:G3_16
-I:S. McConnell
+I:[16] S. McConnell
 S:Good code is its own best documentation.  As you're about to add a comment,
  :ask yourself "How can I improve the code so that this comment isn't needed?"
  :Improve the code and then document it to make it even clearer.
 
 *:G3_17
-I:Alan J. Perlis
+I:[17] Alan J. Perlis
 S:A good programming language is a conceptual universe for thinking about
  :programming.
 
 *:G3_18
-I:Alan J. Perlis
+I:[18] Alan J. Perlis
 S:Fools ignore complexity; pragmatists suffer it; experts avoid it;
  :geniuses remove it.
 
 *:G3_19
-I:Alan J. Perlis
+I:[19] Alan J. Perlis
 S:I think it is inevitable that people program poorly.  Training will not
  :substantially help matters.  We have to learn to live with it.
 
 *:G3_20
-I:E.B. White
+I:[20] E.B. White
 S:The best writing is rewriting.
 
 *:G3_21
-I:L. Wittenstein
+I:[21] L. Wittenstein
 S:The limits of your language are the limits of your world.
 
 *:G3_22
-I:W. Wulf
+I:[22] W. Wulf
 S:More bugs have introduced into programs through premature optimization than
  :any other cause, including pure stupidity.
  :
@@ -600,64 +600,65 @@ S:More bugs have introduced into programs through premature optimization than
  :blind stupidity.
 
 *:G3_23
-I:E.C. Zeeman
+I:[23] E.C. Zeeman
 S:Technical skill is mastery of complexity,
  :while creativity is mastery of simplicity.
 
 *:G3_24
-I:Everyone needs computer programming.  It will be the way we speak to the
+I:[24] Quincy Larson
+S:Everyone needs computer programming.  It will be the way we speak to the
  :servants.
 
 *:G3_25
-I:Linus Torvalds
+I:[25] Linus Torvalds
 S:Most good programmers do programming not because they expect to get paid or
  :get adulation by the public, but because it is fun to program.
 
 *:G3_26
-I:Anonymous
+I:[26] Anonymous
 S:Computers do not solve problems, they execute solutions.
 
 *:G3_27
-I:Oscar Godson
+I:[27] Oscar Godson
 S:One of the best programming skills you can have is knowing when to walk away
  :for awhile.
 
 *:G3_28
-I:Scott Adams
+I:[28] Scott Adams
 S:You can never underestimate the stupidity of the general public.
 
 *:G3_29
-I:Kreitzberg & Shmeiderman
+I:[29] Kreitzberg & Shmeiderman
 S:Programming can be fun, so can cryptography;
  :however they should not be combined.
 
 *:G3_30
-I:C.A.R Hoare
+I:[30] C.A.R Hoare
 S:Inside every large program, there is a program trying to get out.
 
 *:G3_31
-I:Pragmatic Programmer
+I:[31] Pragmatic Programmer
 S:A good way to stay flexible is to write less code.
 
 *:G3_32
-I:Gerald M. Weinberg
+I:[32] Gerald M. Weinberg
 S:No matter what the problem is, it's always a people problem.
 
 *:G3_33
-I:Gordon Bell
+I:[33] Gordon Bell
 S:Every big computing disaster has come from taking too many ideas and putting
  :them in one place.
 
 *:G3_34
-I:Edsger W. Dijkstra
+I:[34] Edsger W. Dijkstra
 S:Simplicity is prerequisite for reliability.
 
 *:G3_35
-I:Jordi Boggiano
+I:[35] Jordi Boggiano
 S:Focus on WHY instead of WHAT in your code will make you a better developer.
 
 *:G3_36
-I:Stewart Alsop
+I:[36] Stewart Alsop
 S:Gates is the ultimate programming machine.  He believes everything can be
  :defined, examined, reduced to essentials, and rearranged into a logical
  :sequence that will achieve a particular goal.
