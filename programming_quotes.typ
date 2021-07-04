@@ -1606,7 +1606,7 @@ S:Whether we are based on carbon or on silicon makes no fundamental difference;
 *:PHIL2_4
 I:[4] Jaron Lanier, "You Are Not a Gadget"
 S:Emphasizing the crowd means de-emphasizing individual humans in the design of
- :society, and whne you ask people not to be people, they revert to bad, mob-like
+ :society, and when you ask people not to be people, they revert to bad, mob-like
  :behaviors.
 
 *:PHIL2_5
