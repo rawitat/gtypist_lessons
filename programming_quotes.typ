@@ -2180,6 +2180,25 @@ I:[4] David Hubel
 S:We need above all to know about changes; no one wants or needs to be reminded 16 hours
  :a day that his shoes are on.
 
+*:SW4_5
+I:[5] IO Angell
+S:Today, most software exists, not to solve a problem, but to interface with other software.
+
+*:SW4_6
+I:[6] David Parnas
+S:As a rule, software systems do not work well until they have been used, and have failed
+ :repeatedly, in real applications.
+
+*:SW4_7
+I:[7] Gordon Schulmeyer
+S:In a software project team of 10, there are probably 3 people who produce enough defects
+ :to make them net negative producers.
+
+*:SW4_8
+I:[8] Edsger Dijkstra
+S:Program testing can be a very effective way to show the presence of bugs, but is
+ :hopelessly inadequate for showing their absence.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
