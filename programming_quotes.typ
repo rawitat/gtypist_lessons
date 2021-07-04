@@ -1690,7 +1690,7 @@ S:We are looking at a society increasingly dependent on machines, yet decreasing
 
 *:PHIL2_18
 I:[18] Bill Watterson, "There's Treasure Everywhere"
-S:We don't value craftsmanship anymore!  All we value is ruthless efficiency, and
+S:We don't value craftsmanship anymore! All we value is ruthless efficiency, and
  :I say we deny our own humanity that way! Without appreciation for grace and
  :beauty, there's no pleasure in creating things and no pleasure in having them!
  :
