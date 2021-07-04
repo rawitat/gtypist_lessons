@@ -1273,10 +1273,16 @@ B:General Wisdoms in Programming and Code Writing #7
 I:[1] Dennis Ritchie
 S:UNIX is simple.  It just takes a genius to understand its simplicity.
 
-:G7_2
+*:G7_2
 I:[2] Jamie Zawinski
 S:Some people, when confronted with a problem, think 'I know, I'll use regular
  :expressions.'  Now they have two problems.
+
+*:G7_3
+I:[3] Douglas Adams (about Y2K)
+S:I really didn't foresee the Internet.  But then, neither did the computer industry.
+ :Not that that tells us very much of course -- the computer industry didn't even
+ :foresee that the century was going to end.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
@@ -1557,6 +1563,40 @@ I:[2] Stephen Hawking
 S:I think computer viruses should count as life.  I think it says something about
  :human nature that the only form of life we have created is purely destructive.
  :We've created life in our own image.
+
+*:PHIL2_3
+I:[3] Arthur C. Clarke, "2010: Odyssey Two"
+S:Whether we are based on carbon or on silicon makes no fundamental difference;
+ :we should each be treated with appropriate respect.
+
+*:PHIL2_4
+I:[4] Jaron Lanier, "You Are Not a Gadget"
+S:Emphasizing the crowd means de-emphasizing individual humans in the design of
+ :society, and whne you ask people not to be people, they revert to bad, mob-like
+ :behaviors.
+
+*:PHIL2_5
+I:[5] Steve Wozniak
+S:"All of a sudden, we've lost a lot of controls," he said. "We can't turn off
+ :our internet; we can't turn off our smartphones; we can't turn off our computers.
+ :You used to ask a smart person a question.  Now, who do you ask? It starts with
+ :g-o, and it's not God..."
+
+*:PHIL2_6
+I:[6] Michael Crichton, "The Terminal Man"
+S:... we have created a man with not one brain but two.  This new brain is intended
+ :to control the biological brain.  The patient's biological brain is the peripheral
+ :terminal -- the only peripheral terminal -- for the new computer.  And therefore
+ :the patient's brain, indeed his whole body, has become a terminal for the new
+ :computer.  We have created a man who is one single, large, complex computer
+ :terminal.  The patient is a read-out device for the new computer, and is helpless
+ :to control the readout as a TV screen is helpless to control the information
+ :presented on it.
+
+*:PHIL2_7
+I:[7] Veronica Roth, "Divergent"
+S:Two things you should know about me; The first is that I am deeply suspicious of
+ :people in general.  It is my nature to expect the worst of them.  
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
