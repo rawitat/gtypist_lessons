@@ -1757,6 +1757,82 @@ S:Emotions make us human.  Without being able to feel something, we cannot be
 I:[27] Richie Norton
 S:The industrial model is gone.  People are more than machines.
 
+*:PHIL2_28
+I:[28] Gary William Flake, "The Computational Beauty of Nature"
+S:The goal of this book is to highlight the computational beauty found in
+ :nature's program.
+
+*:PHIL2_29
+I:[29] Gary William Flake, "The Computational Beauty of Nature"
+S:Looking back at the organization of sciences, we find that at each level of
+ :understanding, traditional scientists study two types of phenomena: agents
+ :(molecules, cells, ducks, and species) and interactions of agents (chemical
+ :reactions, immune system responses, duck mating, and evolution).
+ :
+ :Studying agents in isolation is a fruitful way of discovering insights into
+ :the form and function of an agent, but doing so has some known limitations.
+ :Specifically, reductionism fails when we try to use it a reverse direction.
+ :As we shall see throughout this book, having a complete and perfect under-
+ :standing of how an agent behaves in no way guarantees that you will be able
+ :to predict how this single event will behave for all time or in the context
+ :of other agents.
+
+*:PHIL2_30
+I:[30] Gary William Flake, "The Computational Beauty of Nature"
+S:We have, then, three different ways of looking at how things work.  We can
+ :take a purely reductionist approach and attempt to understand things through
+ :dissection.  We also can take a wider view and attempt to understand whole
+ :collections at once by observing how many agents, say the neurons in a brain,
+ :form a global pattern, such as human intelligence.  Or we can take an inter-
+ :mediate view and focus attention on the interactions of agents.  Through
+ :this middle path, the interactions of agents can be seen to form the glue that
+ :binds one level of understanding to the next level.
+
+*:PHIL2_31
+I:[31] Gary William Flake, "The Computational Beauty of Nature"
+S:Any discrete piece of information can be represented by a set of numbers.
+ :Systems that compute can represent powerful mappings from one set of numbers
+ :to another.  Moreoever, any program on any computer is equivalent to a number
+ :mapping.  These mappings can be thought of as statements about the properties
+ :of numbers; hence, there is a close connection between computer programs and
+ :mathematical proofs.
+
+*:PHIL2_32
+I:[32] Gary William Flake, "The Computational Beauty of Nature"
+S:[Cont] But there are more possible mappings than possible programs; thus, there
+ :are some things that simply cannot be computed.  The actual process of computing
+ :can be defined in terms of a very small number of primitive operations, with
+ :recursion and/or iteratiion comprising the most fundamental pieces of a computing
+ :device.  Computing devices can also make statements about other computing devices.
+ :This leads to a fundamental paradox that ultimately exposes the limitations not
+ :just of machine logic, but all of nature as well.
+
+*:PHIL2_33
+I:[33] Gary William Flake, "The Computational Beauty of Nature"
+S:Later Turing proved that Turing machines could compute exactly the same functions
+ :as lambda calculus, which proved that all three models of computation are equi-
+ :valent.  This is a truly remarkable result, considering how different the three
+ :models of computation are.  In Church's 1941 paper he made a statement that is
+ :now known as the Church-Turing thesis:
+ :
+ :Any function that can be called computable can be comuted by lambda calculus,
+ :a Turing machine, or a general recursive function.
+
+*:PHIL2_34
+I:[34] Gary William Flake, "The Computational Beauty of Nature"
+S:[Cont] Recall the point that was made about functions describing relationships
+ :between numbers and models of computation describing functions.  Well, the
+ :Church-Turing thesis is yet another level more fundamental than a model of
+ :computation.  As a statement about models of computation, it is not subject to
+ :proof in the usual sense; thus, it is impossible to prove that the thesis is
+ :correct.
+ :
+ :One could disprove it by coming up with a model of computation over discrete
+ :elements that could calculate things that one of the other models could not;
+ :however, this has not happened.  The fact that every posed model of computation
+ :has always been exactly equivalent to (or weaker than) one of the others lend
+ :strong support to the Church-Turing thesis.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
