@@ -1287,93 +1287,94 @@ N:MENU
 B:Philosophical Thoughts: Man, Mind, Machine, etc.
 
 *:PHIL_1
-I:Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
-S:The Analytical Engine has no pretensions whatever to originate anything.  It can do
- :whatever we know how to order it to perform.  It can follow analysis; but it has no
- :power of anticipating any analytical relations or truths.  Its province to assist us
- :to making available what we are already acquainted with.
+I:[1] Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
+S:The Analytical Engine has no pretensions whatever to originate anything.  It can
+ :do whatever we know how to order it to perform.  It can follow analysis; but it
+ :has no power of anticipating any analytical relations or truths.  Its province to
+ :assist us to making available what we are already acquainted with.
 
 *:PHIL_2
-I:Alan Turing
-S:The idea behind digital computers may be explained by saying that these machines are
- :intended to carry out any operations which could be done by a human computer.
+I:[2] Alan Turing
+S:The idea behind digital computers may be explained by saying that these machines
+ :are intended to carry out any operations which could be done by a human computer.
 
 *:PHIL_3
-I:Alan Turing
+I:[3] Alan Turing
 S:A man provided with paper, pencil, and rubber, and subject to strict discipline,
  :is in effect a universal machine.
 
 *:PHIL_4
-I:Rudy Rucker
+I:[4] Rudy Rucker
 S:Computations are everywhere, once you begin to look at things in a certain way.
 
 *:PHIL_5
-I:Seth Lloyd
+I:[5] Seth Lloyd
 S:I have not proved that the universe is, in fact, a digital computer and that
  :it's capable of performing universal computation, but it's plausible that it is.
 
 *:PHIL_6
-I:John McCarthy, "Towards a Mathematical Science of Computation"
+I:[6] John McCarthy, "Towards a Mathematical Science of Computation"
 S:Let me re-assert that the question of whether there are limitations in
  :principle of what problems man can make machines solve for him as compared
  :to his own ability to solve problems, really is a technical question in
  :recursive function theory.
 
 *:PHIL_7
-I:Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
+I:[7] Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
 S:The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves
  :flowers and leaves.
 
 *:PHIL_8
-I:Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
+I:[8] Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
 S:Many persons who are not conversant with mathematical studies imagine that because
  :the business of [Babbage's Analytical Engine] is to give its results in numerical
- :notation, the nature of its processes must consequently be arithmetical and numerical,
- :rather than algebraical and analytical.  This is an error.
+ :notation, the nature of its processes must consequently be arithmetical and
+ :numerical, rather than algebraical and analytical.  This is an error.
  :
- :The engine can arrange and combine its numerical quantities exactly as if they were
- :letters or any other general symbols; and in fact it might bring out its results in
- :algebraic notation, were provisions made accordingly.
+ :The engine can arrange and combine its numerical quantities exactly as if they
+ :were letters or any other general symbols; and in fact it might bring out its
+ :results in algebraic notation, were provisions made accordingly.
 
 *:PHIL_9
-I:Gregory Bateson, "Mind and Nature"
+I:[9] Gregory Bateson, "Mind and Nature"
 S:Thirty years ago, we used to ask: Can a computer simulate all processes of logic?
  :The answer was "yes", but the question was surely wrong.  We should have asked:
  :Can logic simulate all sequences of cause and effect? And the answer would have
  :been "no".
 
 *:PHIL_10
-I:Jordan Ellenberg, "How Not to Be Wrong: The Power of Mathmetical Thinking"
+I:[10] Jordan Ellenberg, "How Not to Be Wrong: The Power of Mathmetical Thinking"
 S:Dividing one number by another is mere computation; knowing what to divide what
  :is mathematics.
 
 *:PHIL_11
-I:Rudy Rucker
-S:We're presently in the midst of third intellectual revolution.  The first came with
- :Newton: the planets obey physical laws.  The second came with Darwin: biology obeys
- :genetic laws.  In today's third revolution, we're coming to realize that even minds
- :and societies emerge from interacting laws that can be regarded as computations.
- :Everything is computation.
+I:[11] Rudy Rucker
+S:We're presently in the midst of third intellectual revolution.  The first came
+ :with Newton: the planets obey physical laws.  The second came with Darwin: biology
+ :obeys genetic laws.  In today's third revolution, we're coming to realize that
+ :even minds and societies emerge from interacting laws that can be regarded as
+ :computations.  Everything is computation.
 
 *:PHIL_12
-I:Stephen Wolfram
-S:It's always seemed like a big mystery how nature, seemingly so effortlessly, manages
- :to produce so much that seems to us so complex.  Well, I think we found its secret.
- :It's just sampling what's out there in the computational universe.
+I:[12] Stephen Wolfram
+S:It's always seemed like a big mystery how nature, seemingly so effortlessly,
+ :manages to produce so much that seems to us so complex.  Well, I think we found
+ :its secret.  It's just sampling what's out there in the computational universe.
 
 *:PHIL_13
-I:Michael Sipser, "Introduction to The Theory of Computation"
+I:[13] Michael Sipser, "Introduction to The Theory of Computation"
 S:Theory is relevant to you because it shows you a new, simpler, and more elegant
- :side of computers, which we normally consider to be complicated machines.  The best
- :computer designs and applications are conceived with elegance in mind.  A theoretical
- :course can heighten your aesthetic sense and help you build more beautiful systems.
+ :side of computers, which we normally consider to be complicated machines.
+ :The best computer designs and applications are conceived with elegance in mind.
+ :A theoretical course can heighten your aesthetic sense and help you build more
+ :beautiful systems.
 
 *:PHIL_14
-I:Abhijit Naskar, "Mission Reality"
+I:[14] Abhijit Naskar, "Mission Reality"
 S:Computation is not the same as thought and emulation is not the same as imagination.
 
 *:PHIL_15
-I:Paul Graham
+I:[15] Paul Graham
 S:If you understand McCarthy's eval, you understand more than just a stage in the 
  :history of languages.  These ideas are still the semantic core of Lisp today.  
  :So studying McCarthy's original paper shows us, in a sense, what Lisp really is.  
@@ -1383,7 +1384,7 @@ S:If you understand McCarthy's eval, you understand more than just a stage in th
  :axiomatize computation.
 
 *:PHIL_16
-I:Laura F. Landweber, "Evolution as Computation", Dimac Workshop, Princeton, Jan 1999
+I:[16] Laura F. Landweber, "Evolution as Computation", Princeton 1999
 S:It is now plausible at the molecular level to conceive of concerted, non-random
  :changes in the genome guided by cellular computing networks during episodes of
  :evolutionary change.  Thus, just as the genome has come to be seen as a highly
@@ -1391,131 +1392,133 @@ S:It is now plausible at the molecular level to conceive of concerted, non-rando
  :highly sophisticated information processing.
 
 *:PHIL_17
-I:Jaron Lanier, "Who Owns the Future?"
+I:[17] Jaron Lanier, "Who Owns the Future?"
 S:The reason Maxwell's Demon cannot exist is that it does take resources to perform
- :an act of discrimination.  We imagine computation is free, but it never is.  The very
- :act of choosing which particle is cold or hot itself becomes an energy drain and a
- :source of waste heat.  The principle is also known as "no free lunch".
+ :an act of discrimination.  We imagine computation is free, but it never is.  The 
+ :very act of choosing which particle is cold or hot itself becomes an energy drain
+ :and a source of waste heat.  The principle is also known as "no free lunch".
  :
- :We do our best to implement Maxwell's Demon whenever we manipulate reality with our
- :technologies, but we can never do so perfectly; we certainly can't get ahead of the
- :game, which is known as entropy.  All the air conditioners in a city emit heat that
- :makes the city hotter overall.  While you can implement what seems to be a Maxwell's
- :Demon if you don't look too far or too closely, in the big picture you always lose more
- :than you gain.
+ :We do our best to implement Maxwell's Demon whenever we manipulate reality with
+ :our technologies, but we can never do so perfectly; we certainly can't get ahead
+ :of the game, which is known as entropy.  All the air conditioners in a city emit
+ :heat that makes the city hotter overall.  While you can implement what seems to be
+ :a Maxwell's Demon if you don't look too far or too closely, in the big picture you
+ :always lose more than you gain.
  :
- :Every bit in computer is a wannabe Maxwell's Demon, separting the state of "one" from
- :the state of "zero" for a while, at a cost.  A computer on a network can also act like
- :a wannabe demon if it tries to sort data from networked people into one or the other
- :side of some imaginary door, while pretending there is no cost or risk involved.
+ :Every bit in computer is a wannabe Maxwell's Demon, separting the state of "one"
+ :from the state of "zero" for a while, at a cost.  A computer on a network can also
+ :act like a wannabe demon if it tries to sort data from networked people into one
+ :or the other side of some imaginary door, while pretending there is no cost or
+ :risk involved.
 
 *:PHIL_18
-I:Geoffrey Hinton
-S:I have always been convinced that the only way to get artificial intelligence to work
- :is to do computation in a way similar to the human brain.  That is the goal I have
- :been pursuing.  We are making progress, though we still have lots to learn about how
- :the brain actually works.
+I:[18] Geoffrey Hinton
+S:I have always been convinced that the only way to get artificial intelligence to 
+ :work is to do computation in a way similar to the human brain.  That is the goal
+ :I have been pursuing.  We are making progress, though we still have lots to learn
+ :about how the brain actually works.
 
 *:PHIL_19
-I:Howard Aiken
+I:[19] Howard Aiken
 S:The desire to economize time and mental effort in arithmetical computations, and to
  :eliminate human liability to error is probably as old as the science of arithmetic
  :itself.
 
 *:PHIL_20
-I:Rudy Rucker
+I:[20] Rudy Rucker
 S:A computation is a process that obeys finitely describable rules.
 
 *:PHIL_21
-I:Stephen Hawking
+I:[21] Stephen Hawking
 S:There is no physical law precluding particles from being organised in ways that
  :perform even more advanced computations than the arrangements of particles in
  :human brain.
 
 *:PHIL_22
-I:Roger Penrose
+I:[22] Roger Penrose
 S:If you come from mathematics, as I do, you realize that there are many problems,
  :even classical problems, which cannot be solved by computation alone.
 
 *:PHIL_23
-I:Martin Rees
+I:[23] Martin Rees
 S:Some things, like the orbits of the planets, can be calculated far into the future.
- :But that's atypical.  In most contexts, there is a limit.  Even the most fine-grained
- :computation can only forecast British weather a few days ahead.  There are limits to
- :what can ever be learned about the future, however powerful computers become.
+ :But that's atypical.  In most contexts, there is a limit.  Even the most fine-
+ :grained computation can only forecast British weather a few days ahead.  There are
+ :limits to what can ever be learned about the future, however powerful computers
+ :become.
 
 *:PHIL_24
-I:Orison Swett Marden
-S:The achievements of willpower are almost beyond computation.  Scarcely anything seems
- :impossible to the man who can will strongly enough and long enough.
+I:[24] Orison Swett Marden
+S:The achievements of willpower are almost beyond computation.  Scarcely anything 
+ :seems impossible to the man who can will strongly enough and long enough.
 
 *:PHIL_25
-I:Seth Lloyd
+I:[25] Seth Lloyd
 S:One of the things that I've been doing recently in my scientific research is to ask
  :this question: Is the universe actually capable of performing things like digital
  :computations?
 
 *:PHIL_26
-I:Seth Lloyd
+I:[26] Seth Lloyd
 S:All physical systems can be thought of as registering and processing information,
- :and how one wishes to define computation will determine your view of what computation
- :consists of.
+ :and how one wishes to define computation will determine your view of what 
+ :computation consists of.
 
 *:PHIL_27
-I:Rudy Rucker
+I:[27] Rudy Rucker
 S:Lately I've been working to convince myself that everything is a computation.
 
 *:PHIL_28
-I:Rudy Rucker
-S:If you think of your life as a kind of computation, it's quite abundantly clear that
- :there's not going to be a final answer and there won't be anything particularly
- :wonderful about having the computation halt!
+I:[28] Rudy Rucker
+S:If you think of your life as a kind of computation, it's quite abundantly clear 
+ :that there's not going to be a final answer and there won't be anything 
+ :particularly wonderful about having the computation halt!
 
 *:PHIL_29
-I:Rudy Rucker
+I:[29] Rudy Rucker
 S:If we suppose that many natural phenomena are in effect computations, the study of
  :computer science can tell us about the kinds of natural phenomena that can occur.
 
 *:PHIL_30
-I:David Deutsch
+I:[30] David Deutsch
 S:To me quantum computation is a new and deeper and better way to understand the laws
  :of physics, and hence understanding physical reality as a whole.
 
 *:PHIL_31
-I:Steven Pinker
+I:[31] Steven Pinker
 S:I spent 20 years doing research on regular and irregular verbs, not because I'm an
  :obsessive language lover but because it seemed to me that tey tapped into a
  :fundamental distinction in language processing, indeed in cognitive processing,
  :between memory lookup and rule-driven computation.
 
 *:PHIL_32
-I:Edsger Dijkstra
+I:[32] Edsger Dijkstra
 S:Computer science is no more about computers than astronomy is about telescopes.
 
 *:PHIL_33
-I:Isaac Newton
+I:[33] Isaac Newton
 S:Truth is ever to be found in the simplicity, and not in the multiplicity and
  :confusion of things.
 
 *:PHIL_34
-I:John A. Van de Walle
+I:[34] John A. Van de Walle
 S:Mathematics is much more than computation with pencil and a paper and getting
  :answers to routine exercises.  In fact, it can easily be argued that computation,
  :such as doing long division, is not mathematics at all.  Calculators can do the
  :same thing and calculators can only calculate they cannot do mathematics.
 
 *:PHIL_35
-I:L. Ron Hubbard
+I:[35] L. Ron Hubbard
 S:Imagination is actually a form of computation.  Imagination gives calculated and
  :instinctive solutions for the future.
 
 *:PHIL_36
-I:Leonard Adleman
+I:[36] Leonard Adleman
 S:Biology and computer science - life and computation - are related.  I am confident
  :that at their interface great discoveries await those who seek them.
 
 *:PHIL_37
-I:Seth Lloyd
+I:[37] Seth Lloyd
 S:We couldn't build quantum computers unless the universe were quantum and computing.
  :We can build such machines because the universe is storing and processing
  :information in the quantum realm.  When we build quantum computers, we're hijacking
@@ -1523,12 +1526,13 @@ S:We couldn't build quantum computers unless the universe were quantum and compu
  :calculations.  We're hacking into the universe.
 
 *:PHIL_38
-I:Howard Aiken
-S:At the present time there exist problems beyond our ability to solve, not because of
- :theoretical difficulties, but because of insufficient means of mechanical computation.
+I:[38] Howard Aiken
+S:At the present time there exist problems beyond our ability to solve, not because
+ :of theoretical difficulties, but because of insufficient means of mechanical 
+ :computation.
 
 *:PHIL_39
-I:Peter Hilton
+I:[39] Peter Hilton
 S:Computation involves going from a question to an answer.
  :Mathematics involves going from an answer to a question.
 
@@ -1542,11 +1546,17 @@ B:Philosophical Thoughts: Man, Mind, Machine, etc. #2
 
 *:PHIL2_1
 I:[1] Charles Babbage
-S:On two occasions I have been asked: "If you put into the machine wrong figures, will
- :the right answers come out?"
+S:On two occasions I have been asked: "If you put into the machine wrong figures, 
+ :will the right answers come out?"
  :
- :I am not able rightly to apprehend the kind of confusion of ideas that could provoke
- :suck a question.
+ :I am not able rightly to apprehend the kind of confusion of ideas that could 
+ :provoke suck a question.
+
+*:PHIL2_2
+I:[2] Stephen Hawking
+S:I think computer viruses should count as life.  I think it says something about
+ :human nature that the only form of life we have created is purely destructive.
+ :We've created life in our own image.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
