@@ -848,26 +848,26 @@ N:MENU
 B:General Wisdoms in Programming and Code Writing #5
 
 *:G5_1
-I:Ron Jeffries
+I:[1] Ron Jeffries
 S:When we use a language, we should commit ourselves to knowing it, being able
  :to read it, and writing it idiomatically.
 
 *:G5_2
-I:Steve McConnell
+I:[2] Steve McConnell
 S:A brute force solution that works is better than an elegant solution that
  :doesn't work.
 
 *:G5_3
-I:Alan J. Perlis
+I:[3] Alan J. Perlis
 S:Syntactic sugar causes cancer of the semicolon, and other.
 
 *:G5_4
-I:Edsger W. Dijkstra
+I:[4] Edsger W. Dijkstra
 S:The tools we use have a profound (and devious!) influence on our
  :thinking habits, and, therefore, on our thinking abilities.
 
 *:G5_5
-I:Bjarne Stroustrup, "The Design and Evolution of C++"
+I:[5] Bjarne Stroustrup, "The Design and Evolution of C++"
 S:There is no agreement of what a programming language really is and what its
  :main purpose is supposed to be.  Is a programming language a tool for instruct-
  :ing machines? A means of communicating between programmers? A vehicle for
@@ -878,12 +878,12 @@ S:There is no agreement of what a programming language really is and what its
  :language cannot be "and survive" is a mere collection of "neat" features.
 
 *:G5_6
-I:Bjarne Stroustrup, "The Design and Evolution of C++"
+I:[6] Bjarne Stroustrup, "The Design and Evolution of C++"
 S:It is my firm belief that all successful languages are grown and not merely
  :designed from first principles.
 
 *:G5_7
-I:Bjarne Stroustrup, "The Design and Evolution of C++"
+I:[7] Bjarne Stroustrup, "The Design and Evolution of C++"
 S:I have reaffirmed a long-standing and strongly held view: Language comparisons
  :are rarely meaningful and even less often fair.  A good comparison of major
  :programming languages requires more effort than most people are willing to
@@ -891,7 +891,7 @@ S:I have reaffirmed a long-standing and strongly held view: Language comparisons
  :of a detached and impartial point of view, and a sense of fairness.
 
 *:G5_8
-I:Bjarne Stroustrup, "LinuxWorld"
+I:[8] Bjarne Stroustrup, "LinuxWorld"
 S:I think that any language that aspires to mainstream use must provide a broad
  :base for a variety of techniques -- including object-oriented programming
  :(class hierarchies) and generic programming (parameterized types and 
@@ -902,7 +902,7 @@ S:I think that any language that aspires to mainstream use must provide a broad
  :its users to laboriously simulate them.
 
 *:G5_9
-I:Dennis Ritchie, "LinuxWorld"
+I:[9] Dennis Ritchie, "LinuxWorld"
 S:At least for the people who send me mail about a new language that they're
  :designing, the general advice is: do it to learn about how to write a compiler.
  :Don't have any expectations that anyone will use it, unless you hook up with
@@ -912,14 +912,14 @@ S:At least for the people who send me mail about a new language that they're
  :and doing a language at least teaches you something.
 
 *:G5_10
-I:Alan Kay, "Educom Review"
+I:[10] Alan Kay, "Educom Review"
 S:What doesn't exist are really powerful general forms of arguing with computers
  :right now.  So we have to have special orders coming in on special cases and
  :then think up ways to do it.  Some of these are generalizable and eventually you
  :will get an actual engineering discipline.
 
 *:G5_11
-I:Abelson & Sussman, "SICP"
+I:[11] Abelson & Sussman, "SICP"
 S:We have also obtained a glimpse of another crucial idea about languages and
  :program design.  This is the approach of stratified design, the notion that
  :a complex system should be structured as a sequence of levels that are described
@@ -930,120 +930,120 @@ S:We have also obtained a glimpse of another crucial idea about languages and
  :abstraction appropriate to that level of detail.
 
 *:G5_12
-I:Simon Peyton Jones
+I:[12] Simon Peyton Jones
 S:In the programming-language world, one rule of survival is simple: dance or die.
  :It is not enough to make a beautiful language.  You must also make it easy for
  :programs written in your beautiful language to interact with programs written in
  :other languages.
 
 *:G5_13
-I:John McCarthy, "Towards a Mathematical Science of Computation"
+I:[13] John McCarthy, "Towards a Mathematical Science of Computation"
 S:Let me re-assert that the question of whether there are limitations in
  :principle of what problems man can make machines solve for him as compared
  :to his own ability to solve problems, really is a technical question in
  :recursive function theory.
 
 *:G5_14
-I:Kent Beck
+I:[14] Kent Beck
 S:The craft of programming begins with empathy, not formatting or languages or
  :tools or algorithms or data structures.
 
 *:G5_15
-I:Edsger W. Dijkstra
+I:[15] Edsger W. Dijkstra
 S:Simplicity and elegance are unpopular because they require hard work and
  :discipline to achieve and education to be appreciated.
 
 *:G5_16
-I:Edsger W. Dijkstra
+I:[16] Edsger W. Dijkstra
 S:The question of whether computers can think is like the question of whether
  :submarines can swim.
 
 *:G5_17
-I:Ken Thompson
+I:[17] Ken Thompson
 S:You can't trust code that you did not totally create yourself.
 
 *:G5_18
-I:Leonardo da Vinci
+I:[18] Leonardo da Vinci
 S:Simplicity is the ultimate sophistication.
 
 *:G5_19
-I:Niklaus Wirth
+I:[19] Niklaus Wirth
 S:Increasingly, people seem to misinterpret complexity as sophistication, which
  :is baffling —-the incomprehensible should cause suspicion rather than admiration.
  :Possibly this trend results from a mistaken belief that using a somewhat
  :mysterious device confers an aura of power on the user.
 
 *:G5_20
-I:Chris Wenham
+I:[20] Chris Wenham
 S:Debugging time increases as a square of the program's size.
 
 *:G5_21
-I:P.J. Plauger
+I:[21] P.J. Plauger
 S:My definition of an expert in any field is a person who knows enough about
  :what's really going on to be scared.
 
 *:G5_22
-I:Richard Gabriel
+I:[22] Richard Gabriel
 S:Old programs read like quiet conversations between a well-spoken research
  :worker and a well-studied mechanical colleague, not as a debate with a compiler.
  :Who'd have guessed sophistication bought such noise?
 
 *:G5_23
-I:R. Buckminster Fuller
+I:[23] R. Buckminster Fuller
 S:When I am working on a problem I never think about beauty.  I think only how to
  :solve the problem.  But when I have finished, if the solution is not beautiful,
  :I know it is wrong.
 
 *:G5_24
-I:Linus Torvalds
+I:[24] Linus Torvalds
 S:I will, in fact, claim that the difference between a bad programmer and a good
  :one is whether he considers his code or his data structures more important.
  :Bad programmers worry about the code.  Good programmers worry about data
  :structures and their relationships.
 
 *:G5_27
-I:Hans Hoffmann
+I:[27] Hans Hoffmann
 S:The ability to simplify means to eliminate the unnecessary so that
  :the necessary may speak.
 
 *:G5_28
-I:John von Neumann
+I:[28] John von Neumann
 S:There's no sense being exact about something if you don't even know
  :what you're talking about.
 
 *:G5_29
-I:Paul Graham
+I:[29] Paul Graham
 S:In programming the hard part isn't solving problems, but deciding
  :what problems to solve.
 
 *:G5_30
-I:Rob Pike
+I:[30] Rob Pike
 S:Such is modern computing: everything simple is made too complicated because
  :it's easy to fiddle with; everything complicated stays complicated because
  :it's hard to fix.
 
 *:G5_31
-I:Christer Ericson
+I:[31] Christer Ericson
 S:Premature optimization, that's like a sneeze.
  :Premature abstraction is like ebola; it makes my eyes bleed.
 
 *:G5_32
-I:John Romero
+I:[32] John Romero
 S:You might not think that programmers are artists, but programming is an
  :extremely creative profession. It's logic-based creativity.
 
 *:G5_33
-I:Ellen Ullman
+I:[33] Ellen Ullman
 S:Programming is the art of algorithm design and the craft of debugging
  :errant code.
 
 *:G5_34
-I:Edsger W. Dijkstra
+I:[34] Edsger W. Dijkstra
 S:Programming is one of the most difficult branches of applied mathematics;
  :the poorer mathematicians had better remain pure mathematicians.
 
 *:G5_35
-I:John Romero
+I:[35] John Romero
 S:You might not think programmers are artists, but programming is an extremely
  :creative profession.  It's logic-based creativity.
 
