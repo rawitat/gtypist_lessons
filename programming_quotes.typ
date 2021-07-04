@@ -8,27 +8,29 @@
 *:MENU
 B:The Programming and Programming Languages Quotes Course
 M: "The Programming Quotes series contains the following lessons"
- :GENERAL     "General Wisdoms                Wisdoms in Programming and Code Writing"
- :GENERAL_2   "General Wisdoms #2             Continuation of the above"
- :GENERAL_3   "General Wisdoms #3             Yet another continuation from above"
- :GENERAL_4   "General Wisdoms #4             You know the drill, from the above"
- :GENERAL_5   "General Wisdoms #5             Yet another one of the above"
- :GENERAL_6   "General Wisdoms #6             As the name said"
- :PHILOSOPHY  "Philosophy of Computing        Man, Mind, Machine, etc"
- :SW_ENG      "Software Engineering           Some thoughts on Software Dev/Eng"
- :SW_ENG_2    "Software Engineering #2        Continuation of the above"
- :SW_ENG_3    "Software Engineering #3        Just like that, from above"
- :OPTMZ_1     "Optimization                   Concerning Performance and optimization"
- :ELEM_PRG    "Elements of Programming Style  Lessons from legendary 1978 book"
- :UNIX_PRG    "The Art of Unix Programming    Quotes from another legendary book"
- :LISP        "Lisp and FP                    Lisp and Functional Programming"
- :LISP_2      "Lisp and FP #2                 Continuation of the above"
- :C_CPP       "C, C++, Objective-C            C and its family (C++, Obj-C)"
- :JAVACS      "Java and C#                    Java and C#, they belongs together"
- :DY_SCRIPT   "Dynamic Scripting              Perl, Ruby, Python, etc."
- :OOP         "Object-Oriented                OO Designs and implementation in Languages"
- :LEGACY      "Older, Legacy Languages        COBOL, Fortran, etc"
- :FUNNY       "Facts & Funny                  Facts & Funny about Programmers"
+ :GENERAL       "General Wisdoms                Wisdoms in Programming and Code Writing"
+ :GENERAL_2     "General Wisdoms #2             Continuation of the above"
+ :GENERAL_3     "General Wisdoms #3             Yet another continuation from above"
+ :GENERAL_4     "General Wisdoms #4             You know the drill, from the above"
+ :GENERAL_5     "General Wisdoms #5             Yet another one of the above"
+ :GENERAL_6     "General Wisdoms #6             As the name said"
+ :PHILOSOPHY    "Philosophy of Computing        Man, Mind, Machine, etc"
+ :PHILOSOPHY_2  "Philosophy of Computing #2     Continuation from aboove"
+ :SW_ENG        "Software Engineering           Some thoughts on Software Dev/Eng"
+ :SW_ENG_2      "Software Engineering #2        Continuation of the above"
+ :SW_ENG_3      "Software Engineering #3        Just like that, from above"
+ :SW_ENG_4      "Software Engineering #4        Just like that, from above"
+ :OPTMZ_1       "Optimization                   Concerning Performance and optimization"
+ :ELEM_PRG      "Elements of Programming Style  Lessons from legendary 1978 book"
+ :UNIX_PRG      "The Art of Unix Programming    Quotes from another legendary book"
+ :LISP          "Lisp and FP                    Lisp and Functional Programming"
+ :LISP_2        "Lisp and FP #2                 Continuation of the above"
+ :C_CPP         "C, C++, Objective-C            C and its family (C++, Obj-C)"
+ :JAVACS        "Java and C#                    Java and C#, they belongs together"
+ :DY_SCRIPT     "Dynamic Scripting              Perl, Ruby, Python, etc."
+ :OOP           "Object-Oriented                OO Designs and implementation in Languages"
+ :LEGACY        "Older, Legacy Languages        COBOL, Fortran, etc"
+ :FUNNY         "Facts & Funny                  Facts & Funny about Programmers"
 
 
 # ###########################################################################
@@ -1517,6 +1519,22 @@ N:MENU
 
 # ###########################################################################
 
+*:PHILOSOPHY_2
+B:Philosophical Thoughts: Man, Mind, Machine, etc. #2
+
+*:PHIL2_1
+I:[1] Charles Babbage
+S:On two occasions I have been asked: "If you put into the machine wrong figures, will
+ :the right answers come out?"
+ :
+ :I am not able rightly to apprehend the kind of confusion of ideas that could provoke
+ :suck a question.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
 *:SW_ENG
 B:Some thoughts on Software Development and Engineering
 
@@ -2131,6 +2149,36 @@ S:Q: What is the most often-overlooked risk in software engineering?
  :create two new jobs a year.  Hiring more bad programmers will just increase
  :our perceived need for them.  If we had more good programmers, and could easily
  :identify them, we would need fewer, not more.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:SW_ENG_4
+B:Some thoughts on Software Development and Engineering #2
+
+*:SW4_1
+I:[1] Steve Swartz
+S:When you are stuck in a traffic jam with a Porsche, all you do it burn more gas in idle.
+ :Scalability is about building wider roads, not about building faster cars.
+
+*:SW4_2
+I:[2] Paul Graham
+S:Everyone by now presumably knows about the danger of premature optimization.  I think we
+ :should be just as worried about premature design -- designing too early what a program
+ :should do.
+
+*:SW4_3
+I:[3] Danny Thorpe
+S:Programming without an overall architecture or design in mind is like exploring a cave
+ :with only a flashlight: You don't know where you've been, you don't know where you're
+ :going, and you don't know quite where you are.
+
+*:SW4_4
+I:[4] David Hubel
+S:We need above all to know about changes; no one wants or needs to be reminded 16 hours
+ :a day that his shoes are on.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
