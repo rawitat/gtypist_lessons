@@ -2413,7 +2413,7 @@ S:Optimization hinders evolution.  Everything should be built top-down, except t
 
 *:OTM_25
 I:William A. Dembski
-S:Contrained optimization is the art of compromise between conflicting objectives.
+S:Constrained optimization is the art of compromise between conflicting objectives.
  :This is what design is all about.  To find fault with biological design - as
  :Stephen Jay Gould regularly does - because it misses some idealized optimum is
  :therefore gratuitous.  Not knowing the objectives of the designer, Gould is in no
