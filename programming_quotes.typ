@@ -1611,7 +1611,7 @@ S:Emphasizing the crowd means de-emphasizing individual humans in the design of
 
 *:PHIL2_5
 I:[5] Steve Wozniak
-S:"All of a sudden, we've lost a lot of controls," he said. "We can't turn off
+S:"All of a sudden, we've lost a lot of controls," he said.  "We can't turn off
  :our internet; we can't turn off our smartphones; we can't turn off our computers.
  :You used to ask a smart person a question.  Now, who do you ask? It starts with
  :g-o, and it's not God..."
