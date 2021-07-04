@@ -1634,7 +1634,7 @@ S:Two things you should know about me; The first is that I am deeply suspicious 
 
 *:PHIL2_8
 I:[8] Richard Dawkins
-S:Personally, I rather look forward to a computer prorgam wining the world chess
+S:Personally, I rather look forward to a computer program wining the world chess
  :championship.  Humanity needs a lesson in humility.
 
 *:PHIL2_9
