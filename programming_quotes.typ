@@ -14,6 +14,7 @@ M: "The Programming Quotes series contains the following lessons"
  :GENERAL_4     "General Wisdoms #4             You know the drill, from the above"
  :GENERAL_5     "General Wisdoms #5             Yet another one of the above"
  :GENERAL_6     "General Wisdoms #6             As the name said"
+ :GENERAL_7     "General Wisdoms #7             As the name said, again"
  :PHILOSOPHY    "Philosophy of Computing        Man, Mind, Machine, etc"
  :PHILOSOPHY_2  "Philosophy of Computing #2     Continuation from aboove"
  :SW_ENG        "Software Engineering           Some thoughts on Software Dev/Eng"
@@ -1259,6 +1260,23 @@ S:All problems in computer science can be solved by another level of indirection
 *:G6_36
 I:Joel Spolsky
 S:It's harder to read code than to write it.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:GENERAL_7
+B:General Wisdoms in Programming and Code Writing #7
+
+*:G7_1
+I:[1] Dennis Ritchie
+S:UNIX is simple.  It just takes a genius to understand its simplicity.
+
+:G7_2
+I:[2] Jamie Zawinski
+S:Some people, when confronted with a problem, think 'I know, I'll use regular
+ :expressions.'  Now they have two problems.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
