@@ -1661,7 +1661,7 @@ S:Computer science inverts the normal.  In normal science, you're given a world,
 *:PHIL2_13
 I:[13] Paul Allen
 S:The promise of artificial intelligence and computer science generally vastly
- :outweights the impact it could have on some jobs in the same way that, while the
+ :outweighs the impact it could have on some jobs in the same way that, while the
  :invention of the airplane negatively affected the railroad industry, it opened
  :a much wider door to human to progress.
 
