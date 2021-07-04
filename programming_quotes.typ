@@ -252,48 +252,48 @@ N:MENU
 B:General Wisdoms in Programming and Code Writing #2
 
 *:G2_1
-I:Kernighan & Plauger, "The Elements of Programming Style"
+I:[1] Kernighan & Plauger, "The Elements of Programming Style"
 S:Trying to outsmart a compiler defeats much of the purpose of using one.
 
 *:G2_2
-I:Henry Spencer
+I:[2] Henry Spencer
 S:If you lie to the compiler, it will have its revenge.
 
 *:G2_3
-I:Bell Labs saying
+I:[3] Bell Labs saying
 S:Some languages are designed to solve a problem.
  :Others are designed to prove a point.
 
 *:G2_4
-I:Ken Thompson
+I:[4] Ken Thompson
 S:When in doubt, use brute force.
 
 *:G2_5
-I:John F. Kennedy
+I:[5] John F. Kennedy
 S:Man is still the most extraordinary computer of all.
 
 *:G2_6
-I:B.F. Skinner
+I:[6] B.F. Skinner
 S:The real problem is not whether machines think but whether men do.
 
 *:G2_7
-I:Jeff Scholnik
+I:[7] Jeff Scholnik
 S:Who cares how it works, just as long as it gives the right answer?
 
 *:G2_8
-I:Bill Gates
+I:[8] Bill Gates
 S:The first rule of any technology used in a business is that automation
  :applied to an efficient operation will magnify the efficiency.
  :The second is that automation applied to an inefficient operation will
  :magnify the inefficiency.
 
 *:G2_9
-I:Andrew Orlowski
+I:[9] Andrew Orlowski
 S:See, no matter how clever your automation systems might be, it all falls
  :apart if your human wetware isn't up to the job.
 
 *:G2_10
-I:John Backus
+I:[10] John Backus
 S:I think conventional languages are for the birds.  They're just extensions of
  :the von Neumann computer, and they keep our noses in the dirt of dealing with
  :individual words and computing addresses, and doing all kinds of silly things
@@ -302,39 +302,39 @@ S:I think conventional languages are for the birds.  They're just extensions of
  :built them into PL/I; we've built them into almost every language.
 
 *:G2_11
-I:Aristophanes
+I:[11] Aristophanes
 S:High thoughts must have a high language.
 
 *:G2_12
-I:Ted Nelson
+I:[12] Ted Nelson
 S:Learning to program has no more to do with designing interactive software
  :than learning to touch type has to do with writing poetry.
 
 *:G2_13
-I:Donald E. Knuth
+I:[13] Donald E. Knuth
 S:People think that computer science is the art of geniuses but the actual
  :reality is the opposite, just many people doing things that build on each
  :other, like a wall of mini stones.
 
 *:G2_14
-I:Peter Van Roy, Seif Haridi
+I:[14] Peter Van Roy, Seif Haridi
 S:The most difficult work of programmers, and also the most rewarding, is not
  :writing programs but rather designing abstractions.
 
 *:G2_15
-I:Edsger W. Dijkstra
+I:[15] Edsger W. Dijkstra
 S:Besides a mathematical inclination, an exceptionally good mastery of one's
  :native tongue is the most vital asset of a competent programmer.
 
 *:G2_16
-I:Paul Graham, "Beating the Averages"
+I:[16] Paul Graham, "Beating the Averages"
 S:Ordinary technology changes fast.  But programming languages are different:
  :programming languages are not just technology, but what programmers think in.
  :They're half technology and half religion.  And so the median language, meaning
  :whatever language the median programmer uses, moves as slow as an iceberg.
 
 *:G2_17
-I:Alan J. Perlis
+I:[17] Alan J. Perlis
 S:The computers are never large enough or fast enough.  Each breakthrough in
  :hardware technology leads to more massive programming enterprises, new
  :organizational principles, and an enrichment of abstract models.  Every reader
@@ -343,31 +343,31 @@ S:The computers are never large enough or fast enough.  Each breakthrough in
  :constipation of bittersweet philosophy.
 
 *:G2_18
-I:Kent Beck, "Test-Driven Development"
+I:[18] Kent Beck, "Test-Driven Development"
 S:Paradox: by not considering the future of your code, you make your code much
  :more likely to be adaptable in the future.
 
 *:G2_19
-I:Edsger W. Dijkstra
+I:[19] Edsger W. Dijkstra
 S:Software Engineering is Programming when you can't.
  :We must give industry not what it wants, but what it needs.
 
 *:G2_20
-I:Edsger W. Dijkstra
+I:[20] Edsger W. Dijkstra
 S:Another series of [philosopher's] stone in the form of "programming tools" is
  :produced under the banner of "software engineering", which, as time went by,
  :has sought to replace intellectual discipline by management discipline to the
  :extent that it has now accepted as its charter "How to program if you cannot".
 
 *:G2_21
-I:Curtis Poe, "Finding Technology Solutions"
+I:[21] Curtis Poe, "Finding Technology Solutions"
 S:Technology is part of the answer, not part of the question.  Don't make choices
  :only to then try to figure out how to twist the problem in such a way so as to
  :fit your choice.  This will often result in your solution being more convoluted
  :than my previous sentence.
 
 *:G2_22
-I:Frederick P. Brooks, Jr., "The Mythical Man-Month"
+I:[22] Frederick P. Brooks, Jr., "The Mythical Man-Month"
 S:In fact, flow charting is more preached than practiced.  I have never seen an
  :experienced programmer who routinely made detailed flow charts before beginning
  :to write programs.  Where organization standards require flow charts, these
@@ -379,7 +379,7 @@ S:In fact, flow charting is more preached than practiced.  I have never seen an
  :about the utility of flow charts.
 
 *:G2_23
-I:D. Gelernter, "Machine Beauty"
+I:[23] D. Gelernter, "Machine Beauty"
 S:Beauty is more important in computing than anywhere else in technology because
  :software is so complicated.  Beauty is the ultimate defense against complexity.
  :The geniuses of the computer field, on the other hand, are the people with
@@ -388,11 +388,11 @@ S:Beauty is more important in computing than anywhere else in technology because
  :programming languages, the winning algorithms are the beautiful ones.
 
 *:G2_24
-I:D. Gelernter, "Machine Beauty"
+I:[24] D. Gelernter, "Machine Beauty"
 S:Good programmers know what's beautiful and bad ones don't.
 
 *:G2_25
-I:Paul Graham
+I:[25] Paul Graham
 S:A really good language should be both clean and dirty: cleanly designed, with
  :a small core of well understood and highly orthogonal operators, but dirty in
  :the sense that it lets hacker have their way with it.
@@ -400,7 +400,7 @@ S:A really good language should be both clean and dirty: cleanly designed, with
  :A real hacker's language will always have a slightly raffish character.
 
 *:G2_26
-I:Paul Graham
+I:[26] Paul Graham
 S:Fixing fresh bugs is easier than fixing old ones.  It's usually fairly quick
  :to find a bug in code you just wrote.  When it turns up you often know what's
  :wrong before you even look at the source, because you were already worrying
@@ -410,7 +410,7 @@ S:Fixing fresh bugs is easier than fixing old ones.  It's usually fairly quick
  :way, or even introduce more bugs.
 
 *:G2_27
-I:Paul Graham
+I:[27] Paul Graham
 S:When you catch bugs early, you also get fewer compounded bugs.  Compounded
  :bugs are two separate bugs that interact: you trip going downstairs, and when
  :you reach for the handrail it come off in your hand.  In software this kind of
@@ -421,7 +421,7 @@ S:When you catch bugs early, you also get fewer compounded bugs.  Compounded
  :swept clean of any loose objects that might later get stuck to something.
 
 *:G2_28
-I:Paul Graham
+I:[28] Paul Graham
 S:The way to make programs easy to read is not to stuff them with comments.
  :A good programming language ought to be better for explaining software than
  :English.  You should only need comments when there is some kind of kludge
@@ -429,26 +429,26 @@ S:The way to make programs easy to read is not to stuff them with comments.
  :parts with unexpected sharp curves.
 
 *:G2_29
-I:R. Hamming
+I:[29] R. Hamming
 S:The purpose of computing is insight, not numbers.
 
 *:G2_30
-I:S. Heller, in "Efficient C/C++ Programming"
+I:[30] S. Heller, in "Efficient C/C++ Programming"
 S:The speed of a non-working program is irrelevant.
 
 *:G2_31
-I:G.H. Hardy, in "A Mathematician's Apology"
+I:[31] G.H. Hardy, in "A Mathematician's Apology"
 S:Beauty is the first test: there is no permanent place in this world for
  :ugly mathematics.
 
 *:G2_32
-I:C.A.R Hoare
+I:[32] C.A.R Hoare
 S:I was eventually persuaded of the need to design programming notations so as
  :to maximize the number of errors which cannot be made, or if made, can be
  :reliably detected at compile time.
 
 *:G2_33
-I:C.A.R Hoare
+I:[33] C.A.R Hoare
 S:In the development of the understanding of complex phenomena, the most powerful
  :tool available to the human intellect is abstraction.  Abstraction arises from
  :recognition of similarities between certain objects, situations, or processes
@@ -456,11 +456,11 @@ S:In the development of the understanding of complex phenomena, the most powerfu
  :ignore, for the time being, their differences.
 
 *:G2_34
-I:C.A.R Hoare
+I:[34] C.A.R Hoare
 S:Inside every well-written large program is a well-written small program.
 
 *:G2_35
-I:D. Hock (founder of VISA)
+I:[35] D. Hock (founder of VISA)
 S:The problem is never how to get new, innovative thoughts into your mind, but
  :how to get old ones out!
 
@@ -3743,6 +3743,13 @@ S:Now, it's my belief that Python is a lot easier than to teach to students
  :programming and teach them C or C++ or Java at the same time because all the
  :details of the languages are so much harder.  Other scripting languages really
  :don't work very well there either.
+
+*:SCRIPT_26
+I:[26] Yukihiro 'Matz' Matsumoto
+S:I didn't work hard to make Ruby perfect for everyone, because you feel differently
+ :from me.  No language can be perfect for everyone.  I tried to make Ruby perfect
+ :for me, but maybe it's not perfect for you.  The perfect language for Guido van
+ :Rossum is probably Python.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
