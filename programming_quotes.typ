@@ -1771,7 +1771,7 @@ S:Looking back at the organization of sciences, we find that at each level of
  :
  :Studying agents in isolation is a fruitful way of discovering insights into
  :the form and function of an agent, but doing so has some known limitations.
- :Specifically, reductionism fails when we try to use it a reverse direction.
+ :Specifically, reductionism fails when we try to use it in a reverse direction.
  :As we shall see throughout this book, having a complete and perfect under-
  :standing of how an agent behaves in no way guarantees that you will be able
  :to predict how this single event will behave for all time or in the context
