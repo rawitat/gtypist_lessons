@@ -1764,6 +1764,33 @@ S:The goal of this book is to highlight the computational beauty found in
 
 *:PHIL2_29
 I:[29] Gary William Flake, "The Computational Beauty of Nature"
+S:Reductionism is a powerful way of looking at the universe.  But this begs a
+ :somewhat silly question: Since everything ultimately breaks down to the quantum
+ :level, why aren't all scientists mathematicians at the core? In such a world
+ :physicians would make diagnoses based on the patient's bodily quarks, which
+ :makes about as much sense as building a house particle by particle.  Neverthe-
+ :less, every scientist must possess some knowledge of the level one step more
+ :fundamental than his or her specialty, but at some point reductionism must stop
+ :for science to be effective.
+
+*:PHIL2_30
+I:[30] Gary William Flake, "The Computational Beauty of Nature"
+S:Now, suppose that we wished to describe how the universe works.  We could take
+ :a reductionist's approach and catalog all the different types of objects that
+ :exist -- perhaps starting with galaxy clusters, hitting terrestrial life forms
+ :about midway through, and then ending with subatomic particles -- but would this
+ :approach rally succeed in describing the universe?
+ :
+ :In making a large list of "things" it is easy to forget that the manner in which
+ :"things" work more often than not depends on the environment in which they exist.
+ :For example, we could describe the form of a duck in excruciating detail, but
+ :this gives us only half of the story.  To really appreciate what a duck is, we
+ :should look at ducks in the air, in water, in the context of what they eat and
+ :what eats them, how they court, mate, and reproduce, the social structures they
+ :form, how they flock, and their need to migrate.
+
+*:PHIL2_31
+I:[31] Gary William Flake, "The Computational Beauty of Nature"
 S:Looking back at the organization of sciences, we find that at each level of
  :understanding, traditional scientists study two types of phenomena: agents
  :(molecules, cells, ducks, and species) and interactions of agents (chemical
@@ -1774,11 +1801,11 @@ S:Looking back at the organization of sciences, we find that at each level of
  :Specifically, reductionism fails when we try to use it in a reverse direction.
  :As we shall see throughout this book, having a complete and perfect under-
  :standing of how an agent behaves in no way guarantees that you will be able
- :to predict how this single event will behave for all time or in the context
+ :to predict how this single agent will behave for all time or in the context
  :of other agents.
 
-*:PHIL2_30
-I:[30] Gary William Flake, "The Computational Beauty of Nature"
+*:PHIL2_32
+I:[32] Gary William Flake, "The Computational Beauty of Nature"
 S:We have, then, three different ways of looking at how things work.  We can
  :take a purely reductionist approach and attempt to understand things through
  :dissection.  We also can take a wider view and attempt to understand whole
@@ -1788,8 +1815,8 @@ S:We have, then, three different ways of looking at how things work.  We can
  :this middle path, the interactions of agents can be seen to form the glue that
  :binds one level of understanding to the next level.
 
-*:PHIL2_31
-I:[31] Gary William Flake, "The Computational Beauty of Nature"
+*:PHIL2_33
+I:[33] Gary William Flake, "The Computational Beauty of Nature"
 S:Any discrete piece of information can be represented by a set of numbers.
  :Systems that compute can represent powerful mappings from one set of numbers
  :to another.  Moreoever, any program on any computer is equivalent to a number
@@ -1797,8 +1824,8 @@ S:Any discrete piece of information can be represented by a set of numbers.
  :of numbers; hence, there is a close connection between computer programs and
  :mathematical proofs.
 
-*:PHIL2_32
-I:[32] Gary William Flake, "The Computational Beauty of Nature"
+*:PHIL2_34
+I:[34] Gary William Flake, "The Computational Beauty of Nature"
 S:[Cont] But there are more possible mappings than possible programs; thus, there
  :are some things that simply cannot be computed.  The actual process of computing
  :can be defined in terms of a very small number of primitive operations, with
@@ -1807,8 +1834,8 @@ S:[Cont] But there are more possible mappings than possible programs; thus, ther
  :This leads to a fundamental paradox that ultimately exposes the limitations not
  :just of machine logic, but all of nature as well.
 
-*:PHIL2_33
-I:[33] Gary William Flake, "The Computational Beauty of Nature"
+*:PHIL2_35
+I:[35] Gary William Flake, "The Computational Beauty of Nature"
 S:Later Turing proved that Turing machines could compute exactly the same functions
  :as lambda calculus, which proved that all three models of computation are equi-
  :valent.  This is a truly remarkable result, considering how different the three
@@ -1818,8 +1845,8 @@ S:Later Turing proved that Turing machines could compute exactly the same functi
  :Any function that can be called computable can be comuted by lambda calculus,
  :a Turing machine, or a general recursive function.
 
-*:PHIL2_34
-I:[34] Gary William Flake, "The Computational Beauty of Nature"
+*:PHIL2_36
+I:[36] Gary William Flake, "The Computational Beauty of Nature"
 S:[Cont] Recall the point that was made about functions describing relationships
  :between numbers and models of computation describing functions.  Well, the
  :Church-Turing thesis is yet another level more fundamental than a model of
