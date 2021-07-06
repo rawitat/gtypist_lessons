@@ -2538,7 +2538,7 @@ N:MENU
 B:Concerning Performance, Speed, and Optimization  
 
 *:OTM_1
-I:Donald E. Knuth
+I:[1] Donald E. Knuth
 S:Programmers waste enormous amounts of time thinking about, or worrying about,
  :the speed of noncritical parts of their programs, and these attempts at
  :efficiency actually have a strong negative impact when debugging and
@@ -2547,7 +2547,7 @@ S:Programmers waste enormous amounts of time thinking about, or worrying about,
  :we should not pass up our opportunities in that critical 3%.
 
 *:OTM_2
-I:W. Wulf
+I:[2] W. Wulf
 S:More bugs have introduced into programs through premature optimization than
  :any other cause, including pure stupidity.
  :
@@ -2557,30 +2557,30 @@ S:More bugs have introduced into programs through premature optimization than
  :stupidity.
 
 *:OTM_3
-I:Donald E. Knuth
+I:[3] Donald E. Knuth
 S:You're bound to be unhappy if you optimize everything.
 
 *:OTM_4
-I:Steve McConnell
+I:[4] Steve McConnell
 S:The big optimizations come from refining the high-level design, not the
  :individual routines.
 
 *:OTM_5
-I:Christer Ericson
+I:[5] Christer Ericson
 S:Premature optimization, that's like a sneeze.
  :Premature abstraction is like ebola; it makes my eyes bleed.
 
 *:OTM_6
-I:Elements of Programming Style, Kernighan & Plauger
+I:[6] Elements of Programming Style, Kernighan & Plauger
 S:Let your compiler do the simple optimizations.
 
 *:OTM_7
-I:The Art of Unix Programming, Eric Raymond
+I:[7] The Art of Unix Programming, Eric Raymond
 S:Rule of Optimization:
  :Prototype before polishing.  Get it working before you optimize it.
 
 *:OTM_8
-I:The Art of Unix Programming, Eric Raymond
+I:[8] The Art of Unix Programming, Eric Raymond
 S:Rushing to optimize before the bottlenecks are known may be the only error to
  :have ruined more designs than feature creep.  From tortured code to incomprehen-
  :sible data layouts, the results of obsessing about speed or memory or disk usage
@@ -2594,64 +2594,64 @@ S:Rushing to optimize before the bottlenecks are known may be the only error to
  :performance and excessively complex code.
 
 *:OTM_9
-I:Peter Gabriel
+I:[9] Peter Gabriel
 S:The very architecture of almost every computer today is designed to optimize
  :the performance of Fortran programs and its operating-system-level sister, C.
 
 *:OTM_10
-I:D. Jones
+I:[10] D. Jones
 S:The fastest algorithm can frequently be replaced by one that is almost as fast
  :and much easier to understand.
 
 *:OTM_11
-I:Kent Beck
+I:[11] Kent Beck
 S:Make it work, make it right, make it fast.
 
 *:OTM_12
-I:Elements of Programming Style, Kernighan & Plauger
+I:[12] Elements of Programming Style, Kernighan & Plauger
 S:Make it right before you make it faster.
 
 *:OTM_13
-I:Elements of Programming Style, Kernighan & Plauger
+I:[13] Elements of Programming Style, Kernighan & Plauger
 S:Make it fail-safe before you make it faster.
 
 *:OTM_14
-I:Elements of Programming Style, Kernighan & Plauger
+I:[14] Elements of Programming Style, Kernighan & Plauger
 S:Make it clear before you make it faster.
 
 *:OTM_15
-I:Elements of Programming Style, Kernighan & Plauger
+I:[15] Elements of Programming Style, Kernighan & Plauger
 S:Keep it simple to make it faster.
 
 *:OTM_16
-I:Elements of Programming Style, Kernighan & Plauger
+I:[16] Elements of Programming Style, Kernighan & Plauger
 S:Don't diddle code to make it faster -- find a better algorithm.
 
 *:OTM_17
-I:Jon Bentley and Doug McIlroy
+I:[17] Jon Bentley and Doug McIlroy
 S:The key to performance is elegance, not battalions of
  :special cases.
 
 *:OTM_18
-I:John Ousterhout
+I:[18] John Ousterhout
 S:The best performance improvement is the transition from the nonworking state
  :to the working state.
 
 *:OTM_19
-I:Elements of Programming Style, Kernighan & Plauger
+I:[19] Elements of Programming Style, Kernighan & Plauger
 S:Instrument your programs.  Measure before making efficiency changes.
 
 *:OTM_20
-I:S. Heller, in "Efficient C/C++ Programming"
+I:[20] S. Heller, in "Efficient C/C++ Programming"
 S:The speed of a non-working program is irrelevant.
 
 *:OTM_21
-I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+I:[21] Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:Software quality has almost nothing to do with algorithmic elegance, compact-
  :ness, or speed - in fact, those attributes do more harm to quality than good.
 
 *:OTM_22
-I:Donald E. Knuth, "Selected Papers on Computer Science"
+I:[22] Donald E. Knuth, "Selected Papers on Computer Science"
 S:The best programs are written so that computing machines can perform
  :them quickly and so that human beings can understand them clearly.
  :A programmer is ideally an essayist who works with traditional aesthetic
@@ -2660,7 +2660,7 @@ S:The best programs are written so that computing machines can perform
  :will be correct.
 
 *:OTM_23
-I:D. Gelernter, "Machine Beauty"
+I:[23] D. Gelernter, "Machine Beauty"
 S:Beauty is more important in computing than anywhere else in technology because
  :software is so complicated.  Beauty is the ultimate defense against complexity.
  :The geniuses of the computer field, on the other hand, are the people with
@@ -2669,12 +2669,12 @@ S:Beauty is more important in computing than anywhere else in technology because
  :programming languages, the winning algorithms are the beautiful ones.
  
 *:OTM_24
-I:Alan J. Perlis
+I:[24] Alan J. Perlis
 S:Optimization hinders evolution.  Everything should be built top-down, except the
  :first time.  Simplicity does not precede complexity, but follows it.
 
 *:OTM_25
-I:William A. Dembski
+I:[25] William A. Dembski
 S:Constrained optimization is the art of compromise between conflicting objectives.
  :This is what design is all about.  To find fault with biological design - as
  :Stephen Jay Gould regularly does - because it misses some idealized optimum is
@@ -2683,16 +2683,16 @@ S:Constrained optimization is the art of compromise between conflicting objectiv
  :objectives.
 
 *:OTM_26
-I:Larry Constantine
+I:[26] Larry Constantine
 S:In fast moving markets, adaptation is significantly more important
  :than optimization.
 
 *:OTM_27
-I:Rob Pike
+I:[27] Rob Pike
 S:Caches aren't architecture, they're just optimization.
 
 *:OTM_28
-I:Erik Naggum
+I:[28] Erik Naggum
 S:Optimization is generally detrimental to future success, but it is the only way
  :to accomplish present success in competition with others who are equally interested
  :in short-term results.
@@ -2706,229 +2706,228 @@ N:MENU
 B:From "The Elements of Programming Style" Book
 
 *:ELEM_P_1
-I:(1)
+I:[1]
 S:Write clearly -- don't be too clever.
 
 *:ELEM_P_2
-I:(2)
+I:[2]
 S:Say what you mean, simply and directly.
 
 *:ELEM_P_3
-I:(3)
+I:[3]
 S:Use library functions whenever feasible.
 
 *:ELEM_P_4
-I:(4)
+I:[4]
 S:Avoid too many temporary variables.
 
 *:ELEM_P_5
-I:(5)
+I:[5]
 S:Write clearly -- don't sacrifice clarity for efficiency.
 
 *:ELEM_P_6
-I:(6)
+I:[6]
 S:Let the machine do the dirty work.
 
 *:ELEM_P_7
-I:(7)
+I:[7]
 S:Replace repetitive expressions by calls to common functions.
 
 *:ELEM_P_8
-I:(8)
+I:[8]
 S:Parenthesize to avoid ambiguity.
 
 *:ELEM_P_9
-I:(9)
+I:[9]
 S:Choose variable names that won't be confused.
 
 *:ELEM_P_10
-I:(10)
+I:[10]
 S:Avoid unnecessary branches.
 
 *:ELEM_P_11
-I:(11)
+I:[11]
 S:If a logical expression is hard to understand, try transforming it.
 
 *:ELEM_P_12
-I:(12)
+I:[12]
 S:Choose a data representation that makes the program simple.
 
 *:ELEM_P_13
-I:(13)
+I:[13]
 S:Write first in easy-to-understand pseudo language; then translate into
  :whatever language you have to use.
 
 *:ELEM_P_14
-I:(14)
+I:[14]
 S:Modularize.  Use procedures and functions.
 
 *:ELEM_P_15
-I:(15)
+I:[15]
 S:Avoid gotos completely if you can keep the program readable.
 
 *:ELEM_P_16
-I:(16)
+I:[16]
 S:Don't patch bad code -- rewrite it.
 
 *:ELEM_P_17
-I:(17)
+I:[17]
 S:Write and test a big program in small pieces.
 
 *:ELEM_P_18
-I:(18)
+I:[18]
 S:Use recursive procedures for recursively-defined data structures.
 
 *:ELEM_P_19
-I:(19)
+I:[19]
 S:Test input for plausibility and validity.
 
 *:ELEM_P_20
-I:(20)
+I:[2]
 S:Make sure input doesn't violate limits of the program.
 
 *:ELEM_P_21
-I:(21)
+I:[21]
 S:Terminate input by end-of-file marker, not by count.
 
 *:ELEM_P_22
-I:(22)
+I:[22]
 S:Identify bad input; recover if possible.
 
 *:ELEM_P_23
-I:(23)
+I:[23]
 S:Make input easy to prepare and output self-explanatory.
 
 *:ELEM_P_24
-I:(24)
+I:[24]
 S:Use uniform input formats.
 
 *:ELEM_P_25
-I:(25)
+I:[25]
 S:Make input easy to proofread.
 
 *:ELEM_P_26
-I:(26)
+I:[26]
 S:Use self-identifying input.  Allow defaults.  Echo both on output.
 
 *:ELEM_P_27
-I:(27)
+I:[27]
 S:Make sure all variables are initialized before use.
 
 *:ELEM_P_28
-I:(28)
+I:[28]
 S:Don't stop at one bug.
 
 *:ELEM_P_29
-I:(29)
+I:[29]
 S:Use debugging compilers.
 
 *:ELEM_P_30
-I:(30)
+I:[30]
 S:Watch out for off-by-one errors.
 
 *:ELEM_P_31
-I:(31)
+I:[31]
 S:Take care of branch the right way on equality.
 
 *:ELEM_P_32
-I:(32)
+I:[32]
 S:Be careful if a loop exits to the same place from the middle and the bottom.
 
 *:ELEM_P_33
-I:(33)
+I:[33]
 S:Make sure your code does "nothing" gracefully.
 
 *:ELEM_P_34
-I:(34)
+I:[34]
 S:Test programs at their boundary values.
 
 *:ELEM_P_35
-I:(35)
+I:[35]
 S:Check some answers by hand.
 
 *:ELEM_P_36
-I:(36)
+I:[36]
 S:10.0 times 0.1 is hardly ever 1.0.
 
 *:ELEM_P_37
-I:(37)
+I:[37]
 S:7/8 is zero while 7.0/8.0 is not zero.
 
 *:ELEM_P_38
-I:(38)
+I:[38]
 S:Don't compare floating point numbers solely for equality.
 
 *:ELEM_P_39
-I:(39)
+I:[39]
 S:Make it right before you make it faster.
 
 *:ELEM_P_40
-I:(40)
+I:[40]
 S:Make it fail-safe before you make it faster.
 
 *:ELEM_P_41
-I:(41)
+I:[41]
 S:Make it clear before you make it faster.
 
 *:ELEM_P_42
-I:(42)
+I:[42]
 S:Don't sacrifice clarity for small gains in efficiency.
 
-
 *:ELEM_P_43
-I:(43)
+I:[43]
 S:Let your compiler do the simple optimizations.
 
 *:ELEM_P_44
-I:(44)
+I:[44]
 S:Don't strain to re-use code; reorganize instead.
 
 *:ELEM_P_45
-I:(45)
+I:[45]
 S:Make sure special cases are truly special.
 
 *:ELEM_P_46
-I:(46)
+I:[46]
 S:Keep it simple to make it faster.
 
 *:ELEM_P_47
-I:(47)
+I:[47]
 S:Don't diddle code to make it faster -- find a better algorithm.
 
 *:ELEM_P_48
-I:(48)
+I:[48]
 S:Instrument your programs.  Measure before making efficiency changes.
 
 *:ELEM_P_49
-I:(49)
+I:[49]
 S:Make sure comments and code agree.
 
 *:ELEM_P_50
-I:(50)
+I:[50]
 S:Don't just echo the code with comments -- make every comment count.
 
 *:ELEM_P_51
-I:(51)
+I:[51]
 S:Don't comment bad code -- rewrite it.
 
 *:ELEM_P_52
-I:(52)
+I:[52]
 S:Use variable names that meaning something.
 
 *:ELEM_P_53
-I:(53)
+I:[53]
 S:Use statement labels that mean something.
 
 *:ELEM_P_54
-I:(54)
+I:[54]
 S:Format a program to help the reader understand it.
 
 *:ELEM_P_55
-I:(55)
+I:[55]
 S:Document your data layouts.
 
 *:ELEM_P_56
-I:(56)
+I:[56]
 S:Don't over comment.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
@@ -2940,128 +2939,128 @@ N:MENU
 B:"The Art of Unix Programming", Eric S. Raymond
 
 *:UNIX_1
-I:(1)
+I:[1]
 S:Culture? What Culture?
 
 *:UNIX_2
-I:(2)
+I:[2]
 S:Unix is Fun to Hack.
 
 *:UNIX_3
-I:(3)
+I:[3]
 S:Lessons of Unix can be applied elsewhere.
 
 *:UNIX_4
-I:Basics of Unix Philosophy
+I:[4] Basics of Unix Philosophy
 S:Rule of Modularity:
  :Write simple parts connected by clean interfaces.
 
 *:UNIX_5
-I:Basics of Unix Philosophy
+I:[5] Basics of Unix Philosophy
 S:Rule of Clarity:
  :Clarity is better than cleverness.
 
 *:UNIX_6
-I:Basics of Unix Philosophy
+I:[6] Basics of Unix Philosophy
 S:Rule of Composition:
  :Design programs to be connected with other programs.
 
 *:UNIX_7
-I:Basics of Unix Philosophy
+I:[7] Basics of Unix Philosophy
 S:Rule of Separation:
  :Separate policy from mechanism; separate interfaces from engines.
 
 *:UNIX_8
-I:Basics of Unix Philosophy
+I:[8] Basics of Unix Philosophy
 S:Rule of Simplicity:
  :Design for simplicity; add complexity only where you must.
 
 *:UNIX_9
-I:Basics of Unix Philosophy
+I:[9] Basics of Unix Philosophy
 S:Rule of Parsimony:
  :Write a big program only when it is clear by demonstration that
  :nothing else will do.
 
 *:UNIX_10
-I:Basics of Unix Philosophy
+I:[10] Basics of Unix Philosophy
 S:Rule of Transparency:
  :Design for visibility to make inspection and debugging easier.
 
 *:UNIX_11
-I:Basics of Unix Philosophy
+I:[11] Basics of Unix Philosophy
 S:Rule of Robustness:
  :Robustness is the child of transparency and simplicity.
 
 *:UNIX_12
-I:Basics of Unix Philosophy
+I:[12] Basics of Unix Philosophy
 S:Rule of Representation:
  :Fold knowledge into data, so program logic can be stupid and robust.
 
 *:UNIX_13
-I:Basics of Unix Philosophy
+I:[13] Basics of Unix Philosophy
 S:Rule of Least Surprise:
  :In interface design, always do the least surprising thing.
 
 *:UNIX_14
-I:Basics of Unix Philosophy
+I:[14] Basics of Unix Philosophy
 S:Rule of Silence:
  :When a program has nothing surprising to say, it should say nothing.
 
 *:UNIX_15
-I:Basics of Unix Philosophy
+I:[15] Basics of Unix Philosophy
 S:Rule of Repair:
  :Repair when you can -- but when you must fail, fail noisily and
  :as soon as possible.
 
 *:UNIX_16
-I:Basics of Unix Philosophy
+I:[16] Basics of Unix Philosophy
 S:Rule of Economy:
  :Programmer is expensive; conserve it in preference to machine time.
 
 *:UNIX_17
-I:Basics of Unix Philosophy
+I:[17] Basics of Unix Philosophy
 S:Rule of Generation:
  :Avoid hand-hacking; write programs to write programs when you can.
 
 *:UNIX_18
-I:Basics of Unix Philosophy
+I:[18] Basics of Unix Philosophy
 S:Rule of Optimization:
  :Prototype before polishing.  Get it working before you optimize it.
 
 *:UNIX_19
-I:Basics of Unix Philosophy
+I:[19] Basics of Unix Philosophy
 S:Rule of Diversity:
  :Distrust all claims for one true way.
 
 *:UNIX_20
-I:Basics of Unix Philosophy
+I:[20] Basics of Unix Philosophy
 S:Rule of Extensibility:
  :Design for the future, because it will be here sooner than you think.
 
 *:UNIX_21
-I:(21)
+I:[21] 
 S:Python language is one example.  As we noted above, it is also heavily used
  :for mathematical and scientific papers, and will probably dominate that niche
  :for some years yet.
 
 *:UNIX_22
-I:(22)
+I:[22]
 S:When the superior programmer refrains from coding, his force is felt for
  :a thousand miles.
 
 *:UNIX_23
-I:(23)
+I:[23]
 S:When you feel the urge to design a complex binary file format, or a complex
  :binary application protocol, it is generally wise to lie down until the
  :feeling passes.
 
 *:UNIX_24
-I:(24)
+I:[24]
 S:CSV (fields separated by commas, double quotes used to escape commas, 
  :no continuation lines) is rarely found under Unix.
 
 *:UNIX_25
-I:(25)
+I:[25]
 S:Use # as an introducer for comments.  It is good to have a way to embed
  :annotations and comments in data files.  It's best if they're actually part of
  :the file structure, and so will be preserved by tools that know its format.
@@ -3069,12 +3068,12 @@ S:Use # as an introducer for comments.  It is good to have a way to embed
  :character.
 
 *:UNIX_26
-I:(26)
+I:[26] 
 S:Transparency is therefore more than an esthetic triumph; it is a victory that
  :will be reflected in lower costs throughout the software's life cycle.
 
 *:UNIX_27
-I:(27)
+I:[27] 
 S:Top-down tends to be good practice when three preconditions are true:
  :(a) you can specify in advance precisely what the program is to do,
  :(b) the specification is unlikely to change significantly during implementation,
@@ -3087,7 +3086,7 @@ S:There is a flip side to this.  In the Unix world, libraries which are delivere
  :as libraries should come with exerciser programs.
 
 *:UNIX_29
-I:(29)
+I:[29]
 S:When you see the right thing, do it — this may look like more work in the short
  :term, but it's the path of least effort in the long run.  If you don't know
  :what the right thing is, do the minimum necessary to get the job done, at
@@ -3102,30 +3101,30 @@ S:When you see the right thing, do it — this may look like more work in the sh
  :and debugging is so hard.
 
 *:UNIX_30
-I:(30)
+I:[30]
 S:If you have any trouble sounding condescending, find a Unix user to show you
  :how it's done.
 
 *:UNIX_31
-I:(31)
+I:[31]
 S:As with buildings, it's easier to repair superstructure on top of a solid
  :foundation than it is to replace the foundations without trashing the
  :superstructure.
 
 *:UNIX_32
-I:(32)
+I:[32]
 S:Make each program do one thing well.  To do a new job, build afresh rather
  :than complicate old programs by adding new features.
 
 *:UNIX_33
-I:(33)
+I:[33]
 S:The nightmare scenario is one in which corporate monopolism and statist
  :power-seeking, always natural allies, feed back into each other and create
  :rationales for increasing regulation, repression, and criminalization of
  :digital speech.
 
 *:UNIX_34
-I:(34)
+I:[34]
 S:To design for compactness and orthogonality, start from zero.
  :Zen teaches that attachment leads to suffering; experience with software
  :design teaches that attachment to unnoticed assumptions leads to
@@ -3133,18 +3132,18 @@ S:To design for compactness and orthogonality, start from zero.
  :maintenance nightmares.
 
 *:UNIX_35
-I:(35)
+I:[35]
 S:Web pages get bogged down in the dispute over whether the reader or author
  :should control the appearance
 
 *:UNIX_36
-I:(36)
+I:[36]
 S:To design the perfect anti-Unix, write an operating system that thinks it knows
  :what you're doing better than you do.  And then adds injury to insult by getting
  :it wrong.
 
 *:UNIX_37
-I:(37)
+I:[37]
 S:One of the main lessons of Zen is that we ordinarily see the world through
  :a haze of preconceptions and fixed ideas that proceed from our desires.
  :To achieve enlightenment, we must follow the Zen teaching not merely to let go
@@ -3152,11 +3151,11 @@ S:One of the main lessons of Zen is that we ordinarily see the world through
  :the preconceptions and the fixed ideas getting in the way.
 
 *:UNIX_38
-I:(38)
+I:[38]
 S:Tools that look glossy but shatter under stress are not good long-term value.
 
 *:UNIX_39
-I:(39)
+I:[39]
 S:Rushing to optimize before the bottlenecks are known may be the only error to
  :have ruined more designs than feature creep.  From tortured code to incomprehen-
  :sible data layouts, the results of obsessing about speed or memory or disk usage
@@ -3170,12 +3169,12 @@ S:Rushing to optimize before the bottlenecks are known may be the only error to
  :performance and excessively complex code.
 
 *:UNIX_40
-I:(40)
+I:[40]
 S:Mixing languages is better than writing everything in one, if and only if
  :using only that one is likely to overcomplicate the program.
 
 *:UNIX_41
-I:(41)
+I:[41]
 S:Are the individual functions in your modules too large? 
  :
  :This is not so much a matter of line count as it is of internal complexity.
