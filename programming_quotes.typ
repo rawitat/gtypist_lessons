@@ -2490,7 +2490,7 @@ B:Some thoughts on Software Development and Engineering #2
 
 *:SW4_1
 I:[1] Steve Swartz
-S:When you are stuck in a traffic jam with a Porsche, all you do it burn more gas in idle.
+S:When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.
  :Scalability is about building wider roads, not about building faster cars.
 
 *:SW4_2
