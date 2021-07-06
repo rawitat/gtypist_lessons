@@ -3194,65 +3194,65 @@ N:MENU
 B:Quotes on Lisp and Functional Programming Languages
 
 *:L1_1
-I:Marvin Minsky
+I:[1] Marvin Minsky
 S:Anyone could learn Lisp in one day, except that if they
  :already knew Fortran, it would take three days.
 
 *:L1_2
-I:John Fraser
+I:[2] John Fraser
 S:Lisp is the red pill.
 
 *:L1_3
-I:Alan Kay, on Lisp
+I:[3] Alan Kay, on Lisp
 S:The greatest single programming language ever designed.
 
 *:L1_4
-I:Douglas Hofstadter, "Godel, Escher, Bach"
+I:[4] Douglas Hofstadter, "Godel, Escher, Bach"
 S:One of the most important and fascinating of all computer
  :languages is Lisp (standing for "List Processing"), which was
  :invented by John McCarthy around the time Algol was invented.
 
 *:L1_5
-I:John Foderaro, CACM, September 1991
+I:[5] John Foderaro, CACM, September 1991
 S:Lisp is a programmable programming language.
 
 *:L1_6
-I:John McCarthy, "Early History of Lisp"
+I:[6] John McCarthy, "Early History of Lisp"
 S:One can even conjecture that Lisp owes its survival
  :specifically to the fact that its programs are lists, which
  :everyone, including me, has regarded as a disadvantage.
 
 *:L1_7
-I:Alan Kay
+I:[7] Alan Kay
 S:Lisp isn't a language, it's a building material.
 
 *:L1_8
-I:Philip Greenspun
+I:[8] Philip Greenspun
 S:Greenspun's Tenth Rule of Programming: any sufficiently
  :complicated C or Fortran program contains an ad hoc
  :informally-specified bug-ridden slow implementation of
  :half of Common Lisp.
 
 *:L1_9
-I:Eric Raymond, "How to Become a Hacker"
+I:[9] Eric Raymond, "How to Become a Hacker"
 S:Lisp is worth learning for the profound enlightenment
  :experience you will have when you finally get it; That
  :experience will make you a better programmer for the rest
  :of your days, even if you never actually use Lisp itself a lot.
 
 *:L1_10
-I:Yukihiro 'Matz' Matsumoto, LL2
+I:[10] Yukihiro 'Matz' Matsumoto, LL2
 S:Some may say Ruby is a bad rip-off of Lisp or Smalltalk,
  :and I admit that.  But it is nicer to ordinary people.
 
 *:L1_11
-I:Guy Steele, Java spec co-author
+I:[11] Guy Steele, Java spec co-author
 S:We were not to win over the Lisp programmers;
  :we were after the C++ programmers.  We managed to drag
  :a lot of them about halfway to Lisp.
 
 *:L1_12
-I:Edsger Dijkstra, CACM, 15:10
+I:[12] Edsger Dijkstra, CACM, 15:10
 S:Lisp has jokingly been called "the most intelligent way to
  :misuse a computer".  I think that description is a great
  :compliment because it transmits the full flavor of liberation:
@@ -3260,23 +3260,23 @@ S:Lisp has jokingly been called "the most intelligent way to
  :in thinking previously impossible thoughts.
 
 *:L1_13
-I:Martin Rodgers (first said by Chuck Moore about Forth)
+I:[13] Martin Rodgers (first said by Chuck Moore about Forth)
 S:Lisp is a programmer amplifier.
 
 *:L1_14
-I:L. Peter Deutsch
+I:[14] L. Peter Deutsch
 S:Lisp... made me aware that software could be close to executable mathematics.
 
 *:L1_15
-I:Winston & Horn, "Lisp"
+I:[15] Winston & Horn, "Lisp"
 S:Common Lisp, a happy amalgam of the features of previous Lisps.
 
 *:L1_16
-I:Scott Fahlman
+I:[16] Scott Fahlman
 S:Common Lisp is politics, not art.
 
 *:L1_17
-I:Eric Raymond, in "Open Sources" on MIT's first OS, ITS
+I:[17] Eric Raymond, in "Open Sources" on MIT's first OS, ITS
 S:Lisp was far more powerful and flexible than any other language of its day;
  :in fact, it is still a better design than most languages of today,
  :twenty-five years later.  Lisp freed ITS's hackers to think in unusual
@@ -3284,12 +3284,12 @@ S:Lisp was far more powerful and flexible than any other language of its day;
  :one of hackerdom's favorite languages.
 
 *:L1_18
-I:Philip Greenspun
+I:[18] Philip Greenspun
 S:SQL, Lisp, and Haskell are the only languages that I've seen
  :where one spends more time thinking than typing.
 
 *:L1_19
-I:A guy on Slashdot. What theory fits this data?
+I:[19] A guy on Slashdot. What theory fits this data?
 S:I have heard more than one Lisp advocate state such subjective comments as,
  :"Lisp is the most powerful and elegant programming language in the world"
  :and expect such comments to be taken as objective truth.  I had never
@@ -3297,7 +3297,7 @@ S:I have heard more than one Lisp advocate state such subjective comments as,
  :their own language of choice.
 
 *:L1_20
-I:Robert Floyd, Turing Award Lecture, 1979
+I:[20] Robert Floyd, Turing Award Lecture, 1979
 S:Although my own previous enthusiasm has been for syntactically rich languages,
  :like the Algol family, I now see clearly and concretely the force of Minsky's
  :1970 Turing Lecture, in which he argued that Lisp's uniformity of structure
@@ -3305,19 +3305,19 @@ S:Although my own previous enthusiasm has been for syntactically rich languages,
  :was well worth the sacrifice of visual form.
 
 *:L1_21
-I:Michael Feathers
+I:[21] Michael Feathers
 S:Object oriented programming makes code understandable by encapsulating moving
  :parts.  Functional programming makes code understandable by minimizing moving
  :parts.
 
 *:L1_22
-I:Audrey Tang
+I:[22] Audrey Tang
 S:Haskell is faster than C++, more concise than Perl, more regular than Python,
  :more flexible than Ruby, more typeful than C#, more robust than Java, and has
  :absolutely nothing in common with PHP.
 
 *:L1_23
-I:Peter Seibel
+I:[23] Peter Seibel
 S:Consequently, a Common Lisp program tends to provide a much clearer mapping
  :between your ideas about how the program works and the code you actually write.
  :Your ideas aren't obscured by boilerplate code and endlessly repeated idioms.
@@ -3325,12 +3325,12 @@ S:Consequently, a Common Lisp program tends to provide a much clearer mapping
  :reams of code every time you need to make a change.
 
 *:L1_24
-I:Simon Thompson, "Haskell: The Craft of Functional Programming"
+I:[24] Simon Thompson, "Haskell: The Craft of Functional Programming"
 S:Haskell programs are easy to parallelize, and to run efficiently on multicore
  :hardware, because there is no state to be shared between different threads.
 
 *:L1_25
-I:Robert C. Martin
+I:[25] Robert C. Martin
 S:You don't need semaphores if you don't have side effects! You can't have
  :concurrent update problems if you don't update!
  :So that's the big deal about functional languages; and it is one big fricking
@@ -3338,22 +3338,22 @@ S:You don't need semaphores if you don't have side effects! You can't have
  :multi-core emblazoned on it; and you'd better be ready by the time it gets here.
 
 *:L1_26
-I:John Carmack
+I:[26] John Carmack
 S:Programming in a functional style makes the state presented to your code
  :explicit, which makes it much easier to reason about, and, in a completely
  :pure system, makes thread race conditions impossible.
 
 *:L1_27
-I:Joe Armstrong, "Programming Erlang"
+I:[27] Joe Armstrong, "Programming Erlang"
 S:Processes share no data with other processes.  This is the reason why we can
  :easily distribute Erlang programs over multicores or networks.
 
 *:L1_28
-I:Martin Odersky
+I:[28] Martin Odersky
 S:non-determinism = parallel processing + mutable state
 
 *:L1_29
-I:Wikipedia
+I:[29] Wikipedia
 S:In computer science, functional programming is a programming paradigm — 
  :a style of building the structure and elements of computer programs — 
  :that treats computation as the evaluation of mathematical functions and avoids
@@ -3362,16 +3362,15 @@ S:In computer science, functional programming is a programming paradigm —
  :(By contrast) Imperative programming is a programming paradigm that uses
  :statements that change a program's state.
 
-
-*:L1_39
-I:Marry Rose Cook, "A Practical Introduction to Functional Programming (article)"
+*:L1_30
+I:[30] Marry Rose Cook, "A Practical Introduction to Functional Programming (article)"
 S:When people talk about functional programming, they mention a dizzying number
  :of ‘functional' characteristics.  They mention immutable data, first class
  :functions, and tail call optimisation.  These are language features that aid
  :functional programming.
 
-*:L1_40
-I:Marry Rose Cook, continue from previous
+*:L1_31
+I:[31] Marry Rose Cook, continue from previous
 S:(Continue) They mention mapping, reducing, pipelining, recursing, currying and
  :the use of higher order functions.  These are programming techniques used to
  :write functional code.
@@ -3379,20 +3378,20 @@ S:(Continue) They mention mapping, reducing, pipelining, recursing, currying and
  :They mention parallelization, lazy evaluation, and determinism.  These are
  :advantageous properties of functional programs.
 
-*:L1_41
-I:Marry Rose Cook, continue from previous
+*:L1_32
+I:[32] Marry Rose Cook, continue from previous
 S:(Continue) Ignore all that.  Functional code is characterised by one thing:
  :the absence of side effects.  It (a pure function) doesn't rely on data outside
  :the current function, and it doesn't change data that exists outside the
  :current function.  Every other ‘functional' thing can be derived from this
  :property.  Use it as a guide rope as you learn.”
 
-*:L1_42
-I:Marry Rose Cook, continue from previous
+*:L1_33
+I:[33] Marry Rose Cook, continue from previous
 S:Functional code is characterised by one thing: the absence of side effects
 
-*:L1_43
-I:Alvin Alexander
+*:L1_34
+I:[34] Alvin Alexander
 S:Functional programming is a way of writing software applications using only
  :pure functions and immutable values.
 
@@ -3405,93 +3404,93 @@ N:MENU
 B:Quotes on Lisp and Functional Programming Languages, Continued
 
 *:L2_1
-I:Paul Graham, Nov 1983
+I:[1] Paul Graham, Nov 1983
 S:I suppose I should learn Lisp, but it seems so foreign.
 
 *:L2_2
-I:on com.lang.lisp
+I:[2] Found on com.lang.lisp
 S:Will write code that writes code that writes code for money.
 
 *:L2_3
-I:Kent Pitman
+I:[3] Kent Pitman
 S:Lisp is a language for doing what you've been told is impossible.
 
 *:L2_4
-I:Paul Graham
+I:[4] Paul Graham
 S:Within a couple weeks of learning Lisp I found programming in any other
  :language unbearably constraining.
 
 *:L2_5
-I:Paul Graham
+I:[5] Paul Graham
 S:Historically, languages designed for other people to use have been bad:
  :Cobol, PL/I, Pascal, Ada, C++.  The good languages have been those that
  :were designed for their own creators: C, Perl, Smalltalk, Lisp.
 
 *:L2_6
-I:Glenn Ehrlich
+I:[6] Glenn Ehrlich
 S:Programming in Lisp is like playing with the primodial forces of the universe.
  :It feels like lightning between your fingertips.  No other language even 
  :feels close.
 
 *:L2_7
-I:Svein Ove Aas
+I:[7] Svein Ove Aas
 S:The language God would have used to implement the Universe.
 
 *:L2_8
-I:Christian Lynbech
+I:[8] Christian Lynbech
 S:Lisp is the most sophisticated programming language I know.  It is literally
  :decades ahead of the competition ... it is not possible (as far as I know)
  :to actually use Lisp seriously before reaching the point of no return.
 
 *:L2_9
-I:Alan Kay
+I:[9] Alan Kay
 S:I finally understood that half page of code on the bottom of page 13 of the
  :Lisp 1.5 manual was Lisp in itself.  These were "Maxwell's Equations of
  :Software!".
 
 *:L2_10
-I:Larry Wall
+I:[10] Larry Wall
 S:Lisp has all the visual appeal of oatmeal with fingernail clippings mixed in.
  :(Other than that, it's quite a nice language).
 
 *:L2_11
-I:Alan Perlis, in foreward of SICP
+I:[11] Alan Perlis, in foreward of SICP
 S:Pascal is for building pyramids -- imposing, breaktaking, static structures
  :built by armies pushing heavy blocks into places.  Lisp is for building 
  :organisms -- imposing, breaktaking, dynamic structures built by squads
  :fitting fluctuating myriads of simpler organisms into place.
 
 *:L2_12
-I:Richard Stallman
+I:[12] Richard Stallman
 S:The most powerful programming language is Lisp.  If you don't know Lisp (or its
  :variant, Scheme), you don't appreciate what a powerful language is.  Once you
  :learn Lisp you will see what is missing in most other languages.
 
 *:L2_13
-I:Larry Wall
+I:[13] Larry Wall
 S:By policy, Lisp has never really catered to mere mortals.  And, of course,
  :mere mortals have never really forgiven Lisp for not catering to them.
 
 *:L2_14
-I:Joel Moses
+I:[14] Joel Moses
 S:APL is like a beautiful diamond - flawless, beautifully symmetrical.
  :But you can't add anything to it.  If you try to glue on another diamond,
  :you don't get a bigger diamond.  Lisp is like a ball of mud.  Add more
  :and it's still a ball of mud - it's still looks like Lisp.
 
 *:L2_15
-I:Erik Naggum
+I:[15] Erik Naggum
 S:Common Lisp people seem to behave in a way that is akin to the Borg:
  :they study the various new things that people do with interest and then
  :find that it was eminently doable in Common Lisp all along and they can
  :use these new techniques if they think they need them.
 
 *:L2_16
-I:Alan Perlis
+I:[16] Alan Perlis
 S:A Lisp programmer knows the value of everything, but the cost of nothing.
 
 *:L2_17
-I:amz
+I:[17] amz
 S:If programming languages were religions ...
  :
  :Lisp would be Zen Buddhism - There is no syntax, there is no centralization
@@ -3501,12 +3500,12 @@ S:If programming languages were religions ...
  :make sense.
 
 *:L2_18
-I:Anonymous
+I:[18] Anonymous
 S:LISP stands for: Lots of Insane Stupid Parentheses.
  :LISP stands for: Lots of Irritating Superfluous Parentheses.
 
 *:L2_19
-I:Peter Norvig
+I:[19] Peter Norvig
 S:In Lisp, if you want to do aspect-oriented programming, you just do a
  :bunch of macros and you're there.  In Java, you have to get Gregor Kiczales
  :to go out and start a new company, taking months and years and try to get
@@ -3514,7 +3513,7 @@ S:In Lisp, if you want to do aspect-oriented programming, you just do a
  :of people wanting that.
 
 *:L2_20
-I:Paul Graham
+I:[20] Paul Graham
 S:The more of an IT flavor the job descriptions had, the less dangerous was the
  :company.  The safest kind were the ones that wanted Oracle experience.  You
  :never had to worry about those.  You were also safe if they said they wanted
@@ -3523,18 +3522,18 @@ S:The more of an IT flavor the job descriptions had, the less dangerous was the
  :hackers, I would have been really worried.
 
 *:L2_21
-I:Paul Graham, "ANSI Common Lisp"
+I:[21] Paul Graham, "ANSI Common Lisp"
 S:The spirit of Lisp hacking can be expressed in two sentences.
  :Programming should be fun.  Programs should be beautiful.
 
 *:L2_22
-I:Philip Wadler, "How to declare an imperative"
+I:[22] Philip Wadler, "How to declare an imperative"
 S:Whereas some declarative programmers only pay lip service to equational
  :reasoning, users of functional languages exploit them every time they run a
  :compiler, whether they notice it or not.
 
 *:L2_23
-I:Robin Milner
+I:[23] Robin Milner
 S:There are many ways of trying to understand programs.  People often rely too
  :much on one way, which is called 'debugging' and consists of running a
  :partly-understood program to see if it does what you expected.  Another way,
@@ -3542,17 +3541,17 @@ S:There are many ways of trying to understand programs.  People often rely too
  :programs themselves.
 
 *:L2_24
-I:Alvin Alexander
+I:[24] Alvin Alexander
 S:The best FP code is like algebra, and in algebra you never re-use variables.
  :And not re-using variables has many benefits.
 
 *:L2_25
-I:Bartos Milewski
+I:[25] Bartos Milewski
 S:Did you notice that in the definition of 'data race'
  :there's always talk of mutation?
 
 *:L2_26
-I:defmacro
+I:[26] defmacro
 S:A functional program is ready for concurrency without any further modifications.
  :You never have to worry about deadlocks and race conditions because you don't
  :need to use locks.  No piece of data in a functional program is modified twice
@@ -3561,7 +3560,7 @@ S:A functional program is ready for concurrency without any further modification
  :concurrency applications a second thought.
 
 *:L2_27
-I:Jon Fairbairn
+I:[27] Jon Fairbairn
 S:By the way seriously: how do you debug Haskell programs?
  :
  :Mostly seriously: I don't.  If the programme doesn't work the way I intended it,
@@ -3575,16 +3574,16 @@ S:By the way seriously: how do you debug Haskell programs?
  :you've written it the wrong way!
 
 *:L2_28
-I:Audrey Tang
+I:[28] Audrey Tang
 S:I think Haskell excels at everything but user base :)
 
 *:L2_29
-I:Audrey Tang
+I:[29] Audrey Tang
 S:Perl: "Easy things are easy, hard things are possible."
  :Haskell: "Hard things are easy, the impossible just happened."
 
 *:L2_30
-I:Collection of "Shoot Yourself in the Foot with Haskell"
+I:[30] Collection of "Shoot Yourself in the Foot with Haskell"
 S:You shoot the gun, but the bullet gets trapped in the IO monad.
  :
  :Couldn't match expected type 'Deer' against inferred type 'Foot'.
@@ -3596,20 +3595,20 @@ S:You shoot the gun, but the bullet gets trapped in the IO monad.
  :Nothing happens unless you start walking.
 
 *:L2_31
-I:Stephen Wolfram
+I:[31] Stephen Wolfram
 S:The fact that the same symbolic programming primitives work for those as work
  :for math kinds of things, I think, really validates the idea of symbolic
  :programming being something pretty general.
 
 *:L2_32
-I:Robin Milner, Foreword to 'The Little MLer'
+I:[32] Robin Milner, Foreword to 'The Little MLer'
 S:There are many ways of trying to understand programs.  People often rely too much on
  :one way, which is called "debugging" and consists of running a partly-understood
  :program to see if it does what you expected.  Another way, which ML advocates, is to
  :install some means of understanding in the very programs themselves
 
 *:L2_33
-I:Philip Wadler
+I:[33] Philip Wadler
 S:Whereas some declerative programmers only pay lip service to equational reasoning,
  :users of functional languages exploit them every time they run a compiler, whether
  :they notice it or not.
@@ -3623,88 +3622,88 @@ N:MENU
 B:C and its family (C++, Objective-C)
 
 *:C_1
-I:Mike Vanier
+I:[1] Mike Vanier
 S:If I had a nickel for every time I've written "for (i = 0; i < N; i++)" in C
  :I'd be a millionaire.
 
 *:C_2
-I:Richard A. O'Keefe
+I:[2] Richard A. O'Keefe
 S:Fifty years of programming language research, and we end up with C++?
 
 *:C_3
-I:Bob Gray
+I:[3] Bob Gray
 S:Writing in C or C++ is like running a chain saw with all the safety
  :guards removed.
 
 *:C_4
-I:Bjarne Stroustrup
+I:[4] Bjarne Stroustrup
 S:C makes it easy to shoot yourself in the foot; C++ makes it harder,
  :but when you do, you blow off your whole leg.
 
 *:C_5
-I:Gavin Russell Baker
+I:[5] Gavin Russell Baker
 S:C++: Where friends have access to your private members.
 
 *:C_6
-I:Waldi Ravens.
+I:[6] Waldi Ravens.
 S:A C program is like a fast dance on a newly waxed dance floor by people
  :carrying razors.
 
 *:C_7
-I:Ron Sercely.
+I:[7] Ron Sercely.
 S:The evolution of languages: Fortran is a non-typed language.  C is a weakly
  :typed language.  Ada is a strongly typed language.  C++ is a strongly hyped
  :language.
 
 *:C_8
-I:Alan Kay
+I:[8] Alan Kay
 S:I invented the term 'Object-Oriented', and I can tell you I did not have C++
  :in mind. 
 
 *:C_9
-I:David Jameson
+I:[9] David Jameson
 S:The latest new features in C++ are designed to fix the previously new features
  :in C++.
 
 *:C_10
-I:Anonymous
+I:[10] Anonymous
 S:I have yet to meet a C compiler that is more friendly and easier to use
  :than eating soup with a knife.
 
 *:C_11
-I:Ray Simard
+I:[11] Ray Simard
 S:C /n./: A programming language that is sort of like Pascal except more like
  :assembly except that it isn't very much like either one, or anything else.
  :It is either the best language available to the art today, or it isn't.
 
 *:C_12
-I:Blair P. Houghton
+I:[12] Blair P. Houghton
 S:In My Egotistical Opinion, most people's C programs should be indented
  :six feet downward and covered with dirt.
 
 *:C_13
-I:J.P. Candusso
+I:[13] J.P. Candusso
 S:Going from programming Pascal to programming in C, is like learning to write
  :in Morse code.
 
 *:C_14
-I:Shakespeare
+I:[14] Shakespeare
 S:#define QUESTION ((bb) || !(bb))
 
 *:C_15
-I:Kernighan
+I:[15] Kernighan
 S:C is not a high-level language.
 
 *:C_16
-I:Elon Musk
+I:[16] Elon Musk
 S:I like C, because it avoids class warfare.
 
 *:C_17
-I:Dennis M. Ritchie
+I:[17] Dennis M. Ritchie
 S:C is quirky, flawed, and an enormous success.
 
 *:C_18
-I:Linus Torvalds
+I:[18] Linus Torvalds
 S:C++ is a horrible language.  It's made more horrible by the fact that a lot
  :of substandard programmers use it, to the point where it's much much easier to
  :generate total and utter crap with it.  Quite frankly, even if the choice of C
@@ -3712,59 +3711,59 @@ S:C++ is a horrible language.  It's made more horrible by the fact that a lot
  :be a huge reason to use C.
 
 *:C_19
-I:Scott Meyers on friends functions in C++
+I:[19] Scott Meyers on friends functions in C++
 S:Friends, much as in real life, are often more trouble than their worth.
 
 *:C_20
-I:James Hague
+I:[20] James Hague
 S:PL/I and Ada started out with all the bloat, were very daunting languages,
  :and got bad reputations (deservedly).  C++ has shown that if you slowly bloat
  :up a language over a period of years, people don't seem to mind as much.
 
 *:C_21
-I:Stefan Van Baelen
+I:[21] Stefan Van Baelen
 S:C(++) is a write-only, high-level assembler language.
 
 *:C_22
-I:Michael B. Feldman
+I:[22] Michael B. Feldman
 S:C++ would make a decent teaching language if we could teach the ++ part
  :without the C part.
 
 *:C_23
-I:Larry O'Brien
+I:[23] Larry O'Brien
 S:From a practical viewpoint, it's easy to see that C will always be with us,
  :taking a place beside Fortran and COBOL as the right tool for certain jobs.
 
 *:C_24
-I:Bertrand Meyer
+I:[24] Bertrand Meyer
 S:C++ is the only current language making COBOL look good.
 
 *:C_25
-I:Bill Joy
+I:[25] Bill Joy
 S:You can't prove anything about a program written in C or Fortran.
  :It's really just Peek and Poke with some syntactic sugar.
 
 *:C_26
-I:Philip Greenspun
+I:[26] Philip Greenspun
 S:Any sufficiently complicated C or Fortran program contains an ad hoc
  :informally-specified bug-ridden slow implementation of half of Common Lisp.
 
 *:C_27
-I:Bjarne Stroustrup
+I:[27] Bjarne Stroustrup
 S:C++: Simula in wolf's clothing.
 
 *:C_28
-I:Steve Haflich, "alt.lang.design", Dec 1994
+I:[28] Steve Haflich, "alt.lang.design", Dec 1994
 S:(If the only tool you have is a hammer, everything begins to look like a nail)
  :When your hammer is C++, everything begins to look like a thumb.
 
 *:C_29
-I:Thant Tessman, "comp.lang.scheme", Dec 1996
+I:[29] Thant Tessman, "comp.lang.scheme", Dec 1996
 S:Being really good at C++ is like being really good at using rocks
  :to sharpen sticks.
 
 *:C_30
-I:Guy L. Steele, "Objects have not failed.", OOPSLA 2002
+I:[30] Guy L. Steele, "Objects have not failed.", OOPSLA 2002
 S:As for C++ - well, it reminds me of the Soviet-era labor joke:
  :"They pretend to pay us, and we pretend to work."
  :
@@ -3776,26 +3775,26 @@ S:As for C++ - well, it reminds me of the Soviet-era labor joke:
  :unconstrained address arithmetic.
 
 *:C_31
-I:Bertrand Meyer
+I:[31] Bertrand Meyer
 S:There are only two things wrong with C++: The initial concept and the
  :implementation.
 
 *:C_32
-I:Erwin Dieterich
+I:[32] Erwin Dieterich
 S:The last good thing written in C was Franz Schubert's Symphony Number 9.
 
 *:C_33
-I:Larry Wall
+I:[33] Larry Wall
 S:The problem with using C++ ... is that there's already a strong tendency in
  :the language to require you to know everything before you can do anything.
 
 *:C_34
-I:Brian Kernighan & Dennis Ritchie
+I:[34] Brian Kernighan & Dennis Ritchie
 S:As we said in the preface to the first edition, C wears well as one's exper-
  :ience with it grows.  With a decade more experience, we still feel that way.
 
 *:C_35
-I:David Keppel
+I:[35] David Keppel
 S:It has been discovered that C++ provides a remarkable facility for concealing
  :the trivial details of a program such as where its bugs are.
 
@@ -3808,125 +3807,125 @@ N:MENU
 B:Java and C#
 
 *:JAVACS_1
-I:Michael Feldman
+I:[1] Michael Feldman
 S:Java is, in many ways, C++--.
 
 *:JAVACS_2
-I:Alanna
+I:[2] Alanna
 S:Saying that Java is nice because it works on all OSes is like saying that
  :anal sex is nice because it works on all genders.
 
 *:JAVACS_3
-I:Pixadel
+I:[3] Pixadel
 S:Fine, Java MIGHT be a good example of what a programming language
  :should be like.  But Java applications are good examples of what
  :applications SHOULDN'T be like.
 
 *:JAVACS_4
-I:Robert Sewell
+I:[4] Robert Sewell
 S:If Java had true garbage collection, most programs would delete
  :themselves upon execution.
 
 *:JAVACS_5
-I:James Gosling, co-inventor of Java
+I:[5] James Gosling, co-inventor of Java
 S:Java is C++ without guns, knives, and clubs.
 
 *:JAVACS_6
-I:Brucee
+I:[6] Brucee
 S:Java: write once, run away!
 
 *:JAVACS_7
-I:Chris Heilmann
+I:[7] Chris Heilmann
 S:Java is to JavaScript what car is to carpet.
 
 *:JAVACS_8
-I:Scott Bellware
+I:[8] Scott Bellware
 S:Java is a DSL to transforming big XML documents into long exception
  :stack traces.
 
 *:JAVACS_9
-I:Tel Hudson
+I:[9] Tel Hudson
 S:Using Java for serious jobs is like trying to take the skin off a rice pudding
  :wearing boxing groves.
 
 *:JAVACS_10
-I:Bill Gates
+I:[10] Bill Gates
 S:Anybody who thinks a little 9,000-line program [ Java ] that's distributed
  :free and can be cloned by anyone is going to affect anything we do at
  :Microsoft has his head screwed on wrong.
 
 *:JAVACS_11
-I:Scott McNealy
+I:[11] Scott McNealy
 S:Take a cup of coffee and add three drops of poison and what have you got?
  :Microsoft J++.
 
 *:JAVACS_12
-I:Paul Graham
+I:[12] Paul Graham
 S:Of all the programmers I can think of, I know only one who would voluntarily
  :program in Java.  And of all the great programmers I can think of who don't
  :work for Sun, on Java, I know of zero.
 
 *:JAVACS_13
-I:Charles Simonyi
+I:[13] Charles Simonyi
 S:Thirty years from now nobody will remember Java and everyone will remember
  :Microsoft.
 
 *:JAVACS_14
-I:Alan Kay
+I:[14] Alan Kay
 S:Java is the most distressing thing to happen to computing since MS-DOS.
 
 *:JAVACS_15
-I:James Gosling
+I:[15] James Gosling
 S:Your development cycle is much faster because Java is interpreted.
  :The compile-link-load-test-crash-debug cycle is obsolete.
 
 *:JAVACS_16
-I:Scott McKay
+I:[16] Scott McKay
 S:C++ is history repeated as tragedy.  Java is history repeated as farce.
 
 *:JAVACS_17
-I:Larry O'Brien
+I:[17] Larry O'Brien
 S:Claiming Java is easier than C++ is like saying that
  :K2 is shorter than Everest.
 
 *:JAVACS_18
-I:Matthew B. Kennel
+I:[18] Matthew B. Kennel
 S:In the best possible scenario Java will end up mostly like Eiffel but with
  :extra warts because of insufficiently thoughtful early design.
 
 *:JAVACS_19
-I:Frank Winkler
+I:[19] Frank Winkler
 S:Java, the best argument for Smalltalk since C++.
 
 *:JAVACS_20
-I:Philip Greenspun
+I:[20] Philip Greenspun
 S:Java is the SUV of programming tools.
 
 *:JAVACS_21
-I:Thant Tessman, "comp.lang.scheme", Jun 2000
+I:[21] Thant Tessman, "comp.lang.scheme", Jun 2000
 S:You're posting to a Scheme group.  Around here, arguing that Java is better
  :than C++ is like arguing that grasshoppers taste better than tree bark.
 
 *:JAVACS_22
-I:Paul Graham
+I:[22] Paul Graham
 S:Like the creators of sitcoms or junk food or package tours, Java's designers
  :were consciously designing a product for people not as smart as them.
 
 *:JAVACS_23
-I:Steve Holden
+I:[23] Steve Holden
 S:There are undoubtedly a lot of very intelligent people writing Java, better
  :programmers than I will ever be.  I just wish I knew why.
 
 *:JAVACS_24
-I:Patricia Seybold in 1998
+I:[24] Patricia Seybold in 1998
 S:If you learn to program in Java, you'll never be without a job!
 
 *:JAVACS_25
-I:John Knight
+I:[25] John Knight
 S:Knowing the syntax of Java does not make someone a software engineer.
 
 *:JAVACS_26
-I:James Gosling
+I:[26] James Gosling
 S:Over the years, I've used and created a wide variety of scripting languages,
  :and in general, I'm a big fan of them.  When the project that Java came out of
  :first started, I was originally planning to do a scripting language.  But a
