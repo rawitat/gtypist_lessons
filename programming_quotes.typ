@@ -2328,7 +2328,7 @@ S:The perfect project is POSSIBLE if one first documents a list of
  :ALL the UNKNOWNS.
 
 *:SW3_10
-I:FAST, GOOD, CHEAP. Choose any two.
+I:Sam Redwine, "Proceedings of the 4th International Software Process Workshop"
 S:Software and cathedrals are much the same:
  :first we build them, then we pray.
 
