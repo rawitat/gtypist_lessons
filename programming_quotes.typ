@@ -3940,99 +3940,99 @@ N:MENU
 B:Perl, Ruby, Python, etc. Mostly scriptings languages.
 
 *:SCRIPT_1
-I:Keith Bostic
+I:[1] Keith Bostic
 S:Perl - The only language that looks the same before and after RSA encryption.
 
 *:SCRIPT_2
-I:Jon Ribbens
+I:[2] Jon Ribbens
 S:PHP is a minor evil perpetrated and created by incompetent amateurs, whereas
  :Perl is a great and insidious evil perpetrated by skilled but perverted
  :professionals.
 
 *:SCRIPT_3
-I:Larry Wall
+I:[3] Larry Wall
 S:It is easier to port a shell than a shell script.
 
 *:SCRIPT_4
-I:Nikita Popov
+I:[4] Nikita Popov
 S:Ruby is rubbish! PHP is phpantastic!
 
 *:SCRIPT_5
-I:Yukihiro 'Matz' Matsumoto
+I:[5] Yukihiro 'Matz' Matsumoto
 S:For me the purpose of life is partly to have joy.  Programmers often feel joy
  :when they can concentrate on the creative side of programming.  So Ruby
  :is designed to make programmers happy.
 
 *:SCRIPT_6
-I:Yukihiro 'Matz' Matsumoto
+I:[6] Yukihiro 'Matz' Matsumoto
 S:I hope to see Ruby helps every programmer in the world to be productive,
  :and to enjoy programming, and to be happy.  That is the primary purpose
  :of Ruby language.
 
 *:SCRIPT_7
-I:Yukihiro 'Matz' Matsumoto
+I:[7] Yukihiro 'Matz' Matsumoto
 S:We just need the Turing machine to solve all our problems, in theory.
  :Humans require more sophisticated tools to program.  It's a matter of
  :human need.  As long as some people feel happy using Ruby, that's
  :enough of a reason for another language.
 
 *:SCRIPT_8
-I:Anonymous
+I:[8] Anonymous
 S:If you put 100 million monkeys to hammer away at keyboards for 100 million
  :years, one of them will write a C program.  The rest will write Perl.
 
 *:SCRIPT_9
-I:Anonymous
+I:[9] Anonymous
 S:If Python is executable pseudocode, then Perl is executable line noise.
 
 *:SCRIPT_10
-I:Rasmus Lerdorf
+I:[10] Rasmus Lerdorf
 S:I'm not a real programmer.  I throw together things until it works then
  :I move on.  The real programmers will say: "yeah it works but you're leaking
  :memory everywhere.  Perhaps we should fix that".  I'll just restart Apache
  :every 10 requests.
 
 *:SCRIPT_11
-I:Teodor Zlatanov
+I:[11] Teodor Zlatanov
 S:If you want to shoot yourself in the foot, Perl give you ten bullets and
  :a laser scope, then stand by and cheer you on.
 
 *:SCRIPT_12
-I:Yukihiro 'Matz' Matsumoto
+I:[12] Yukihiro 'Matz' Matsumoto
 S:Actually, I'm trying to make Ruby natural, not simple.
 
 *:SCRIPT_13
-I:Xah Lee
+I:[13] Xah Lee
 S:The three characteristics of Perl programmers: mundaneness, sloppiness, and
  :fatuousness.
 
 *:SCRIPT_14
-I:Jeffrey Davis
+I:[14] Jeffrey Davis
 S:Perl has grown from being a very good scripting language into something like
  :a cross between a universal solvent and an open-ended Mandarin where new
  :ideograms are invented hourly.
 
 *:SCRIPT_15
-I:Bruce Eckel
+I:[15] Bruce Eckel
 S:Perl is like vise grips.  You can do anything with it but it is the wrong
  :tool for every job.
 
 *:SCRIPT_16
-I:Xah Lee
+I:[16] Xah Lee
 S:Perl is the sanctuary of dunces.  The godsend for brainless coders.  The means
  :and banner of sysadmins.  The lingua franca of trial-and-error hackers.  The
  :song and dance of stultified engineers.
 
 *:SCRIPT_17
-I:Jeff Smith
+I:[17] Jeff Smith
 S:Perl is a car with an autopilot designed by insane aliens.
 
 *:SCRIPT_18
-I:Charlie Campbell
+I:[18] Charlie Campbell
 S:JavaScript is the duct tape of the internet.
 
 *:SCRIPT_19
-I:Erik Naggum, "comp.lang.lisp", Nov 2000
+I:[19] Erik Naggum, "comp.lang.lisp", Nov 2000
 S:The Perl programmer who veers off the road into the forest will get out of
  :his car and cut down each and every tree that blocks his progress, then drive
  :a few meters and repeat the whole process.  Whether he gets where he wanted
@@ -4043,30 +4043,30 @@ S:The Perl programmer who veers off the road into the forest will get out of
  :idiotic behavior in a way that no other language or tool has ever done.
 
 *:SCRIPT_20
-I:G. van Rossum
+I:[20] G. van Rossum
 S:Don't you hate code that's not properly indented? Making it [indenting] part
  :of the syntax guarantees that all code is properly indented.
 
 *:SCRIPT_21
-I:Alan Kay
+I:[21] Alan Kay
 S:Perl is another example of filling a tiny, short-term need, and then being
  :a real problem in the longer term.
 
 *:SCRIPT_22
-I:Jeff Polk
+I:[22] Jeff Polk
 S:There's no obfuscated Perl contest because it's pointless.
 
 *:SCRIPT_23
-I:Larry Wall
+I:[23] Larry Wall
 S:A Perl program is correct if it gets the job done before your boss fire you.
 
 *:SCRIPT_24
-I:Brian Hook, about Perl
+I:[24] Brian Hook, about Perl
 S:I have a pretty major problem with a language where one of the most common
  :variables has the name $_.
 
 *:SCRIPT_25
-I:Guido van Rossum (creator of Python)
+I:[25] Guido van Rossum (creator of Python)
 S:Now, it's my belief that Python is a lot easier than to teach to students
  :programming and teach them C or C++ or Java at the same time because all the
  :details of the languages are so much harder.  Other scripting languages really
@@ -4088,66 +4088,66 @@ N:MENU
 B:OO Designs and implementation in Languages
 
 *:OOP_1
-I:Paul Graham, "Hackers & Painters: Big Ideas from the Computer Age"
+I:[1] Paul Graham, "Hackers & Painters: Big Ideas from the Computer Age"
 S:Object-Oriented programming offers a sustainable way to write spaghetti code.
  :It lets you accrete programs as a series of patches.
 
 *:OOP_2
-I:Alan Kay
+I:[2] Alan Kay
 S:I invented the term 'Object-Oriented', and I can tell you I did not have C++
  :in mind.
 
 *:OOP_3
-I:Roberto Waltman
+I:[3] Roberto Waltman
 S:In the one and only true way.  The object-oriented version of 'Spaghetti code',
  :is, of course, 'Lasagna code'.  (Too many layers).
 
 *:OOP_4
-I:Joe Armstrong, inventor of Erlang
+I:[4] Joe Armstrong, inventor of Erlang
 S:The problem with object-oriented languages is that they've got all this
  :implicit environment that they carry around with them.  You wanted a banana
  :but what you've got is a gorilla holding the banana and the entire jungle.
 
 *:OOP_5
-I:Anonymous
+I:[5] Anonymous
 S:The great thing about Object-Oriented code is that it can make small,
  :simple problems look like a large, complex ones.
 
 *:OOP_6
-I:Lasse Petersen
+I:[6] Lasse Petersen
 S:"Eiffel: The Programming Language" is certainly by far the most expensive piece
  :of fiction on my bookshelf.  Excellent, entertaining fiction, but it remains
  :fiction nevertheless.
 
 *:OOP_7
-I:Ed Yourdon
+I:[7] Ed Yourdon
 S:A system composed of 100,000 lines of C++ is not be sneezed at, but we don't
  :have that much trouble developing 100,000 lines of COBOL today.  The real test
  :of OOP will come when systems of 1 to 10 million lines of code are developed.
 
 *:OOP_8
-I:phluid
+I:[8] phluid
 S:I won't program in Java anymore.  I'm not Marxist and don't believe in classes.
 
 *:OOP_9
-I:Bill Joy
+I:[9] Bill Joy
 S:I fear that new object-oriented systems may suffer the fate of Lisp, in that
  :they can do many things, but the complexity of the class hierarchies may
  :cause them to collapse under their own weight.
 
 *:OOP_10
-I:Alan Kay
+I:[10] Alan Kay
 S:Java is the most distressing thing to happen to computing since MS-DOS.
 
 *:OOP_11
-I:Thant Tessman
+I:[11] Thant Tessman
 S:OO is like the Bible in that which scripture is to be interpreted metaphori-
  :cally, and which is to be interpreted literally, is entirely a function of the
  :religious agenda of the commentator.  My own advice is to keep in mind that
  :the stuff of computer programs is nothing but metaphor.
 
 *:OOP_12
-I:Paul Graham, "ANSI Common Lisp"
+I:[12] Paul Graham, "ANSI Common Lisp"
 S:The object-oriented model makes it easy to build programs by accretion.
  :What this often means, in practice, is that it provides a structured way to
  :write spaghetti code.  This is not necessarily bad, but it is not entirely
@@ -4160,7 +4160,7 @@ S:The object-oriented model makes it easy to build programs by accretion.
  :object-oriented abstractions could be more dangerous than useful.
 
 *:OOP_13
-I:Richard P. Gabriel, "Objects have failed", OOPSLA 2002
+I:[13] Richard P. Gabriel, "Objects have failed", OOPSLA 2002
 S:Bricks are just too limited, and the circumstances where they make sense are
  :too constrained to serve as a model for building something as diverse and
  :unpredictable as a city.  And further, the city itself is not the end goal,
@@ -4175,24 +4175,24 @@ S:Bricks are just too limited, and the circumstances where they make sense are
  :from Babbage's theology.
 
 *:OOP_14
-I:Rob Pike
+I:[14] Rob Pike
 S:Object-oriented design is the roman numerals of computing.
 
 *:OOP_15
-I:D. Gelernter, "Machine Beauty"
+I:[15] D. Gelernter, "Machine Beauty"
 S:Object-oriented programming as it emerged in Simula 67 allows software
  :structure to be based on real-world structures, and gives programmers a
  :powerful way to simplify the design and construction of complex programs.
 
 *:OOP_16
-I:Bertrand Meyer, "ITWorld.com"
+I:[16] Bertrand Meyer, "ITWorld.com"
 S:All I can really say by way of a reasonably short comment is that inheritance
  :is a very flexible mechanism.  It's possible and in fact fairly common to misuse
  :it, but that's not a reason to distrust it systematically as seems to have
  :become the fashion.
 
 *:OOP_17
-I:Bertrand Meyer, "ITWorld.com"
+I:[17] Bertrand Meyer, "ITWorld.com"
 S:One problem I have with a good deal of the literature is that it is based on
  :a view of inheritance strongly or even solely determined by knowledge of the
  :mechanisms of C++ and Java.  I think that to understand the scope of inheritance
@@ -4202,28 +4202,28 @@ S:One problem I have with a good deal of the literature is that it is based on
  :of the world. 
 
 *:OOP_18
-I:Charles Petzold, "Programming MS Windows with C#"
+I:[18] Charles Petzold, "Programming MS Windows with C#"
 S:In a sense, the whole history of new programming languages and class libraries
  :for Windows has involved the struggle to reduce the windows hello-world program
  :down to something small, sleek, and elegant.
 
 *:OOP_19
-I:Paul Graham
+I:[19] Paul Graham
 S:The object-oriented model makes it easy to build up programs by accretion.
  :What this often means, in practice, is that it provides a structured way to
  :write spaghetti code.
 
 *:OOP_20
-I:Rob Pike
+I:[20] Rob Pike
 S:Object-oriented design is the roman numerals of computing.
 
 *:OOP_21
-I:Edsger Dijkstra
+I:[21] Edsger Dijkstra
 S:Object-Oriented programming is an exceptionally bad idea which could have
  :originated in California.
 
 *:OOP_22
-I:James H. Clark
+I:[22] James H. Clark
 S:It's very hard to explain to people who don't program, but the object-oriented
  :programming system made programming the Mac and iPhone so easy.
 
@@ -4236,152 +4236,152 @@ N:MENU
 B:Older, Legacy Languages: COBOL, Fortran, etc
 
 *:LEGACY_1
-I:Edsger W. Dijkstra
+I:[1] Edsger W. Dijkstra
 S:The use of COBOL cripples the mind; its teaching should therefore be regarded
  :as a criminal offense.
 
 *:LEGACY_2
-I:Edsger W. Dijkstra
+I:[2] Edsger W. Dijkstra
 S:It is practically impossible to teach good programming style to students
  :that have had prior exposure to BASIC.  As potential programmers, they are
  :mentally mutilated beyond hope of regeneration.
 
 *:LEGACY_3
-I:C.A.R Hoare, for Algol 60 (then taken in C)
+I:[3] C.A.R Hoare, for Algol 60 (then taken in C)
 S:I couldn't resist the temptation to put in a null reference, simply because
  :it was so easy to implement.  This has led to innumerable errors,
  :vulnerabilities, and system crashes, which have probably caused a billion
  :dollars of pain and damage in the last forty years.
 
 *:LEGACY_4
-I:Alan J. Perlis
+I:[4] Alan J. Perlis
 S:Fortran is not a flower but a weed -- it is hardy, occasionally blooms,
  :and grows in every computer.
 
 *:LEGACY_5
-I:Edsger W. Dijkstra
+I:[5] Edsger W. Dijkstra
 S:Fortran, the infantile disorder, by now nearly 20 years old, is hopelessly
  :inadequate for whatever computer application you have in mind today:
  :it is now too clumsy, too risky, and too expensive to use.
 
 *:LEGACY_6
-I:Ken Thompson, co-creator of B, Unix, Go
+I:[6] Ken Thompson, co-creator of B, Unix, Go
 S:Fortran was the language of choice for the same reason that three-legged
  :races are popular.
 
 *:LEGACY_7
-I:Anonymous
+I:[7] Anonymous
 S:COBOL: Completely Obsolete Business Orientated Language.
 
 *:LEGACY_8
-I:Anonymous
+I:[8] Anonymous
 S:Erroneous COBOL programs were often referred to as 'pregnant programs'
  :because the issue was usually due to missed periods.
 
 *:LEGACY_9
-I:Anonymous
+I:[9] Anonymous
 S:COBOL programmers understand why women hate periods.
 
 *:LEGACY_10
-I:Edsger W. Dijkstra
+I:[10] Edsger W. Dijkstra
 S:In the good old days physicists repeated each other's experiments, just
  :to be sure.  Today they stick to Fortran, so that they can share each other's
  :programs, bugs included.
 
 *:LEGACY_11
-I:Robert Glass
+I:[11] Robert Glass
 S:COBOL is a very bad language, but all the others (for business data processing)
  :are so much worse.
 
 *:LEGACY_12
-I:Ed Post
+I:[12] Ed Post
 S:As long as there are ill-defined goals, bizarre bugs, and unrealistic
  :schedules, there will be Real Programmers willing to jump in and Solve The
  :Problem, saving the documentation for later.  Long live Fortran!
 
 *:LEGACY_13
-I:Larry Wall
+I:[13] Larry Wall
 S:I knew I'd hate COBOL the moment I saw they'd used 'perform' instead of 'do'.
 
 *:LEGACY_14
-I:Charles Petzold
+I:[14] Charles Petzold
 S:COBOL has almost no fervent enthusiasts.  As a programming tool, it has roughly
  :the sex appeal of a wrench.
 
 *:LEGACY_15
-I:Steven Feiner
+I:[15] Steven Feiner
 S:You can tell how far we have to go, when Fortran is the language of
  :supercomputers.
 
 *:LEGACY_16
-I:John Krueger
+I:[16] John Krueger
 S:A computer without COBOL and Fortran is like a piece of chocolate cake without
  :ketchup or mustard.
 
 *:LEGACY_17
-I:Edsger W. Dijkstra
+I:[17] Edsger W. Dijkstra
 S:COBOL is for morons.
 
 *:LEGACY_18
-I:Edsger W. Dijkstra
+I:[18] Edsger W. Dijkstra
 S:With respect to COBOL you can really do only one or two things: fight the
  :disease or pretend that it does not exist.
 
 *:LEGACY_19
-I:Peter Gabriel
+I:[19] Peter Gabriel
 S:The very architecture of almost every computer today is designed to optimize
  :the performance of Fortran programs and its operating-system-level sister, C.
 
 *:LEGACY_20
-I:Jargon File
+I:[20] Jargon File
 S:COBOL: (Synonymous with evil.): A weak, verbose, and flabby language used by
  :card wallopers to do boring mindless things on dinosaur mainframes.
 
 *:LEGACY_21
-I:Bertrand Meyer
+I:[21] Bertrand Meyer
 S:COBOL programmers are destined to code COBOL for the rest of their lives,
  :and thereafter.
 
 *:LEGACY_22
-I:Ed Post
+I:[22] Ed Post
 S:If you can't do it in Fortran, do it in assembly language.  If you can't do it
  :in assembly language, it isn't worth doing.
 
 *:LEGACY_23
-I:Edsger W. Dijkstra
+I:[23] Edsger W. Dijkstra
 S:Using PL/I must be like flying a plane with 7,000 buttons, switches, and
  :handles to manipulate in the cockpit.
 
 *:LEGACY_24
-I:Edsger W. Dijkstra
+I:[24] Edsger W. Dijkstra
 S:When Fortran has been called infantile disorder, PL/I, with its growth
  :characteristics of a dangerous tumor, could turn out to be a fatal disease.
 
 *:LEGACY_25
-I:Edsger W. Dijkstra
+I:[25] Edsger W. Dijkstra
 S:PL/I, "the fatal disease", belongs more to the problem set than
  :to the solution set.
 
 *:LEGACY_26
-I:Bruce Powel Douglass
+I:[26] Bruce Powel Douglass
 S:C treats you like a consenting adult.  Pascal treats you like a naughty child.
  :Ada treats you like a criminal.
 
 *:LEGACY_27
-I:Bill Joy
+I:[27] Bill Joy
 S:There are a couple of people in the world who can really program in C or
  :Fortran.  They write code in less time than it takes for other programmers.
  :Most programmers aren't that good.  The problem is that those few programmers
  :who crank out code aren't interested in maintaining it.
 
 *:LEGACY_28
-I:Edsger W. Dijkstra
+I:[28] Edsger W. Dijkstra
 S:APL is a mistake, carried through to perfection.  It is the language of the
  :future for the programming techniques of the past: it creates a new generation
  :of coding bums. 
 
 *:LEGACY_29
-I:John C. Reynolds
+I:[29] John C. Reynolds
 S:Another line of development stemming from Algol 60 has led to languages such as
  :Pascal and its descendants, e.g. Euclid, Mesa, and Ada, which are significantly
  :lower level than Algol.  Each of these languages seriously restricts the block
@@ -4389,7 +4389,7 @@ S:Another line of development stemming from Algol 60 has led to languages such a
  :dynamic arrays, or procedure parameters.
 
 *:LEGACY_30
-I:Henry Spencer
+I:[30] Henry Spencer
 S:Programming graphics in X is like finding the square root of PI
  :using Roman numerals.
 
@@ -4402,28 +4402,28 @@ N:MENU
 B:Funny but True about Programmers/Programming
 
 *:FUNNY_1
-I:Rick Cook, The Wizardry Compiled
+I:[1] Rick Cook, The Wizardry Compiled
 S:Programming today is a race between software engineers striving to build
  :bigger and better idiot-proof programs, and the Universe trying to produce
  :bigger and better idiots.  So far, the Universe is winning.
 
 *:FUNNY_2
-I:Larry Wall
+I:[2] Larry Wall
 S:Most of you are familiar with the virtues of a programmer.
  :There are three, of course: laziness, impatience, and hubris.
 
 *:FUNNY_3
-I:Seymour Cray
+I:[3] Seymour Cray
 S:The trouble with programmers is that you can never tell what a programmer
  :is doing until it's too late.
 
 *:FUNNY_4
-I:Larry Niven
+I:[4] Larry Niven
 S:That's the thing about people who think they hate computers.
  :What they really hate is lousy programmers.
 
 *:FUNNY_5
-I:Bill Bryson
+I:[5] Bill Bryson
 S:For a long time it puzzled me how something so expensive, so leading edge,
  :could be so useless.  And then it occurred to me that a computer is a stupid
  :machine with the ability to do incredibly smart things, while computer
@@ -4431,7 +4431,7 @@ S:For a long time it puzzled me how something so expensive, so leading edge,
  :They are, in short, a perfect match.
 
 *:FUNNY_6
-I:Peter Seebach
+I:[6] Peter Seebach
 S:A hacker on a roll may be able to produce - in a period of a few months -
  :something that a small development group (say 7-8 people) would have a hard
  :time getting together over a year.  IBM used to report that certain
@@ -4439,179 +4439,179 @@ S:A hacker on a roll may be able to produce - in a period of a few months -
  :or more.
 
 *:FUNNY_7
-I:Randall E. Stross
+I:[7] Randall E. Stross
 S:The best programmers are not marginally better than merely good ones.
  :They are an order-of-magnitude better, measured by whatever standard:
  :conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 
 *:FUNNY_8
-I:Bill Gates
+I:[8] Bill Gates
 S:A great lathe operator commands several times the wage of an average lathe
  :operator, but a great writer of software code is worth 10,000 times the price
  :of an average software writer.
 
 *:FUNNY_9
-I:Mosher's Law of Software Engineering
+I:[9] Mosher's Law of Software Engineering
 S:Don't worry if it doesn't work right.
  :If everything did, you'd be out of a job.
 
 *:FUNNY_10
-I:Bill Gates
+I:[10] Bill Gates
 S:Measuring programming progress by lines of code is like measuring aircraft
  :building progress by weight.
 
 *:FUNNY_11
-I:George Carrette
+I:[11] George Carrette
 S:First learn computer science and all the theory.
  :Next develop a programming style.
  :Then forget all that and just hack.
 
 *:FUNNY_12
-I:John Johnson
+I:[12] John Johnson
 S:First, solve the problem.  Then, write the code.
 
 *:FUNNY_13
-I:Larry Flon
+I:[13] Larry Flon
 S:There is no programming language - no matter how structured - that will
  :prevent programmers from making bad programs.
 
 *:FUNNY_14
-I:Richard Pattis
+I:[14] Richard Pattis
 S:When debugging, novices insert corrective code; experts remove defective code.
 
 *:FUNNY_15
-I:Kent Beck
+I:[15] Kent Beck
 S:Optimism is an occupational hazard of programming; feedback is the treatment.
 
 *:FUNNY_16
-I:Oktal
+I:[16] Oktal
 S:I think Microsoft named .Net so it wouldn't show up in a Unix directory listing.
 
 *:FUNNY_17
-I:Jessica Gaston
+I:[17] Jessica Gaston
 S:One man's crappy software is another man's full-time job.
 
 *:FUNNY_18
-I:Anonymous
+I:[18] Anonymous
 S:It's not a bug -- it's an undocumented feature.
 
 *:FUNNY_19
-I:Doug Linder
+I:[19] Doug Linder
 S:A good programmer is someone who always looks both ways before crossing
  :one-way street.
 
 *:FUNNY_20
-I:Anonymous
+I:[20] Anonymous
 S:Why do programmers prefer dark mode?
  :Cause light attracts bugs.
 
 *:FUNNY_21
-I:Jerry Ogdin
+I:[21] Jerry Ogdin
 S:A debugged program is one for which you have not yet found the conditions
  :that make it fail.
 
 *:FUNNY_22
-I:Anonymous
+I:[22] Anonymous
 S:Debugging is being a detective in a crime story
  :where you are also the murderer.
 
 *:FUNNY_23
-I:Anonymous
+I:[23] Anonymous
 S:99 little bugs in the code.
  :99 little bugs in the code.
  :Take one down, patch it around.
  :127 little bugs in the code...
 
 *:FUNNY_24
-I:Bill Pfeifer
+I:[24] Bill Pfeifer
 S:If it works, leave it alone -- there's no need to understand it.
  :It it fails, try to fix it -- there's no time to understand it.
 
 *:FUNNY_25
-I:Christopher Thompson
+I:[25] Christopher Thompson
 S:Sometimes it pays to stay in bed on Monday, rather than spending the rest
  :of the week debugging Monday's code.
 
 *:FUNNY_26
-I:Anonymous
+I:[26] Anonymous
 S:My software never has bugs.  It just develops random features.
 
 *:FUNNY_27
-I:Anonymous
+I:[27] Anonymous
 S:The only difference between a bug and a feature is the documentation.
 
 *:FUNNY_28
-I:Anonymous
+I:[28] Anonymous
 S:Assumption is the mother of all fuckups.
 
 *:FUNNY_29
-I:J. Horning
+I:[29] J. Horning
 S:Computer Science is the only discipline in which we view adding a new wing
  :to a building as being maintenance.
 
 *:FUNNY_30
-I:Anonymous
+I:[30] Anonymous
 S:All computers wait at the same speed.
 
 *:FUNNY_31
-I:Anonymous
+I:[31] Anonymous
 S:Artificial Intelligence usually beats natural stupidity.
 
 *:FUNNY_32
-I:Miguel de Icaza
+I:[32] Miguel de Icaza
 S:Every piece of software written today is likely going to infringe on someone
  :else's patent.
 
 *:FUNNY_33
-I:Anonymous
+I:[33] Anonymous
 S:Good programming is 99% sweat and 1% coffee.
 
 *:FUNNY_34
-I:Jeff Atwood
+I:[34] Jeff Atwood
 S:The older I get, the more I believe that the only way to become a better
  :programmer is by not programming.
 
 *:FUNNY_35
-I:Bruce Ediger
+I:[35] Bruce Ediger
 S:The only "intuitive" interface is the nipple.  After that it's all learned.
 
 *:FUNNY_36
-I:Larry Wall
+I:[36] Larry Wall
 S:Real programmers can write assembly code in any language.
 
 *:FUNNY_37
-I:Jeff Atwood
+I:[37] Jeff Atwood
 S:No one hates software more than software developers.
 
 *:FUNNY_38
-I:Anonymous
+I:[38] Anonymous
 S:Developer: an organism that turns coffee into code.
 
 *:FUNNY_39
-I:Anonymous
+I:[39] Anonymous
 S:There's no test like production.
 
 *:FUNNY_40
-I:Anonymous
+I:[40] Anonymous
 S:There is nothing quite so permanent as a quick fix.
 
 *:FUNNY_41
-I:Paul Leary
+I:[41] Paul Leary
 S:That's what's cool about working with computers.  They don't argue, they
  :remember everything, and they don't drink all your beer.
 
 *:FUNNY_42
-I:Kathy Griffin
+I:[42] Kathy Griffin
 S:I also love Mole, the unsung hero of reality programming.
 
 *:FUNNY_43
-I:Craig Bruce
+I:[43] Craig Bruce
 S:Yeah, computers are going to take over the programming business because they
  :have become so fast recently that they can solve the Halting Problem in five
  :seconds flat.
 
 *:FUNNY_44
-I:Gerald Weinberg
+I:[44] Gerald Weinberg
 S:Writing code has a place in the human hierarchy worth somewhere above grave robbing
  :and beneath managing.
 
