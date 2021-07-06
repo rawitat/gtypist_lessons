@@ -1056,13 +1056,13 @@ N:MENU
 B:General Wisdoms in Programming and Code Writing #6
 
 *:G6_1
-I:John Carmack
+I:[1] John Carmack
 S:Programming is not a zero-sum game.  Teaching something to a fellow programmer
  :doesn't take it away from you.  I'm happy to share what I can, because I'm in it
  :for the love of programming.
 
 *:G6_2
-I:John Maeda
+I:[2] John Maeda
 S:There is a construct in computer programming called 'the infinite loop' which
  :enables a computer to do what no other physical machine can do - to operate in
  :perpetuity without tiring.  In the same way it doesn't know exhaustion, it doesn't
@@ -1070,7 +1070,7 @@ S:There is a construct in computer programming called 'the infinite loop' which
  :tiring.
 
 *:G6_3
-I:Ryan Bethencourt
+I:[3] Ryan Bethencourt
 S:I imagine a day, some time in the not too distant future when children and
  :teenagers will be able to create their own genetically engineered machines,
  :cure the diseases of the old and find new ways to build and extend capabilities
@@ -1078,135 +1078,135 @@ S:I imagine a day, some time in the not too distant future when children and
  :through biology.
 
 *:G6_4
-I:Mark Cuban
+I:[4] Mark Cuban
 S:I personally think there's going to be a greater demand in 10 years for liberal arts
  :majors than there were for programming majors and maybe even engineering, because
  :when the data is all being spit out for you, options are being spit out for you,
  :you need a different perspective in order to have a different view of the data.
 
 *:G6_5
-I:Niklaus Wirth
+I:[5] Niklaus Wirth
 S:Many people tend to look at programming styles and languages like religions:
  :if you belong to one, you cannot belong to others.  But this analogy is
  :another fallacy.
 
 *:G6_6
-I:Ellen Ullman
+I:[6] Ellen Ullman
 S:Computer programming has always been a self-taught, maverick occupation.
 
 *:G6_7
-I:Nicholas Negroponte
+I:[7] Nicholas Negroponte
 S:Giving the kids a programming environment of any sort, whether it's a tool like
  :Squeak or Scratch or Logo to write programs in a childish way - and I mean that
  :in the most generous sense of the word, that is, playing with and building
  :things - is one of the best ways to learn.
 
 *:G6_8
-I:Niklaus Wirth
+I:[8] Niklaus Wirth
 S:Programming is usually taught by examples.
 
 *:G6_9
-I:Niklaus Wirth
+I:[9] Niklaus Wirth
 S:Our ultimate goal is Extensible Programming (EP).  By this, we mean the
  :construction of hierarchies of modules, each module adding new functionality
  :to the system.
 
 *:G6_10
-I:Marc Andreessen
+I:[10] Marc Andreessen
 S:An awful lot of successful technology companies ended up being in a slightly
  :different market than they started out.  Microsoft started with programming tools,
  :but came out with an operating system.  Oracle started doing contracts for the CIA.
  :AOL started out as an online video gaming network.
 
 *:G6_11
-I:Alan J. Perlis
+I:[11] Alan J. Perlis
 S:In English every word can be verbed.  Would that it were so in our programming
  :language.
 
 *:G6_12
-I:William Mougayar
+I:[12] William Mougayar
 S:Study how to write smart contracts, which is the basic unit of programming
  :a blockchain for business purposes.  It is the equivalent of being taught HTML
  :and Java during the early Internet days.  And master how to create assets or
  :tokenize existing ones on a blockchain.
 
 *:G6_13
-I:Tim O'Reilly
+I:[13] Tim O'Reilly
 S:There is people who make stuff with words.  There is people who make stuff with
  :programs.  And I really believe that that whole creative culture, people didn't
  :realize how creative programming is.  And anybody who's done it of course knows
  :that not only is it creative, but it's incredibly absorbing.
 
 *:G6_14
-I:Maya Lin
+I:[1] Maya Lin
 S:I loved logic, math, computer programming.  I loved systems and logic approaches.
  :And so I just figured architecture is this perfect combination.
 
 *:G6_15
-I:Masi Oka
+I:[15] Masi Oka
 S:Coming from a programming background, I have a good sense of what's feasible
  :and what's not feasible in a game.
 
 *:G6_16
-I:Craig Federighi
+I:[16] Craig Federighi
 S:People sometimes have a view of programming that is something solitary and very
  :technical.  But programming is among the most creative, expressive, and social
  :careers.
 
 *:G6_17
-I:Geoff Mulgan
+I:[17] Geoff Mulgan
 S:Courses can, and should, incorporate the excitement and fun of programming games,
  :apps or even real digital devices.
 
 *:G6_18
-I:Bill Gates
+I:[18] Bill Gates
 S:In a budget, how important is art versus music versus athletics versus computer
  :programming? At the end of the day, some of those trade-offs will be made
  :politically.
 
 *:G6_19
-I:Alan J. Perlis
+I:[19] Alan J. Perlis
 S:Some programming languages manage to absorb change, but withstand progress.
 
 *:G6_20
-I:Bjarne Stroustrup
+I:[20] Bjarne Stroustrup
 S:I find languages that support just one programming paradigm constraining.
 
 *:G6_21
-I:Niklaus Wirth
+I:[21] Niklaus Wirth
 S:But active programming consists of the design of new programs, rather than
  :contemplation of old programs.
 
 *:G6_22
-I:Niklaus Wirth
+I:[22] Niklaus Wirth
 S:Clearly, programming courses should teach methods of design and construction,
  :and the selected examples should be such that a grdual development can be nicely
  :demonstrated.
 
 *:G6_23
-I:Brian Kernighan
+I:[23] Brian Kernighan
 S:Programming language is very specific to instructing a computer to do a particular
  :structure of sequence.  It's the very way you tell the machine what you want it
  :to do.
 
 *:G6_24
-I:Jeff Minter
+I:[24] Jeff Minter
 S:I always considered programming as being like modern-day wizardry.  You could think
  :of things in your mind and then make them happen.
 
 *:G6_25
-I:Ellen Ullman
+I:[25] Ellen Ullman
 S:People imagine that programming is logical, a process like fixing a clock.
  :Nothing could be further from the truth.
 
 *:G6_26
-I:Ellen Ullman
+I:[26] Ellen Ullman
 S:Productivity has always been the justification for the prepackaging of programming
  :knowledge.  But it is worth asking about the sort of productivity gains that come
  :from the simplifications of click-and-drag.
 
 *:G6_27
-I:Leslie Lamport
+I:[27] Leslie Lamport
 S:There is a race between the increasing complexity of the systems we build and our
  :ability to develop intellectual tools for understanding that complexity.  If the race
  :is won by our tools, then systems will eventually become easier to use and more
@@ -1216,50 +1216,50 @@ S:There is a race between the increasing complexity of the systems we build and 
  :thought.
 
 *:G6_28
-I:W. Edwards Deming
+I:[28] W. Edwards Deming
 S:Sub-optimization is when everyone is for himself.  Optimization is when everyone
  :is working to help the company.
 
 *:G6_29
-I:Mark Zuckerberg
+I:[29] Mark Zuckerberg
 S:The biggest risk is not taking any risk.  In a world that changing really quickly,
  :the only strategy that is guaranteed to fail is not taking risks.
 
 *:G6_30
-I:Henry Petroski
+I:[30] Henry Petroski
 S:The most amazing achievement of the computer software industry is its continuing
  :cancellation of the steady and staggering gains made by the computer hardware
  :industry.
 
 *:G6_31
-I:Timm Martin
+I:[31] Timm Martin
 S:True innovation often comes from the small startup who is lean enough to launch
  :a market but lacks the haft to own it.
 
 *:G6_32
-I:Larry Wall
+I:[32] Larry Wall
 S:Computer language design is just like a stroll in the park.  Jurassic Park, that is.
 
 *:G6_33
-I:David Emery
+I:[33] David Emery
 S:The only people who have anything to fear from free software are those whose products
  :are worth even less.
 
 *:G6_34
-I:Maurice Wilkes
+I:[34] Maurice Wilkes
 S:As soon as we started programming, we found to our surprise that it wasn't as easy
  :to get programs right as we had thought.  Debugging had to be discovered.  I can
  :remember the exact instant when I realized that a large part of my life from then on
  :was going to be spent in finding mistakes in my own programs.
 
 *:G6_35
-I:David Wheeler
+I:[35] David Wheeler
 S:All problems in computer science can be solved by another level of indirection.
  :
  :(Related) But that ususally will create another problem.
 
 *:G6_36
-I:Joel Spolsky
+I:[36] Joel Spolsky
 S:It's harder to read code than to write it.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
@@ -1869,105 +1869,105 @@ N:MENU
 B:Some thoughts on Software Development and Engineering
 
 *:SW_1
-I:Grady Booch
+I:[1] Grady Booch
 S:The function of good software is to make the complex appear to be simple.
 
 *:SW_2
-I:Steve McConnell
+I:[2] Steve McConnell
 S:Good code is its own best documentation.
 
 *:SW_3
-I:Eagleson's Law
+I:[3] Eagleson's Law
 S:Any code of your own that you haven't looked at for six or more months
  :might as well have been written by someone else.
 
 *:SW_4
-I:Tom Cargill
+I:[4] Tom Cargill
 S:The first 90% of code accounts for the first 90% of the development time.
  :The remaining 10% of code accounts for the other 90% of the development time.
 
 *:SW_5
-I:Francis Glassborow
+I:[5] Francis Glassborow
 S:Good programmers use their brains, but good guidelines save us having
  :to think out every case.
 
 *:SW_6
-I:Jeff Atwood
+I:[6] Jeff Atwood
 S:In software, we rarely have meaningful requirements.  Even if we do,
  :the only measure of success that matters is whether our solution solves
  :the customer's shifting idea of what their problem is.
 
 *:SW_7
-I:Bill Clinton
+I:[7] Bill Clinton
 S:Considering the current sad state of our computer programs, software
  :development is clearly still a black art, and cannot yet be called
  :an engineering discipline.
 
 *:SW_8
-I:Jim McCarthy
+I:[8] Jim McCarthy
 S:You can't have great software without a great team, and most software
  :teams behave like dysfunctional families.
 
 *:SW_9
-I:Brian Kernighan
+I:[9] Brian Kernighan
 S:Debugging is twice as hard as writing the code in the first place.
  :Therefore, if you write the code as cleverly as possible, you are
  :-- by definition -- not smart enough to debug it.
 
 *:SW_10
-I:Vidiu Platon
+I:[10] Vidiu Platon
 S:I don't care if it works on your machine! We are not shipping your machine!
 
 *:SW_11
-I:Michael Sinz
+I:[11] Michael Sinz
 S:Programming is like sex: "One" mistake and you're providing support
  :for a lifetime.
 
 *:SW_12
-I:Alan J. Perlis
+I:[12] Alan J. Perlis
 S:There are two ways to write error-free programs; only the third one works.
 
 *:SW_13
-I:Bertrand Meyer
+I:[13] Bertrand Meyer
 S:You can either have software quality or you can have pointer arithmetic,
  :but you cannot have both at the same time.
 
 *:SW_14
-I:Ray Ozzie
+I:[14] Ray Ozzie
 S:Complexity kills.  It sucks the life out of developers, it makes products
  :difficult to plan, build, and test, it introduces security challenges,
  :and it causes end-user and administrator frustration.
 
 *:SW_15
-I:C.A.R Hoare
+I:[15] C.A.R Hoare
 S:There are two ways of constructing a software design.
  :One way is to make it so simple that there are obviously no deficiencies.
  :And the other way is to make it so complicated that there are no
  :obvious deficiencies.
 
 *:SW_16
-I:Mark Minasi
+I:[16] Mark Minasi
 S:If McDonalds were run like a software company, one out of every hundred
  :Big Macs would give you food poisoning, and the response would be,
  :'We're sorry, here's a coupon for two more.'.
 
 *:SW_17
-I:Paul Ehrlich
+I:[17] Paul Ehrlich
 S:To err is human, but to really foul things up you need a computer.
 
 *:SW_18
-I:Mitch Radcliffe
+I:[18] Mitch Radcliffe
 S:A computer lets you make more mistakes faster than any invention in
  :human history - with the possible exceptions of handguns and tequila.
 
 *:SW_19
-I:Bjarne Stroustrup
+I:[19] Bjarne Stroustrup
 S:There's an old story about the person who wished his computer were as easy
  :to use as his telephone.  That wish has come true, since I no longer know
  :how to use my telephone.
 
 *:SW_20
-I:Douglas Crockford, "JavaScript: The Good Parts"
+I:[20] Douglas Crockford, "JavaScript: The Good Parts"
 S:We see a lot of feature-driven product design in which the cost of features
  :is not properly accounted.  Features can have a negative value to customers
  :because they make the products more difficult to understand and use.
@@ -1977,81 +1977,81 @@ S:We see a lot of feature-driven product design in which the cost of features
  :long list of features.
 
 *:SW_21
-I:James Alan Gardner
+I:[21] James Alan Gardner
 S:What kind of programmer is so divorced from reality that she thinks she'll
  :get complex software right the first time?
 
 *:SW_22
-I:Andrew Hunt, "The Pragmatic Programmer"
+I:[22] Andrew Hunt, "The Pragmatic Programmer"
 S:Don't gloss over a routine or piece of code involved in the bug because
  :you "know" it works.  Prove it.  Prove it in this context, with this data,
  :with these boundary conditions.
 
 *:SW_23
-I:Robert C. Martin
+I:[23] Robert C. Martin
 S:Any organization that designs a system will produce a design whose structure
  :is a copy of the organization's communication structure.
 
 *:SW_24
-I:Daniel Roy Greenfeld, Audrey Roy Greenfeld
+I:[24] Daniel Roy Greenfeld, Audrey Roy Greenfeld
 S:Code is read more than it is written.
 
 *:SW_25
-I:Ralph Johnson
+I:[25] Ralph Johnson
 S:Before software can be reusable it first has to be usable.
 
 *:SW_26
-I:Frederick P. Brooks Jr.
+I:[26] Frederick P. Brooks Jr.
 S:What one programmer can do in one month, two programmers can do in two months.
 
 *:SW_27
-I:Steve McConnell
+I:[27] Steve McConnell
 S:It's okay to figure out murder mysteries, but you shouldn't need to figure out
  :code.  You should be able to read it.
 
 *:SW_28
-I:Frederick P. Brooks Jr.
+I:[28] Frederick P. Brooks Jr.
 S:Plan to throw one [implementation] away; you will, anyhow.
 
 *:SW_29
-I:Frederick P. Brooks Jr.
+I:[29] Frederick P. Brooks Jr.
 S:Adding manpower to a late software project makes it later!
 
 *:SW_30
-I:Jim Highsmith
+I:[30] Jim Highsmith
 S:The best way to get a project done faster is to start sooner.
 
 *:SW_31
-I:Douglas Hofstadter
+I:[31] Douglas Hofstadter
 S:Hofstadter's Law: It always takes longer than you expect, even when you take
  :into account Hofstadter's Law.
 
 *:SW_32
-I:Bertrand Meyer
+I:[32] Bertrand Meyer
 S:Incorrect documentation is often worse than no documentation.
 
 *:SW_33
-I:Larry McVoy
+I:[33] Larry McVoy
 S:Architect: SOmeone who knows the difference between that which could be done
  :and that which should be done.
 
 *:SW_34
-I:J.D. Horton
+I:[34] J.D. Horton
 S:Nothing resolves design issues like an implementation.
 
 *:SW_35
-I:Putt's Law
+I:[35] Putt's Law
 S:Putt's Law: Technology is dominated by two types of people:
  :Those who understand what they do not manage.
  :Those who manage what they do not understand.
 
 *:SW_36
-I:Steven Levy
+I:[36] Steven Levy
 S:There has never been an unexpectedly short debugging period in the history
  :of computers.
 
 *:SW_37
-I:Terry Baker
+I:[37] Terry Baker
 S:A program is never less than 90% complete and never more than 95%.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
@@ -2063,24 +2063,24 @@ N:MENU
 B:Some thoughts on Software Development and Engineering #2
 
 *:SW2_1
-I:Steve Maguire
+I:[1] Steve Maguire
 S:Fix the cause, not the symptom.
 
 *:SW2_2
-I:Austin Freeman
+I:[2] Austin Freeman
 S:Simplicity is the soul of efficiency.
 
 *:SW2_3
-I:Kent Beck
+I:[3] Kent Beck
 S:Make it work, make it right, make it fast.
 
 *:SW2_4
-I:Louis Srygley
+I:[4] Louis Srygley
 S:Without requirements or design, programming is the art of adding bugs
  :to an empty text file.
 
 *:SW2_5
-I:Tom Van Vleck
+I:[5] Tom Van Vleck
 S:We know about as much about software quality problems as they knew about
  :the Black Plague in the 1600s.  We've seen the victims' agonies and helped
  :burn the corpses.  We don't know what causes it; we don't really know if
@@ -2088,69 +2088,69 @@ S:We know about as much about software quality problems as they knew about
  :into our water supply.
 
 *:SW2_6
-I:Eric Raymond, "The Art of Unix Programming"
+I:[6] Eric Raymond, "The Art of Unix Programming"
 S:The combination of threads, remote-procedure-call interfaces, and heavyweight
  :object-oriented design is especially dangerous... if you are ever invited
  :onto a project that is supposed to feature all three, fleeing in terror might
  :well be an appropriate reaction.
 
 *:SW2_7
-I:Anonymous
+I:[7] Anonymous
 S:It is easier to change the specification to fit the program than vice versa.
 
 *:SW2_8
-I:Donald E. Knuth
+I:[8] Donald E. Knuth
 S:Beware of bugs in the above code; I have only proved it correct, not tried it.
 
 *:SW2_9
-I:Nathaniel Borenstein
+I:[9] Nathaniel Borenstein
 S:It should be noted that no ethically-trained software engineer would ever
  :consent to write a DestroyBaghdad procedure.  Basic professional ethics would
  :instead require him to write a DestroyCity procedure, to which Baghdad could
  :be given as a parameter.
 
 *:SW2_10
-I:Andrew Tannenbaum
+I:[10] Andrew Tannenbaum
 S:The nice thing about standards is that there are so many of them to choose from.
 
 *:SW2_11
-I:Henry Baker
+I:[11] Henry Baker
 S:Software people would never drive to the office if building engineers and
  :automotive engineers were as cavalier about buildings and autos as the
  :software "engineer" is about his software.
 
 *:SW2_12
-I:Norman Augustine
+I:[12] Norman Augustine
 S:Software is like entropy: It is difficult to grasp, weighs nothing, and obeys
  :the Second Law of Thermodynamics; i.e., it always increases.
 
 *:SW2_13
-I:Bill Curtis
+I:[13] Bill Curtis
 S:In a room full of top software designers, if two agree on the same thing,
  :that's a majority.
 
 *:SW2_14
-I:Antoine de Saint-Exupry
+I:[14] Antoine de Saint-Exupry
 S:Perfection [in design] is achieved, not when there is nothing more to add,
  :but when there is nothing left to take away.
 
 *:SW2_15
-I:Yoggi Berra
+I:[15] Yoggi Berra
 S:In theory, theory and practice are the same.  In practice, they're not.
 
 *:SW2_16
-I:Alan Kay
+I:[16] Alan Kay
 S:Most software today is very much like an Egyptian pyramid with millions of
  :bricks piled on top of each other, with no structural integrity, but just
  :done by brute force and thousands of slaves.
 
 *:SW2_17
-I:D. Adams
+I:[17] D. Adams
 S:A common mistake people make when trying to design something completely
  :foolproof is to underestimate the ingenuity of complete fools.
 
 *:SW2_18
-I:Richard P. Gabriel & Ron Goldman, "Mob Software: The Erotic Life of Code"
+I:[18] Richard P. Gabriel & Ron Goldman, "Mob Software: The Erotic Life of Code"
 S:Software development methodologies evolved under this regime [figure it out,
  :code it up, compile it, run it, throw it away] along with mythical belief in
  :master planning.  Such beliefs were rooted in an elementary-school-level
@@ -2160,7 +2160,7 @@ S:Software development methodologies evolved under this regime [figure it out,
  :a desire born of our fear of failure, our fear of death.
 
 *:SW2_19
-I:Kent Beck, "Smalltalk Best Practice Patterns"
+I:[19] Kent Beck, "Smalltalk Best Practice Patterns"
 S:To me, development consists of two processes that feed each other.  First,
  :you figure out what you want the computer to do.  Then, you instruct the
  :computer to do it.  Trying to write those instructions inevitably changes
@@ -2178,7 +2178,7 @@ S:To me, development consists of two processes that feed each other.  First,
  :sighted.
 
 *:SW2_20
-I:Paul Graham, "ANSI Common Lisp"
+I:[20] Paul Graham, "ANSI Common Lisp"
 S:Planning is necessary evil.  It is a response to risk: the more dangerous an
  :undertaking, the more important it is to plan ahead.  Powerful tools decrease
  :risk, and so decrease the need for planning.  The design of your program can
@@ -2186,7 +2186,7 @@ S:Planning is necessary evil.  It is a response to risk: the more dangerous an
  :available: the experience of implementing it.
 
 *:SW2_21
-I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+I:[21] Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:Software quality has almost nothing to do with algorithmic elegance, compact-
  :ness, or speed - in fact, those attributes do more harm to quality than good.
  :
@@ -2195,27 +2195,27 @@ S:Software quality has almost nothing to do with algorithmic elegance, compact-
  :formality can enhance it.
 
 *:SW2_22
-I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+I:[22] Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:[The spec] Be literal in your interpretation and smile when the designer
  :accuses you of semantic nit-picking.
  :
  :In programming, it's often bugs in the specification that kill you.
 
 *:SW2_23
-I:Boris Beizer, "Software Testing Techniques" 2E. 1990.
+I:[23] Boris Beizer, "Software Testing Techniques" 2E. 1990.
 S:Let's face it: superb code and unit testing will be useless if the overall
  :design is poor.  And how can there be a rational, effective design if no one
  :on the design team can walk you through the more important transactions, step
  :by step and alternative by alternative.
 
 *:SW2_24
-I:Frederick P. Brooks, Jr., "No Silver Bullet - Essence and Acccident in SW Eng"
+I:[24] Frederick P. Brooks, Jr., "No Silver Bullet - Essence and Acccident in SW Eng"
 S:The complexity of software is an essential property, not an accidental one.
  :Hence descriptions of a software entity that abstract away its complexity often
  :abstract aways its essence.
 
 *:SW2_25
-I:Paul Graham
+I:[25] Paul Graham
 S:Great software, likewise, requires a fanatical devotion to beauty.  If you look
  :inside good software, you find that parts that no one is ever supposed to see
  :are beautiful too.  When it comes to code I behave in a way that would make me
@@ -2224,53 +2224,53 @@ S:Great software, likewise, requires a fanatical devotion to beauty.  If you loo
  :variable names.
 
 *:SW2_26
-I:R. Pattis
+I:[26] R. Pattis
 S:The structure of a software system provides the ecology in which code is born,
  :matures, and dies.  A well-designed habitat allows for the successful evolution
  :of all components needed in a software system.
 
 *:SW2_27
-I:D. Vargas
+I:[27] D. Vargas
 S:It's easy to cry "bug" when the truth is that you've got a complex system and
  :sometimes it takes a while to get all the components to co-exist peacefully.
 
 *:SW2_28
-I:Frederick P. Brooks Jr.
+I:[28] Frederick P. Brooks Jr.
 S:Einstein argued that there must be simplified explanations of nature, because
  :God is not capricious or arbitrary.  No such faith comforts the software
  :engineer.
 
 *:SW2_29
-I:Frederick P. Brooks Jr.
+I:[29] Frederick P. Brooks Jr.
 S:[Regarding the addition of more programmers to get a project completed faster]
  :Nine people can't make a baby in a month.
 
 *:SW2_30
-I:Ken Thompson
+I:[30] Ken Thompson
 S:One of my most productive days was throwing away 1,000 lines of code.
 
 *:SW2_31
-I:Gerald Weinberg
+I:[31] Gerald Weinberg
 S:If builders built buildings the way programmers wrote programs, then the first
  :woodpecker that came along would destroy civilization.
 
 *:SW2_32
-I:Andy Hunt
+I:[32] Andy Hunt
 S:No one in brief history of computing has ever written a piece of perfect
  :software.  It's unlikely that you'll be the first.
 
 *:SW2_33
-I:Andy Hunt and Dave Thomas
+I:[33] Andy Hunt and Dave Thomas
 S:Don't repeat yourself.  Every piece of knowledge must have a single, unambiguous,
  :authoritative representation within a system.
 
 *:SW2_34
-I:Phil Karlton
+I:[34] Phil Karlton
 S:There are only two hard things in computer science: cache invalidation and
  :naming things.
 
 *:SW2_35
-I:Leon Bambrick
+I:[35] Leon Bambrick
 S:There are two hard things in computer science: cache invalidation, naming things,
  :and off-by-one errors.
 
@@ -2283,35 +2283,35 @@ N:MENU
 B:Some thoughts on Software Development and Engineering #2
 
 *:SW3_1
-I:Barry Boehm
+I:[1] Barry Boehm
 S:Poor management can increase software costs more rapidly than any other factor.
 
 *:SW3_2
-I:Anna Nachesa
+I:[2] Anna Nachesa
 S:If the programmers like each other, they play a game called 'pair programming'.
  :And if not then the game is called 'peer review'.
 
 *:SW3_3
-I:Steve McConnell
+I:[3] Steve McConnell
 S:It's better to wait for a productive programmer to become available than it is
  :to wait for the first available programmer to become productive.
 
 *:SW3_4
-I:Anonymous
+I:[4] Anonymous
 S:You start coding.  I'll go find out what they want.
 
 *:SW3_5
-I:Scoff Cherf
+I:[5] Scoff Cherf
 S:To go faster, slow down.  Everybody who knows about orbital mechanics
  :understands that.
 
 *:SW3_6
-I:Albert Einstein
+I:[6] Albert Einstein
 S:The significant problems we face cannot be solved by
  :the same level of thinking that created them.
 
 *:SW3_7
-I:Tom Van Vleck
+I:[7] Tom Van Vleck
 S:When somebody begins a sentence with "IT WOULD BE NICE IF.."
  :the right thing to do is to wait politely for the speaker to finish.
  :No project ever gets around to the it-would-be-nice-features:
@@ -2319,50 +2319,50 @@ S:When somebody begins a sentence with "IT WOULD BE NICE IF.."
  :"WE HAVE TO.." and pay close attention, and see if you agree.
 
 *:SW3_8
-I:Anonymous
+I:[8] Anonymous
 S:Why do we never have time to do it right, but always have time to DO IT OVER?
 
 *:SW3_9
-I:Bill Langley
+I:[9] Bill Langley
 S:The perfect project is POSSIBLE if one first documents a list of
  :ALL the UNKNOWNS.
 
 *:SW3_10
-I:Sam Redwine, "Proceedings of the 4th International Software Process Workshop"
+I:[10] Sam Redwine, "Proceedings of the 4th International Software Process Workshop"
 S:Software and cathedrals are much the same:
  :first we build them, then we pray.
 
 *:SW3_11
-I:Frederick P. Brooks Jr.
+I:[11] Frederick P. Brooks Jr.
 S:The bearing of a child takes nine months, no matter how many women are assigned.
 
 *:SW3_12
-I:Robert C. Martin
+I:[12] Robert C. Martin
 S:Indeed, the ratio of time spent reading versus writing is well over 10 to 1.
  :We are constantly reading old code as part of the effort to write new code.
  :Therefore, making it easy to read makes it easier to write.
 
 *:SW3_13
-I:Frederick P. Brooks Jr.
+I:[13] Frederick P. Brooks Jr.
 S:The conclusion is simple: if a 200-man project has 25 managers who are the
  :most competent and experienced programmers, fire the 175 troops and put the
  :managers back to programming.
 
 *:SW3_14
-I:Yegor Bugayenko, "Code Ahead: Vol. 1"
+I:[14] Yegor Bugayenko, "Code Ahead: Vol. 1"
 S:Any software project must have a technical leader, who is responsible for all
  :technical decisions made by the team and have enough authority to make them.
  :Responsibility and authority are two mandatory components that must be present
  :in order to make it possible to call such a person an architect.
 
 *:SW3_15
-I:Scott Rosenberg, "Dreaming in Code"
+I:[15] Scott Rosenberg, "Dreaming in Code"
 S:Software is easy to make, except when you want it to do something new.
  :And then, of course, there is a corollary: The only software that's worth
  :making is software that does something new.
 
 *:SW3_16
-I:Edmond Lau, "The Effective Engineer"
+I:[16] Edmond Lau, "The Effective Engineer"
 S:In his book, Software Abstractions, MIT Professor Daniel Jackson explains just
  :how important it is to choose the right abstractions.  "Pick the right ones,
  :and programming will flow naturally from design; modules will have small and
@@ -2373,14 +2373,14 @@ S:In his book, Software Abstractions, MIT Professor Daniel Jackson explains just
  :the simplest changes will be hard to make.
 
 *:SW3_17
-I:Piethein Strengholt
+I:[17] Piethein Strengholt
 S:Connascence, in the context of software engineering, refers to the degree of
  :coupling between software components.  Software components are connascent if
  :a change in one would require the other(s) to be modified in order to maintain
  :the overall correctness of the system.
 
 *:SW3_18
-I:Laurent Bossavit, "The Leprechauns of Software Engineering"
+I:[18] Laurent Bossavit, "The Leprechauns of Software Engineering"
 S:A lot of research in software engineering strikes me as hopelessly naive in
  :one or two ways.  Most of it fails entirely to account for the social and
  :belief aspects altogether.  It looks at its object of inquiry as if it was
@@ -2389,7 +2389,7 @@ S:A lot of research in software engineering strikes me as hopelessly naive in
  :of a test tube.
 
 *:SW3_19
-I:Dominica Degrandis, "Making Work Visible"
+I:[19] Dominica Degrandis, "Making Work Visible"
 S:Businesses frequently prioritize new feature releases over fixing technical
  :debt.  They choose to work on revenue-generating work instead of revenue-
  :protection work.  This rarely works out as the business hopes, particularly
@@ -2397,80 +2397,80 @@ S:Businesses frequently prioritize new feature releases over fixing technical
  :engineers away from the newer projects.
 
 *:SW3_20
-I:Niklaus Wirth
+I:[20] Niklaus Wirth
 S:The belief that complex systems require armies of designers and programmers is
  :wrong.  A system that is not understood in its entirety, or at least to a
  :significant degree of detail by a single individual, should probably not
  :be built.
 
 *:SW3_21
-I:Niklaus Wirth
+I:[21] Niklaus Wirth
 S:A primary cause of complexity is that software vendors uncritically adopt
  :almost any feature that users want.
 
 *:SW3_22
-I:Frederick P. Brooks Jr.
+I:[22] Frederick P. Brooks Jr.
 S:Good judgement comes from experience, and experience comes from bad judgement.
 
 *:SW3_23
-I:Dennis Ritchie
+I:[23] Dennis Ritchie
 S:... with proper design, the features come cheaply.  This approach is arduous,
  :but continues to succeed.
 
 *:SW3_24
-I:Bertrand Meyer
+I:[24] Bertrand Meyer
 S:Correctness is clearly the prime quality.  If a system does not do what it is
  :suppose to do, then everything else about it matters little.
 
 *:SW3_25
-I:Frederick P. Brook Jr.
+I:[25] Frederick P. Brook Jr.
 S:Conceptual integrity is the most important consideration in system design.
 
 *:SW3_26
-I:Eric Raymond
+I:[26] Eric Raymond
 S:Ugly programs are like ugly suspension bridges: they're much more liable to
  :collapse than pretty ones, because the way humans (especially engineer-human)
  :perceive beauty is intimately related to our ability to process and understand
  :complexity.
 
 *:SW3_27
-I:Andy Hunt and David Thomas
+I:[27] Andy Hunt and David Thomas
 S:It's not at all important to get it right the first time.  It's vitally
  :important to get it right the last time.
 
 *:SW3_28
-I:Taligent's Guide to Designing Programs
+I:[28] Taligent's Guide to Designing Programs
 S:Remember that there is no code faster than no code.
 
 *:SW3_29
-I:John Carmack
+I:[29] John Carmack
 S:... the cost of adding a feature isn't just the time it takes to code it.
  :The cost also includes the addition of an obstacle to future expansion.
  :The trick is to pick the features that don't fight each other.
 
 *:SW3_30
-I:Frederick P. Brooks Jr.
+I:[30] Frederick P. Brooks Jr.
 S:The fundamental problem with program maintenance is that fixing a defect has
  :a substantial (20-50 percent) chance of introducing another.  So the whole
  :process is two steps forward and one step backward.
 
 *:SW3_31
-I:Kevlin Henney, "The Imperial Clothing Crisis" (2002)
+I:[31] Kevlin Henney, "The Imperial Clothing Crisis" (2002)
 S:Refactoring provides enough energy to a system for it to relax into a new
  :and more comfortable state, a new local minimum.
 
 *:SW3_32
-I:Kent Beck
+I:[32] Kent Beck
 S:Good engineering is not primarily making good decisions, it's seeking good
  :feedback which lets you quickly discard bad decisions.
 
 *:SW3_33
-I:Bjarne Stroustrup
+I:[33] Bjarne Stroustrup
 S:The most important single aspect of software development is to be clear
  :about what you are trying to build.
 
 *:SW3_34
-I:David Parnas
+I:[34] David Parnas
 S:Q: What is the most often-overlooked risk in software engineering?
  :
  :A: Incompetent programmers.  There are estimates that the number of programmers
