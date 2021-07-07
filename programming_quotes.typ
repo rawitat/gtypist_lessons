@@ -3354,8 +3354,8 @@ S:non-determinism = parallel processing + mutable state
 
 *:L1_29
 I:[29] Wikipedia
-S:In computer science, functional programming is a programming paradigm — 
- :a style of building the structure and elements of computer programs — 
+S:In computer science, functional programming is a programming paradigm -
+ :a style of building the structure and elements of computer programs -
  :that treats computation as the evaluation of mathematical functions and avoids
  :changing-state and mutable data.
  :
