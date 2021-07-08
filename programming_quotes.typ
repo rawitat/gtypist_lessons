@@ -969,7 +969,7 @@ S:Simplicity is the ultimate sophistication.
 *:G5_19
 I:[19] Niklaus Wirth
 S:Increasingly, people seem to misinterpret complexity as sophistication, which
- :is baffling —-the incomprehensible should cause suspicion rather than admiration.
+ :is baffling -- the incomprehensible should cause suspicion rather than admiration.
  :Possibly this trend results from a mistaken belief that using a somewhat
  :mysterious device confers an aura of power on the user.
 
