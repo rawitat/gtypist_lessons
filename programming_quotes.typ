@@ -3607,11 +3607,6 @@ S:There are many ways of trying to understand programs.  People often rely too m
  :program to see if it does what you expected.  Another way, which ML advocates, is to
  :install some means of understanding in the very programs themselves
 
-*:L2_33
-I:[33] Philip Wadler
-S:Whereas some declerative programmers only pay lip service to equational reasoning,
- :users of functional languages exploit them every time they run a compiler, whether
- :they notice it or not.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
