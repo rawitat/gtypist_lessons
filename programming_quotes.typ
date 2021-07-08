@@ -3228,10 +3228,9 @@ S:Lisp isn't a language, it's a building material.
 
 *:L1_8
 I:[8] Philip Greenspun
-S:Greenspun's Tenth Rule of Programming: any sufficiently
- :complicated C or Fortran program contains an ad hoc
- :informally-specified bug-ridden slow implementation of
- :half of Common Lisp.
+S:Greenspun's Tenth Rule of Programming: 
+ :Any sufficiently complicated C or Fortran program contains an ad hoc
+ :informally-specified bug-ridden slow implementation of half of Common Lisp.
 
 *:L1_9
 I:[9] Eric Raymond, "How to Become a Hacker"
