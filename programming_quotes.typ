@@ -4519,7 +4519,7 @@ S:99 little bugs in the code.
 *:FUNNY_24
 I:[24] Bill Pfeifer
 S:If it works, leave it alone -- there's no need to understand it.
- :It it fails, try to fix it -- there's no time to understand it.
+ :If it fails, try to fix it -- there's no time to understand it.
 
 *:FUNNY_25
 I:[25] Christopher Thompson
