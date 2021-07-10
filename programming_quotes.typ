@@ -3599,13 +3599,6 @@ S:The fact that the same symbolic programming primitives work for those as work
  :for math kinds of things, I think, really validates the idea of symbolic
  :programming being something pretty general.
 
-*:L2_32
-I:[32] Robin Milner, Foreword to 'The Little MLer'
-S:There are many ways of trying to understand programs.  People often rely too much on
- :one way, which is called "debugging" and consists of running a partly-understood
- :program to see if it does what you expected.  Another way, which ML advocates, is to
- :install some means of understanding in the very programs themselves
-
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
