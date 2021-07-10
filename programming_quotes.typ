@@ -1311,7 +1311,7 @@ S:One of the most feared expressions in modern times is "The computer is down".
 *:G7_9
 I:[9] Andy Rooney
 S:Computers may save time but they sure waste a lot of paper.  About 98 percent
- :of everything printed out by a computer garbage that no one ever reads.
+ :of everything printed out by a computer garbage is that no one ever reads.
 
 *:G7_10
 I:[10] Reshma Saujani
