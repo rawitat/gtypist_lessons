@@ -2280,7 +2280,7 @@ N:MENU
 # ###########################################################################
 
 *:SW_ENG_3
-B:Some thoughts on Software Development and Engineering #2
+B:Some thoughts on Software Development and Engineering #3
 
 *:SW3_1
 I:[1] Barry Boehm
@@ -2486,43 +2486,44 @@ N:MENU
 # ###########################################################################
 
 *:SW_ENG_4
-B:Some thoughts on Software Development and Engineering #2
+B:Some thoughts on Software Development and Engineering #4
 
 *:SW4_1
 I:[1] Steve Swartz
-S:When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.
- :Scalability is about building wider roads, not about building faster cars.
+S:When you are stuck in a traffic jam with a Porsche, all you do is burn more gas
+ :in idle.  Scalability is about building wider roads, not about building faster cars.
 
 *:SW4_2
 I:[2] Paul Graham
-S:Everyone by now presumably knows about the danger of premature optimization.  I think we
- :should be just as worried about premature design -- designing too early what a program
- :should do.
+S:Everyone by now presumably knows about the danger of premature optimization.
+ :I think we should be just as worried about premature design -- designing too early
+ :what a program should do.
 
 *:SW4_3
 I:[3] Danny Thorpe
-S:Programming without an overall architecture or design in mind is like exploring a cave
- :with only a flashlight: You don't know where you've been, you don't know where you're
- :going, and you don't know quite where you are.
+S:Programming without an overall architecture or design in mind is like exploring
+ :a cave with only a flashlight: You don't know where you've been, you don't know
+ :where you're going, and you don't know quite where you are.
 
 *:SW4_4
 I:[4] David Hubel
-S:We need above all to know about changes; no one wants or needs to be reminded 16 hours
- :a day that his shoes are on.
+S:We need above all to know about changes; no one wants or needs to be reminded
+ :16 hours a day that his shoes are on.
 
 *:SW4_5
 I:[5] IO Angell
-S:Today, most software exists, not to solve a problem, but to interface with other software.
+S:Today, most software exists, not to solve a problem,
+ :but to interface with other software.
 
 *:SW4_6
 I:[6] David Parnas
-S:As a rule, software systems do not work well until they have been used, and have failed
- :repeatedly, in real applications.
+S:As a rule, software systems do not work well until they have been used, and have
+ :failed repeatedly, in real applications.
 
 *:SW4_7
 I:[7] Gordon Schulmeyer
-S:In a software project team of 10, there are probably 3 people who produce enough defects
- :to make them net negative producers.
+S:In a software project team of 10, there are probably 3 people who produce enough
+ :defects to make them net negative producers.
 
 *:SW4_8
 I:[8] Edsger Dijkstra
