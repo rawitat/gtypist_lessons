@@ -1029,8 +1029,8 @@ S:Premature optimization, that's like a sneeze.
 
 *:G5_32
 I:[32] John Romero
-S:You might not think that programmers are artists, but programming is an
- :extremely creative profession. It's logic-based creativity.
+S:You might not think programmers are artists, but programming is an extremely
+ :creative profession.  It's logic-based creativity.
 
 *:G5_33
 I:[33] Ellen Ullman
@@ -1041,11 +1041,6 @@ S:Programming is the art of algorithm design and the craft of debugging
 I:[34] Edsger W. Dijkstra
 S:Programming is one of the most difficult branches of applied mathematics;
  :the poorer mathematicians had better remain pure mathematicians.
-
-*:G5_35
-I:[35] John Romero
-S:You might not think programmers are artists, but programming is an extremely
- :creative profession.  It's logic-based creativity.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
