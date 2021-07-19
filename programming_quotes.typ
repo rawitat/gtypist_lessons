@@ -3455,7 +3455,7 @@ S:Lisp has all the visual appeal of oatmeal with fingernail clippings mixed in.
 
 *:L2_11
 I:[11] Alan Perlis, in foreward of SICP
-S:Pascal is for building pyramids -- imposing, breaktaking, static structures
+S:Pascal is for building pyramids -- imposing, breathtaking, static structures
  :built by armies pushing heavy blocks into places.  Lisp is for building 
  :organisms -- imposing, breaktaking, dynamic structures built by squads
  :fitting fluctuating myriads of simpler organisms into place.
