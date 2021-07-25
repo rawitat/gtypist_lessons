@@ -1251,7 +1251,7 @@ S:As soon as we started programming, we found to our surprise that it wasn't as 
 I:[35] David Wheeler
 S:All problems in computer science can be solved by another level of indirection.
  :
- :(Related) But that ususally will create another problem.
+ :(Related) But that usually will create another problem.
 
 *:G6_36
 I:[36] Joel Spolsky
