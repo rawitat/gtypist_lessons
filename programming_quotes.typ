@@ -1175,8 +1175,8 @@ S:But active programming consists of the design of new programs, rather than
 *:G6_22
 I:[22] Niklaus Wirth
 S:Clearly, programming courses should teach methods of design and construction,
- :and the selected examples should be such that a grdual development can be nicely
- :demonstrated.
+ :and the selected examples should be such that a gradual development can be
+ :nicely demonstrated.
 
 *:G6_23
 I:[23] Brian Kernighan
