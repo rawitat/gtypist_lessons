@@ -3360,7 +3360,7 @@ S:In computer science, functional programming is a programming paradigm -
 *:L1_30
 I:[30] Marry Rose Cook, "A Practical Introduction to Functional Programming (article)"
 S:When people talk about functional programming, they mention a dizzying number
- :of ‘functional' characteristics.  They mention immutable data, first class
+ :of 'functional' characteristics.  They mention immutable data, first class
  :functions, and tail call optimisation.  These are language features that aid
  :functional programming.
 
@@ -3378,7 +3378,7 @@ I:[32] Marry Rose Cook, continue from previous
 S:(Continue) Ignore all that.  Functional code is characterised by one thing:
  :the absence of side effects.  It (a pure function) doesn't rely on data outside
  :the current function, and it doesn't change data that exists outside the
- :current function.  Every other ‘functional' thing can be derived from this
+ :current function.  Every other 'functional' thing can be derived from this
  :property.  Use it as a guide rope as you learn.”
 
 *:L1_33
