@@ -3130,7 +3130,7 @@ S:To design for compactness and orthogonality, start from zero.
 *:UNIX_35
 I:[35]
 S:Web pages get bogged down in the dispute over whether the reader or author
- :should control the appearance
+ :should control the appearance.
 
 *:UNIX_36
 I:[36]
