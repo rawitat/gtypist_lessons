@@ -2071,7 +2071,8 @@ S:Make it work, make it right, make it fast.
 
 *:SW2_4
 I:[4] Louis Srygley
-S:Without requirements or design, programming is the art of adding bugs
+S:Without requirements or design,
+ :programming is the art of adding bugs
  :to an empty text file.
 
 *:SW2_5
