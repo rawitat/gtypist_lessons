@@ -2027,7 +2027,7 @@ S:Incorrect documentation is often worse than no documentation.
 
 *:SW_33
 I:[33] Larry McVoy
-S:Architect: SOmeone who knows the difference between that which could be done
+S:Architect: Someone who knows the difference between that which could be done
  :and that which should be done.
 
 *:SW_34
