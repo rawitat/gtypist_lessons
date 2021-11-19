@@ -873,12 +873,14 @@ S:There is no agreement of what a programming language really is
  :
  :Is a programming language a tool for instructing machines?
  :A means of communicating between programmers?
- :A vehicle forexpressing high-level designs?
- :A notation for algorithms? A way of expressing relationships between concepts?
- :A tool for experimentation? A means of controlling computerized devices?
+ :A vehicle for expressing high-level designs?
+ :A notation for algorithms?
+ :A way of expressing relationships between concepts?
+ :A tool for experimentation?
+ :A means of controlling computerized devices?
  :
  :My view is that a general-purpose programming language must be all of those
- :to serve its diverse set of users.  The only thing a  language cannot be
+ :to serve its diverse set of users.  The only thing a language cannot be
  :"and survive" is a mere collection of "neat" features.
 
 *:G5_6
