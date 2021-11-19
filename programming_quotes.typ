@@ -868,8 +868,8 @@ S:The tools we use have a profound (and devious!) influence on our
 
 *:G5_5
 I:[5] Bjarne Stroustrup, "The Design and Evolution of C++"
-S:There is no agreement of what a programming language really is and what its
- :main purpose is supposed to be.
+S:There is no agreement of what a programming language really is
+ :and what its main purpose is supposed to be.
  :
  :Is a programming language a tool for instructing machines?
  :A means of communicating between programmers?
@@ -877,9 +877,9 @@ S:There is no agreement of what a programming language really is and what its
  :A notation for algorithms? A way of expressing relationships between concepts?
  :A tool for experimentation? A means of controlling computerized devices?
  :
- :My view is that a general-purpose programming language
- :must be all of those to serve its diverse set of users.  The only thing a 
- :language cannot be "and survive" is a mere collection of "neat" features.
+ :My view is that a general-purpose programming language must be all of those
+ :to serve its diverse set of users.  The only thing a  language cannot be
+ :"and survive" is a mere collection of "neat" features.
 
 *:G5_6
 I:[6] Bjarne Stroustrup, "The Design and Evolution of C++"
