@@ -330,7 +330,7 @@ S:Besides a mathematical inclination, an exceptionally good mastery of one's
 *:G2_16
 I:[16] Paul Graham, "Beating the Averages"
 S:Ordinary technology changes fast.  But programming languages are different:
- :programming languages are not just technology, but what programmers think in.
+ :Programming languages are not just technology, but what programmers think in.
  :They're half technology and half religion.  And so the median language, meaning
  :whatever language the median programmer uses, moves as slow as an iceberg.
 
