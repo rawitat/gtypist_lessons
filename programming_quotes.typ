@@ -7,7 +7,7 @@
 # The main menu
 *:MENU
 B:The Programming and Programming Languages Quotes Course
-M: "The Programming Quotes series contains the following lessons"
+M:"The Programming Quotes series contains the following lessons"
  :GENERAL       "General Wisdoms                Wisdoms in Programming and Code Writing"
  :GENERAL_2     "General Wisdoms #2             Continuation of the above"
  :GENERAL_3     "General Wisdoms #3             Yet another continuation from above"
