@@ -8,8 +8,9 @@
 *:MENU
 B:My Favorite Quotes from My Favorite Movies
 M:"This series contains the following lessons"
- :SCI_FI_1       "Science Fictions                Quotes from Science Fiction Movies"
- :HISTORICAL_1   "Historical Fictions             Quotes from Movies based on True Stories"
+ :SCI_FI_1        "Science Fictions                 Quotes from Science Fiction Movies"
+ :HISTORICAL_1    "Historical Fictions              Quotes from Movies based on True Stories"
+ :CRIME_1         "Crime & Mafia Drama              Quotes from Crime, Mafia, Gangster, etc"
 
 # ###########################################################################
 
@@ -195,6 +196,14 @@ I:[4] Sam Houston, "The Alamo" (2004)
 S:You will remember this battle! Each minute! Each second! Until the day that you die!
  :But that is for tomorrow gentlemen.  For today, "Remember The Alamo!"
 
+Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
 # ###########################################################################
+
+*:CRIME_1
+B:Quotes from Crime, Mafia, Gangster, etc
+
+*:CRIME_1_1
+I:[1] Don Vito Corleone, "The Godfather"
+S:I'm going to make him an offer he can't refuse.
