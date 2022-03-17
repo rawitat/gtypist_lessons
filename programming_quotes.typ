@@ -1577,6 +1577,12 @@ I:[39] Peter Hilton
 S:Computation involves going from a question to an answer.
  :Mathematics involves going from an answer to a question.
 
+*:PHIL_40
+I:[40] Seth Lloyd
+S:A classical computation is like a solo voice -- one line of pure tones succeeding
+ :each other.  A quantum computation is like a symphony -- many lines of tones
+ :interfering with one another.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
