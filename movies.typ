@@ -36,7 +36,7 @@ S:Pass on what you learned.
  :That is the true burden of all masters.
 
 *:SF_1_4
-I:[4] Duncan Idaho to Paul Atreides, "Dune" (2001)
+I:[4] Duncan Idaho to Paul Atreides, "Dune" (2021)
 S:Dreams make good stories.
  :But everything important happens when we're awake.
  :Because that's when we make things happen.
@@ -167,14 +167,14 @@ I:[24] Seraph to Neo, "The Matrix Reloaded"
 S:You do not truly know someone until you fight them.
 
 *:SF_1_25
-I:[25] Lady Jessica of Atreides, "Dune" (2001)
+I:[25] Lady Jessica of Atreides, "Dune" (2021)
 S:I must not fear.  Fear is the mind-killer.  Fear is the little death that brings
  :obliteration.  I will face my fear and I will permit it to pass over me and through me.
  :And when it has gone past... I will turn the inner eye to see its path.  Where the fear
  :has gone there will be nothing.  Only I will remain.
 
 *:SF_1_26
-I:[26] Jamis to Paul (in his vision), "Dune" (2001)
+I:[26] Jamis to Paul (in his vision), "Dune" (2021)
 I:The mystery of life isn't a problem to solve, but a reality to experience.
  :A process that cannot be understood by stopping it.
  :We must move with the flow of the process.
@@ -182,13 +182,13 @@ I:The mystery of life isn't a problem to solve, but a reality to experience.
  :We must flow with it.
 
 *:SF_1_27
-I:[27] Duke Leto Atreides to Paul, "Dune" (2001)
+I:[27] Duke Leto Atreides to Paul, "Dune" (2021)
 S:A great man doesn't seek to lead; he is called to it.
  :But if your answer is no, you'd still be the only thing I ever needed you to be:
  :my son.
 
 *:SF_1_28
-I:[28] Mother Gaius Helen Mohiam to Paul, "Dune" (2001)
+I:[28] Mother Gaius Helen Mohiam to Paul, "Dune" (2021)
 S:An animal caught in a trap will gnaw off its own leg to escape.
  :What will you do?
 

@@ -3392,7 +3392,7 @@ S:(Continue) Ignore all that.  Functional code is characterised by one thing:
  :the absence of side effects.  It (a pure function) doesn't rely on data outside
  :the current function, and it doesn't change data that exists outside the
  :current function.  Every other 'functional' thing can be derived from this
- :property.  Use it as a guide rope as you learn.”
+ :property.  Use it as a guide rope as you learn.
 
 *:L1_33
 I:[33] Marry Rose Cook, continue from previous
