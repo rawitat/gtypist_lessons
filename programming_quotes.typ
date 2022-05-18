@@ -3341,6 +3341,7 @@ S:Haskell programs are easy to parallelize, and to run efficiently on multicore
 I:[25] Robert C. Martin
 S:You don't need semaphores if you don't have side effects! You can't have
  :concurrent update problems if you don't update!
+ :
  :So that's the big deal about functional languages; and it is one big fricking
  :deal.  There is a freight train barreling down the tracks towards us, with
  :multi-core emblazoned on it; and you'd better be ready by the time it gets here.
@@ -4210,8 +4211,9 @@ S:The object-oriented model makes it easy to build up programs by accretion.
  :write spaghetti code.
 
 *:OOP_20
-I:[20] Rob Pike
-S:Object-oriented design is the roman numerals of computing.
+I:[20] Bjarne Stroustrup
+S:Certainly not every good program is object-oriented,
+ :and not every object-oriented program is good.
 
 *:OOP_21
 I:[21] Edsger Dijkstra
