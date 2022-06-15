@@ -1528,7 +1528,7 @@ S:To me quantum computation is a new and deeper and better way to understand the
 *:PHIL_31
 I:[31] Steven Pinker
 S:I spent 20 years doing research on regular and irregular verbs, not because I'm an
- :obsessive language lover but because it seemed to me that tey tapped into a
+ :obsessive language lover but because it seemed to me that they tapped into a
  :fundamental distinction in language processing, indeed in cognitive processing,
  :between memory lookup and rule-driven computation.
 
