@@ -591,8 +591,8 @@ S:The limits of your language are the limits of your world.
 
 *:G3_22
 I:[22] W. Wulf
-S:More bugs have introduced into programs through premature optimization than
- :any other cause, including pure stupidity.
+S:More bugs have been introduced into programs through premature optimization
+ :than any other cause, including pure stupidity.
  :
  :(Sometimes quoted as:)
  :More computing sins are committed in the name of efficiency, without 
