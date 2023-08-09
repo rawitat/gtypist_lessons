@@ -4,7 +4,7 @@ This is "Collection of famous quotes in computer programming, software developme
 # Requirement
 - GNU Typist (any version should do, I tested with 2.9.x)
 
-## Intall GNU Typist using Homebrew
+## Install GNU Typist using Homebrew
 
 To install gnu-typist version 2.9 using Homebrew, you can run the following command in your terminal:
 
