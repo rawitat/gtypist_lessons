@@ -8,8 +8,8 @@ This is "Collection of famous quotes in computer programming, software developme
 
 To install gnu-typist version 2.9 using Homebrew, you can run the following command in your terminal:
 
-```sh
-brew install gnu-typist
+```bash
+$ brew install gnu-typist
 ```
 
 # Usage
