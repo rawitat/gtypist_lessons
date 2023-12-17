@@ -2921,7 +2921,7 @@ S:Don't comment bad code -- rewrite it.
 
 *:ELEM_P_52
 I:[52]
-S:Use variable names that meaning something.
+S:Use variable names that mean something.
 
 *:ELEM_P_53
 I:[53]
