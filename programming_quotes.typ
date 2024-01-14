@@ -3397,7 +3397,7 @@ S:(Continue) Ignore all that.  Functional code is characterised by one thing:
 
 *:L1_33
 I:[33] Marry Rose Cook, continue from previous
-S:Functional code is characterised by one thing: the absence of side effects
+S:Functional code is characterised by one thing: the absence of side effects.
 
 *:L1_34
 I:[34] Alvin Alexander
