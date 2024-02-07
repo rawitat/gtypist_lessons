@@ -1826,7 +1826,7 @@ S:We have, then, three different ways of looking at how things work.  We can
 I:[33] Gary William Flake, "The Computational Beauty of Nature"
 S:Any discrete piece of information can be represented by a set of numbers.
  :Systems that compute can represent powerful mappings from one set of numbers
- :to another.  Moreoever, any program on any computer is equivalent to a number
+ :to another.  Moreover, any program on any computer is equivalent to a number
  :mapping.  These mappings can be thought of as statements about the properties
  :of numbers; hence, there is a close connection between computer programs and
  :mathematical proofs.
