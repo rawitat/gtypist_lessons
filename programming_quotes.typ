@@ -3244,8 +3244,8 @@ S:Greenspun's Tenth Rule of Programming:
 *:L1_9
 I:[9] Eric Raymond, "How to Become a Hacker"
 S:Lisp is worth learning for the profound enlightenment
- :experience you will have when you finally get it; That
- :experience will make you a better programmer for the rest
+ :experience you will have when you finally get it;
+ :That experience will make you a better programmer for the rest
  :of your days, even if you never actually use Lisp itself a lot.
 
 *:L1_10
