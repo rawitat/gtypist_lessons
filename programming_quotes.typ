@@ -396,7 +396,7 @@ S:Good programmers know what's beautiful and bad ones don't.
 I:[25] Paul Graham
 S:A really good language should be both clean and dirty: cleanly designed, with
  :a small core of well understood and highly orthogonal operators, but dirty in
- :the sense that it lets hacker have their way with it.
+ :the sense that it lets hackers have their way with it.
  :
  :A real hacker's language will always have a slightly raffish character.
 
