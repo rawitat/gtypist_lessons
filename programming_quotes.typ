@@ -414,7 +414,7 @@ S:Fixing fresh bugs is easier than fixing old ones.  It's usually fairly quick
 I:[27] Paul Graham
 S:When you catch bugs early, you also get fewer compounded bugs.  Compounded
  :bugs are two separate bugs that interact: you trip going downstairs, and when
- :you reach for the handrail it come off in your hand.  In software this kind of
+ :you reach for the handrail it comes off in your hand.  In software this kind of
  :bug is the hardest to find, and also tends to have the worst consequences.
  :The traditional "break everything and then filter out the bugs" approach
  :inherently yields a lot of compound bugs.  And software released in a series
