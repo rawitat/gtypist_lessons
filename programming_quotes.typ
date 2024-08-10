@@ -1876,6 +1876,25 @@ N:MENU
 *:MACHINE_INT
 B:Machine, Artificial, and Intelligence in General
 
+*:MI_1
+I:Alan Turing, 1950
+S:A computer would deserve to be called intelligent
+ :if it could deceive a human into believing that it was human.
+
+*:MI_2
+I:Alan Turing, 1947
+S:I believe that at the end of the century the use of words and general
+ :educated opinion will have altered so much that one will be able to
+ :speak of machines thinking without expecting to be contradicted.
+
+*:MI_3
+I:Alan Turing, 1951
+S:It seems probable that once the machine thinking method had started,
+ :it would not take long to outstrip our feeble powers.
+ :
+ :They would be able to converse with each other to sharpen their wits.
+ :At some stage therefore, we should have to expect the machines to take control.
+
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
 
