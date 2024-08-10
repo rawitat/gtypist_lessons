@@ -222,7 +222,7 @@ S:Programming is rather thankless.  You see your works become replaced by
 
 *:G_34
 I:[34] Alan J. Perlis
-S:When someone say: "I want a programming language in which I need only say
+S:When someone says: "I want a programming language in which I need only say
  :what I wish done", give him a lollipop.
 
 *:G_35
@@ -397,7 +397,7 @@ S:Good programmers know what's beautiful and bad ones don't.
 I:[25] Paul Graham
 S:A really good language should be both clean and dirty: cleanly designed, with
  :a small core of well understood and highly orthogonal operators, but dirty in
- :the sense that it lets hacker have their way with it.
+ :the sense that it lets hackers have their way with it.
  :
  :A real hacker's language will always have a slightly raffish character.
 
@@ -415,7 +415,7 @@ S:Fixing fresh bugs is easier than fixing old ones.  It's usually fairly quick
 I:[27] Paul Graham
 S:When you catch bugs early, you also get fewer compounded bugs.  Compounded
  :bugs are two separate bugs that interact: you trip going downstairs, and when
- :you reach for the handrail it come off in your hand.  In software this kind of
+ :you reach for the handrail it comes off in your hand.  In software this kind of
  :bug is the hardest to find, and also tends to have the worst consequences.
  :The traditional "break everything and then filter out the bugs" approach
  :inherently yields a lot of compound bugs.  And software released in a series
