@@ -17,6 +17,7 @@ M:"The Programming Quotes series contains the following lessons"
  :GENERAL_7     "General Wisdoms #7             As the name said, again"
  :PHILOSOPHY    "Philosophy of Computing        Man, Mind, Machine, etc"
  :PHILOSOPHY_2  "Philosophy of Computing #2     Continuation from aboove"
+ :MACHINE_INT   "Machine Intelligence           Machine, Artificial, and Intelligence in General"
  :SW_ENG        "Software Engineering           Some thoughts on Software Dev/Eng"
  :SW_ENG_2      "Software Engineering #2        Continuation of the above"
  :SW_ENG_3      "Software Engineering #3        Just like that, from above"
@@ -1866,6 +1867,33 @@ S:[Cont] Recall the point that was made about functions describing relationships
  :however, this has not happened.  The fact that every posed model of computation
  :has always been exactly equivalent to (or weaker than) one of the others lend
  :strong support to the Church-Turing thesis.
+
+Q:Do you want to continue to next lesson [Y/N] ? 
+N:MENU
+
+# ###########################################################################
+
+*:MACHINE_INT
+B:Machine, Artificial, and Intelligence in General
+
+*:MI_1
+I:Alan Turing, 1950
+S:A computer would deserve to be called intelligent
+ :if it could deceive a human into believing that it was human.
+
+*:MI_2
+I:Alan Turing, 1947
+S:I believe that at the end of the century the use of words and general
+ :educated opinion will have altered so much that one will be able to
+ :speak of machines thinking without expecting to be contradicted.
+
+*:MI_3
+I:Alan Turing, 1951
+S:It seems probable that once the machine thinking method had started,
+ :it would not take long to outstrip our feeble powers.
+ :
+ :They would be able to converse with each other to sharpen their wits.
+ :At some stage therefore, we should have to expect the machines to take control.
 
 Q:Do you want to continue to next lesson [Y/N] ? 
 N:MENU
