@@ -1837,7 +1837,7 @@ I:[34] Gary William Flake, "The Computational Beauty of Nature"
 S:[Cont] But there are more possible mappings than possible programs; thus, there
  :are some things that simply cannot be computed.  The actual process of computing
  :can be defined in terms of a very small number of primitive operations, with
- :recursion and/or iteratiion comprising the most fundamental pieces of a computing
+ :recursion and/or iteration comprising the most fundamental pieces of a computing
  :device.  Computing devices can also make statements about other computing devices.
  :This leads to a fundamental paradox that ultimately exposes the limitations not
  :just of machine logic, but all of nature as well.
