@@ -1386,8 +1386,8 @@ S:Thirty years ago, we used to ask: Can a computer simulate all processes of log
 
 *:PHIL_10
 I:[10] Jordan Ellenberg, "How Not to Be Wrong: The Power of Mathmetical Thinking"
-S:Dividing one number by another is mere computation; knowing what to divide what
- :is mathematics.
+S:Dividing one number by another is mere computation; knowing what to divide by
+ :what is mathematics.
 
 *:PHIL_11
 I:[11] Rudy Rucker
