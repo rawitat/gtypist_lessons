@@ -1386,8 +1386,8 @@ S:Thirty years ago, we used to ask: Can a computer simulate all processes of log
 
 *:PHIL_10
 I:[10] Jordan Ellenberg, "How Not to Be Wrong: The Power of Mathmetical Thinking"
-S:Dividing one number by another is mere computation; knowing what to divide what
- :is mathematics.
+S:Dividing one number by another is mere computation; knowing what to divide by
+ :what is mathematics.
 
 *:PHIL_11
 I:[11] Rudy Rucker
@@ -3465,7 +3465,7 @@ S:Historically, languages designed for other people to use have been bad:
 
 *:L2_6
 I:[6] Glenn Ehrlich
-S:Programming in Lisp is like playing with the primodial forces of the universe.
+S:Programming in Lisp is like playing with the primordial forces of the universe.
  :It feels like lightning between your fingertips.  No other language even 
  :feels close.
 
