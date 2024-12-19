@@ -10,3 +10,6 @@ This is "Collection of famous quotes in computer programming, software developme
 $ gtypist programming_quotes.typ 
 ```
 Also see GNU Typist manual for other gtypist options.
+
+# Notes:
+If you're using macOS and using Homebrew version of GNU Typist and seeing every character as ^@, uninstall GNU Typist and re-install it should solve the problem.
