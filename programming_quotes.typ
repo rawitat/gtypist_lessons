@@ -766,7 +766,7 @@ S:The competent programmer is fully aware of the strictly limited size of his
  :among other things he avoids clever tricks like the plague.
 
 *:G4_21
-I:[21] Ricard Pattis
+I:[21] Richard Pattis
 S:If you cannot grok the overall structure of a program while taking a shower,
  :you are not ready to code it.
 
