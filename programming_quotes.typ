@@ -2988,89 +2988,89 @@ I:[3]
 S:Lessons of Unix can be applied elsewhere.
 
 *:UNIX_4
-I:[4] Basics of Unix Philosophy
+I:[4] Basics of the Unix Philosophy
 S:Rule of Modularity:
  :Write simple parts connected by clean interfaces.
 
 *:UNIX_5
-I:[5] Basics of Unix Philosophy
+I:[5] Basics of the Unix Philosophy
 S:Rule of Clarity:
  :Clarity is better than cleverness.
 
 *:UNIX_6
-I:[6] Basics of Unix Philosophy
+I:[6] Basics of the Unix Philosophy
 S:Rule of Composition:
  :Design programs to be connected with other programs.
 
 *:UNIX_7
-I:[7] Basics of Unix Philosophy
+I:[7] Basics of the Unix Philosophy
 S:Rule of Separation:
  :Separate policy from mechanism; separate interfaces from engines.
 
 *:UNIX_8
-I:[8] Basics of Unix Philosophy
+I:[8] Basics of the Unix Philosophy
 S:Rule of Simplicity:
  :Design for simplicity; add complexity only where you must.
 
 *:UNIX_9
-I:[9] Basics of Unix Philosophy
+I:[9] Basics of the Unix Philosophy
 S:Rule of Parsimony:
  :Write a big program only when it is clear by demonstration that
  :nothing else will do.
 
 *:UNIX_10
-I:[10] Basics of Unix Philosophy
+I:[10] Basics of the Unix Philosophy
 S:Rule of Transparency:
  :Design for visibility to make inspection and debugging easier.
 
 *:UNIX_11
-I:[11] Basics of Unix Philosophy
+I:[11] Basics of the Unix Philosophy
 S:Rule of Robustness:
  :Robustness is the child of transparency and simplicity.
 
 *:UNIX_12
-I:[12] Basics of Unix Philosophy
+I:[12] Basics of the Unix Philosophy
 S:Rule of Representation:
  :Fold knowledge into data, so program logic can be stupid and robust.
 
 *:UNIX_13
-I:[13] Basics of Unix Philosophy
+I:[13] Basics of the Unix Philosophy
 S:Rule of Least Surprise:
  :In interface design, always do the least surprising thing.
 
 *:UNIX_14
-I:[14] Basics of Unix Philosophy
+I:[14] Basics of the Unix Philosophy
 S:Rule of Silence:
  :When a program has nothing surprising to say, it should say nothing.
 
 *:UNIX_15
-I:[15] Basics of Unix Philosophy
+I:[15] Basics of the Unix Philosophy
 S:Rule of Repair:
  :Repair when you can -- but when you must fail, fail noisily and
  :as soon as possible.
 
 *:UNIX_16
-I:[16] Basics of Unix Philosophy
+I:[16] Basics of the Unix Philosophy
 S:Rule of Economy:
  :Programmer is expensive; conserve it in preference to machine time.
 
 *:UNIX_17
-I:[17] Basics of Unix Philosophy
+I:[17] Basics of the Unix Philosophy
 S:Rule of Generation:
  :Avoid hand-hacking; write programs to write programs when you can.
 
 *:UNIX_18
-I:[18] Basics of Unix Philosophy
+I:[18] Basics of the Unix Philosophy
 S:Rule of Optimization:
  :Prototype before polishing.  Get it working before you optimize it.
 
 *:UNIX_19
-I:[19] Basics of Unix Philosophy
+I:[19] Basics of the Unix Philosophy
 S:Rule of Diversity:
  :Distrust all claims for one true way.
 
 *:UNIX_20
-I:[20] Basics of Unix Philosophy
+I:[20] Basics of the Unix Philosophy
 S:Rule of Extensibility:
  :Design for the future, because it will be here sooner than you think.
 
