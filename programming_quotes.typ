@@ -476,7 +476,7 @@ N:MENU
 B:General Wisdoms in Programming and Code Writing #3
 
 *:G3_1
-I:[1] D. Jones
+I:[1] Douglas W. Jones
 S:The fastest algorithm can frequently be replaced by one that is almost as fast
  :and much easier to understand.
 
@@ -2636,7 +2636,7 @@ S:The very architecture of almost every computer today is designed to optimize
  :the performance of Fortran programs and its operating-system-level sister, C.
 
 *:OTM_10
-I:[10] D. Jones
+I:[10] Douglas W. Jones
 S:The fastest algorithm can frequently be replaced by one that is almost as fast
  :and much easier to understand.
 
