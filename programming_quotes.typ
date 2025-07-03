@@ -772,7 +772,7 @@ S:If you cannot grok the overall structure of a program while taking a shower,
 
 *:G4_22
 I:[22] Kurt Vonnegut
-S:If you can't write clearly, you probably don't think nearly as well as you think.
+S:If you can't write clearly  , you probably don't think nearly as well as you think.
 
 *:G4_23
 I:[23] James Gosling
@@ -1332,8 +1332,8 @@ B:Philosophical Thoughts: Man, Mind, Machine, etc.
 I:[1] Augusta Ada King, Countess of Lovelace ("Ada Lovelace")
 S:The Analytical Engine has no pretensions whatever to originate anything.  It can
  :do whatever we know how to order it to perform.  It can follow analysis; but it
- :has no power of anticipating any analytical relations or truths.  Its province to
- :assist us to making available what we are already acquainted with.
+ :has no power of anticipating any analytical relations or truths.  Its province is
+ :to assist us to making available what we are already acquainted with.
 
 *:PHIL_2
 I:[2] Alan Turing
